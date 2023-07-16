@@ -1,0 +1,125 @@
+{
+  "0": {
+    "ingredients": [
+      {
+        "ingredient": "ui",
+        "amount": "1"
+      },
+      {
+        "ingredient": "gele paprika",
+        "amount": "1"
+      },
+      {
+        "ingredient": "kipfilet",
+        "amount": "2"
+      },
+      {
+        "ingredient": "blikje tomatenpuree",
+        "amount": "½"
+      },
+      {
+        "ingredient": "kokosmelk",
+        "amount": "200 ml"
+      },
+      {
+        "ingredient": "garam masala",
+        "amount": "2 kl"
+      },
+      {
+        "ingredient": "tomaten",
+        "amount": "2"
+      },
+      {
+        "ingredient": "lente-uitjes",
+        "amount": "2"
+      },
+      {
+        "ingredient": "tortilla's",
+        "amount": "4"
+      },
+      {
+        "ingredient": "arachideolie",
+        "amount": "1 el"
+      },
+      {
+        "ingredient": "cayennepeper",
+        "amount": "½ kl"
+      },
+      {
+        "ingredient": "peper",
+        "amount": null
+      },
+      {
+        "ingredient": "zout",
+        "amount": null
+      }
+    ],
+    "preparation": [
+      "Snij de ui in halve ringen. Snij de gele paprika in fijne blokjes. Snij de kipfilet in blokjes.",
+      "Verhit de arachideolie in een antikleefpan en stoof de ui en paprika. Voeg na 2 minuten de cayennepeper (gebruik minder als je niet van pikant houdt) toe. Roer goed om en voeg dan de kippenblokjes toe. Laat 5 minuten bakken, tot de kip mooi gekleurd is. Kruid met peper en zout.",
+      "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
+      "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
+      "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
+    ],
+    "nutrition": [
+      {
+        "group": "Calorieën",
+        "amount": "795.38 kcal"
+      },
+      {
+        "group": "Koolhydraten",
+        "amount": "61.5 g"
+      },
+      {
+        "group": "waarvan suikers",
+        "amount": "13.95 g"
+      },
+      {
+        "group": "Vet",
+        "amount": "37.07 g"
+      },
+      {
+        "group": "waarvan verzadigd",
+        "amount": "23.39 g"
+      },
+      {
+        "group": "Proteïnen",
+        "amount": "46.92 g"
+      },
+      {
+        "group": "Vezels",
+        "amount": "6.69 g"
+      }
+    ],
+    "url": "https://15gram.be/recepten/wraps-kip-tikka-masala",
+    "people": 2,
+    "time": 25,
+    "keywords": [
+      "ui",
+      "gele paprika",
+      "kipfilet",
+      "tomatenpuree",
+      "kokosmelk",
+      "garam masala",
+      "tomaten",
+      "lente-uitjes",
+      "tortilla's",
+      "arachideolie",
+      "cayennepeper",
+      "peper",
+      "zout",
+      "hoofdgerecht",
+      "gevogelte",
+      "wrap",
+      "Indisch",
+      "kipfilet",
+      "kokosmelk",
+      "tortilla",
+      "glutenvrij",
+      "lactosevrij",
+      "snel klaar",
+      "makkelijk",
+      "hoog vezelgehalte"
+    ]
+  }
+}
