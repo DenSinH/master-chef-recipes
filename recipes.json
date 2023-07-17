@@ -15,7 +15,7 @@
       },
       {
         "ingredient": "blikje tomatenpuree",
-        "amount": "½"
+        "amount": "\u00bd"
       },
       {
         "ingredient": "kokosmelk",
@@ -43,7 +43,7 @@
       },
       {
         "ingredient": "cayennepeper",
-        "amount": "½ kl"
+        "amount": "\u00bd kl"
       },
       {
         "ingredient": "peper",
@@ -63,7 +63,7 @@
     ],
     "nutrition": [
       {
-        "group": "Calorieën",
+        "group": "Calorie\u00ebn",
         "amount": "795.38 kcal"
       },
       {
@@ -83,7 +83,7 @@
         "amount": "23.39 g"
       },
       {
-        "group": "Proteïnen",
+        "group": "Prote\u00efnen",
         "amount": "46.92 g"
       },
       {
@@ -99,27 +99,7 @@
       "gele paprika",
       "kipfilet",
       "tomatenpuree",
-      "kokosmelk",
-      "garam masala",
-      "tomaten",
-      "lente-uitjes",
-      "tortilla's",
-      "arachideolie",
-      "cayennepeper",
-      "peper",
-      "zout",
-      "hoofdgerecht",
-      "gevogelte",
-      "wrap",
-      "Indisch",
-      "kipfilet",
-      "kokosmelk",
-      "tortilla",
-      "glutenvrij",
-      "lactosevrij",
-      "snel klaar",
-      "makkelijk",
-      "hoog vezelgehalte"
+      "kokosmelk"
     ]
   }
 }
