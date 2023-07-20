@@ -1,5 +1,9 @@
 {
   "0": {
+    "name": "Wraps kip tikka masala",
+    "time": 25,
+    "people": 2,
+    "url": "https://15gram.be/recepten/wraps-kip-tikka-masala",
     "ingredients": [
       {
         "amount": "1",
@@ -54,7 +58,13 @@
         "ingredient": "zout"
       }
     ],
-    "name": "Wraps kip tikka masala",
+    "preparation": [
+      "Snij de ui in halve ringen. Snij de gele paprika in fijne blokjes. Snij de kipfilet in blokjes.",
+      "Verhit de arachideolie in een antikleefpan en stoof de ui en paprika. Voeg na 2 minuten de cayennepeper (gebruik minder als je niet van pikant houdt) toe. Roer goed om en voeg dan de kippenblokjes toe. Laat 5 minuten bakken, tot de kip mooi gekleurd is. Kruid met peper en zout.",
+      "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
+      "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
+      "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
+    ],
     "nutrition": [
       {
         "amount": "795.38 kcal",
@@ -85,22 +95,7 @@
         "group": "Vezels"
       }
     ],
-    "people": 2,
-    "preparation": [
-      "Snij de ui in halve ringen. Snij de gele paprika in fijne blokjes. Snij de kipfilet in blokjes.",
-      "Verhit de arachideolie in een antikleefpan en stoof de ui en paprika. Voeg na 2 minuten de cayennepeper (gebruik minder als je niet van pikant houdt) toe. Roer goed om en voeg dan de kippenblokjes toe. Laat 5 minuten bakken, tot de kip mooi gekleurd is. Kruid met peper en zout.",
-      "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
-      "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
-      "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
-    ],
-    "tags": [
-      "main dish",
-      "poultry",
-      "wrap",
-      "Indian",
-      "quick and easy"
-    ],
-    "time": 25,
-    "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
+    "tags": [],
+    "thumbnail": "https://image.15gram.be/uploads/recipes/8379_wraps-kip-tikka-masala_1535471113-1920x1280.jpg"
   }
 }
