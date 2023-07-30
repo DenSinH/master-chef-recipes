@@ -98,6 +98,52 @@
     "time": 25,
     "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
   },
+  "eaemnowyff": {
+    "ingredients": [
+      {
+        "amount": "250 g",
+        "ingredient": "romaatjes"
+      },
+      {
+        "amount": null,
+        "ingredient": "baguette"
+      },
+      {
+        "amount": "3 el",
+        "ingredient": "olijfolie"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": "1 zakje",
+        "ingredient": "geraspte mozzarella (150 g)"
+      },
+      {
+        "amount": "\u00bd bakje",
+        "ingredient": "vers basilicum"
+      }
+    ],
+    "name": "Eenpans mozzarella stokbrood schotel",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "Verwarm de oven voor op 200 \u00b0C. Snijd de romaatjes doormidden. Snijd het stokbrood in dunne plakjes van ca. \u00bd cm.",
+      "Verdeel de helft van het stokbrood over een grote ronde ovenschaal. Besprenkel met \u2153 van de olijfolie en bestrooi met de helft van de oregano, peper en eventueel zout. Verdeel de helft van de mozzarella en de helft van het basilicum over het brood. Verdeel de helft van de tomaatjes over de mozzarella en herhaal dit met de rest van het brood, mozzarella en tomaatjes en \u2153 van de olijfolie.",
+      "Bak de schaal 15 min. in de oven tot goudbruin. Haal uit de oven en besprenkel met de rest van de olijfolie en de rest van het basilicum."
+    ],
+    "tags": [
+      "oven dish",
+      "quick",
+      "appetizer",
+      "lunch",
+      "side dish"
+    ],
+    "thumbnail": "https://allerhande.bbvms.com/mediaclip/4312248/pthumbnail/900/500.jpg",
+    "time": null,
+    "url": "https://www.ah.nl/allerhande/video/R-V4312248/eenpans-mozzarella-stokbrood-schotel"
+  },
   "pifhanygmo": {
     "ingredients": [
       {
