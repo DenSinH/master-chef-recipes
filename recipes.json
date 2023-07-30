@@ -1,9 +1,5 @@
 {
   "0": {
-    "name": "Wraps kip tikka masala",
-    "time": 25,
-    "people": 2,
-    "url": "https://15gram.be/recepten/wraps-kip-tikka-masala",
     "ingredients": [
       {
         "amount": "1",
@@ -58,13 +54,7 @@
         "ingredient": "zout"
       }
     ],
-    "preparation": [
-      "Snij de ui in halve ringen. Snij de gele paprika in fijne blokjes. Snij de kipfilet in blokjes.",
-      "Verhit de arachideolie in een antikleefpan en stoof de ui en paprika. Voeg na 2 minuten de cayennepeper (gebruik minder als je niet van pikant houdt) toe. Roer goed om en voeg dan de kippenblokjes toe. Laat 5 minuten bakken, tot de kip mooi gekleurd is. Kruid met peper en zout.",
-      "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
-      "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
-      "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
-    ],
+    "name": "Wraps kip tikka masala",
     "nutrition": [
       {
         "amount": "795.38 kcal",
@@ -95,7 +85,68 @@
         "group": "Vezels"
       }
     ],
+    "people": 2,
+    "preparation": [
+      "Snij de ui in halve ringen. Snij de gele paprika in fijne blokjes. Snij de kipfilet in blokjes.",
+      "Verhit de arachideolie in een antikleefpan en stoof de ui en paprika. Voeg na 2 minuten de cayennepeper (gebruik minder als je niet van pikant houdt) toe. Roer goed om en voeg dan de kippenblokjes toe. Laat 5 minuten bakken, tot de kip mooi gekleurd is. Kruid met peper en zout.",
+      "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
+      "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
+      "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
+    ],
     "tags": [],
-    "thumbnail": "https://image.15gram.be/uploads/recipes/8379_wraps-kip-tikka-masala_1535471113-1920x1280.jpg"
+    "thumbnail": "https://image.15gram.be/uploads/recipes/8379_wraps-kip-tikka-masala_1535471113-1920x1280.jpg",
+    "time": 25,
+    "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
+  },
+  "pifhanygmo": {
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "rol bladerdeeg"
+      },
+      {
+        "amount": null,
+        "ingredient": "Olijfolie"
+      },
+      {
+        "amount": null,
+        "ingredient": "Balsamicoazijn"
+      },
+      {
+        "amount": "1-2",
+        "ingredient": "rode uien"
+      },
+      {
+        "amount": "200 gr",
+        "ingredient": "cherrytomaatjes"
+      },
+      {
+        "amount": null,
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": null,
+        "ingredient": "Peper en zout"
+      },
+      {
+        "amount": "Scheutje",
+        "ingredient": "plantaardige melk"
+      }
+    ],
+    "name": "ITALIAANSE UPSIDE DOWN TAARTJES",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "Verwarm de oven voor op 180 graden en bekleed een ovenplaat met bakpapier.",
+      "Snijd de rode ui in ringen, de tomaatjes in plakjes en het vers bladerdeeg in gelijke stukken.",
+      "Verdeel een eetlepel olijfolie op de bakplaat en doe er ook wat balsamicoazijn, kruiden en zout bij. Leg er de rode ui en plakjes tomaat op. Leg daar overheen een stuk bladerdeeg en druk het goed aan.",
+      "Druk met een vork in de randjes en herhaal dit met alle 6-9 taartjes. Bestrijk als laatste nog met wat plantaardige melk.",
+      "Zet de bakplaat in de oven en bak de taartjes in 20-25 goudbruin.",
+      "Draai ze voorzichtig om, garneer met verse basilicum en eventueel pijnboompitten en voil\u00e0!"
+    ],
+    "tags": [],
+    "thumbnail": "https://scontent-ams4-1.cdninstagram.com/v/t51.36329-15/363503788_111917838655537_9040473454181738592_n.jpg?stp=c216.0.648.648a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=4tFxpi1WU_EAX_sW0vT&_nc_ht=scontent-ams4-1.cdninstagram.com&oh=00_AfAGVojvHmOZRkyxfIMCXeuRLpv-kBFPHqZe73bwrCk9Kg&oe=64CB13EA",
+    "time": null,
+    "url": "https://www.instagram.com/reel/CvT9vFrq_3e/?igshid=NjIwNzIyMDk2Mg%3D%3D"
   }
 }
