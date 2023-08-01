@@ -157,6 +157,92 @@
     "time": null,
     "url": "https://www.instagram.com/reel/CvT9vFrq_3e/?igshid=NjIwNzIyMDk2Mg%3D%3D"
   },
+  "vpqlvmvtni": {
+    "date_created": 1690887792.27568,
+    "date_updated": 1690887792.27568,
+    "ingredients": [
+      {
+        "amount": "4 el",
+        "ingredient": "milde olijfolie"
+      },
+      {
+        "amount": "800 g",
+        "ingredient": "koelverse gnocchi"
+      },
+      {
+        "amount": "250 g",
+        "ingredient": "kastanjechampignons"
+      },
+      {
+        "amount": "350 g",
+        "ingredient": "kipdijfilet"
+      },
+      {
+        "amount": "250 g",
+        "ingredient": "cherrytomaten"
+      },
+      {
+        "amount": "185 g",
+        "ingredient": "Paturain Cuisine knoflook & fijne kruiden"
+      },
+      {
+        "amount": "100 g",
+        "ingredient": "geraspte belegen kaas"
+      },
+      {
+        "amount": "7.5 g",
+        "ingredient": "verse basilicum"
+      }
+    ],
+    "name": "Gnocchi ovenschotel met romige kip",
+    "nutrition": [
+      {
+        "amount": "805 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "69g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "1280mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "33g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "41g",
+        "group": "vet"
+      },
+      {
+        "amount": "17g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "9g",
+        "group": "vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven voor op 200 \u00baC. Verhit de helft van de olie in een grote koekenpan en bak de gnocchi in 15 min. goudgeel.",
+      "Maak ondertussen de champignons schoon met keukenpapier en snijd in vieren. Snijd de kipdijfilet in blokjes. Verhit de rest van de olie in een hapjespan en bak de kip 3 min. op middelhoog vuur. Voeg de champignons toe en bak 5 min. mee.",
+      "Halveer de cherrytomaten en voeg samen met de gnocchi toe aan de kip. Roer de Paturain Cuisine erdoor en warm 1 min. mee. Breng op smaak met peper.",
+      "Verdeel het mengsel over de ovenschaal en strooi de kaas erover. Bak de gnocchischotel ca. 15 min. in het midden van de oven tot de kaas gesmolten en lichtbruin is. Snijd het basilicum grof en verdeel over de ovenschotel."
+    ],
+    "tags": [
+      "oven dish",
+      "gnocchi",
+      "creamy",
+      "chicken",
+      "easy"
+    ],
+    "thumbnail": "https://static.ah.nl/static/recepten/img_RAM_PRD122160_1024x748_JPG.jpg",
+    "time": 40,
+    "url": "https://www.ah.nl/allerhande/recept/R-R1192683/gnocchi-ovenschotel-met-romige-kip"
+  },
   "ygeoavchcx": {
     "date_created": 1690886082.714525,
     "date_updated": 1690886082.714525,
