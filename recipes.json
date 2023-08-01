@@ -156,5 +156,67 @@
     "thumbnail": "https://scontent-ams4-1.cdninstagram.com/v/t51.36329-15/363503788_111917838655537_9040473454181738592_n.jpg?stp=c216.0.648.648a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=4tFxpi1WU_EAX_sW0vT&_nc_ht=scontent-ams4-1.cdninstagram.com&oh=00_AfAGVojvHmOZRkyxfIMCXeuRLpv-kBFPHqZe73bwrCk9Kg&oe=64CB13EA",
     "time": null,
     "url": "https://www.instagram.com/reel/CvT9vFrq_3e/?igshid=NjIwNzIyMDk2Mg%3D%3D"
+  },
+  "ygeoavchcx": {
+    "date_created": 1690886082.714525,
+    "date_updated": 1690886082.714525,
+    "ingredients": [
+      {
+        "amount": "150 gr",
+        "ingredient": "pasta"
+      },
+      {
+        "amount": "1",
+        "ingredient": "zalm moot of gerookte zalm"
+      },
+      {
+        "amount": "300 gr",
+        "ingredient": "diepvries bladspinazie"
+      },
+      {
+        "amount": "1,5 el",
+        "ingredient": "creme fraiche"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "kruiden roomkaas"
+      },
+      {
+        "amount": "4 tl",
+        "ingredient": "groene pesto"
+      },
+      {
+        "amount": null,
+        "ingredient": "Parmezaanse kaas"
+      },
+      {
+        "amount": null,
+        "ingredient": "pijnboompitten"
+      },
+      {
+        "amount": "snufje",
+        "ingredient": "zout en peper"
+      }
+    ],
+    "name": "Pasta pesto met spinazie en zalm",
+    "nutrition": null,
+    "people": 2,
+    "preparation": [
+      "Zet een pan water op en kook de pasta volgens de bereidingswijze op het pak.",
+      "Doe de spinazie in een pan en warm zachtjes op. Op de verpakking van onze spinazie stond dat je het op matig vuur ongeveer 7-8 minuten (in bevroren toestand) moet opwarmen.",
+      "Gebruik je een zalmmoot dan bak de zalm, terwijl de pasta aan het koken is en de spinazie aan het opwarmen is, gaar. Breng de zalm op smaak met peper en zout en doe een scheutje olie of boter in een koekenpan. Leg de zalm in de pan en bak ongeveer 1 minuut op hoog vuur. Zet daarna het vuur zachter en bak de zalm nog 2-3 minuten. Keer de zalm om en bak ook de andere kant nog 2-3 minuten op matig vuur totdat de zalm mooi gaar is.",
+      "Als de spinazie is opgewarmd doe je de pesto, creme fraiche en kruidenroomkaas erdoor en dan even roeren.",
+      "Giet de pasta af en meng met het spinazie mengsel. Verdeel de pasta over 2 borden. Snijd de zalm in stukjes en verdeel over de borden. Dan nog wat pijnboompitten en Parmezaanse kaas erover en smullen maar!"
+    ],
+    "tags": [
+      "pasta",
+      "quick",
+      "healthy",
+      "salmon",
+      "spinach"
+    ],
+    "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2016/10/IMG_9996.jpg",
+    "time": 20,
+    "url": "https://www.lekkerensimpel.com/pasta-pesto-met-spinazie-en-zalm/"
   }
 }
