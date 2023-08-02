@@ -233,6 +233,96 @@
     "time": 25,
     "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
   },
+  "veblossdih": {
+    "date_created": 1690974533.891053,
+    "date_updated": 1690974533.891053,
+    "ingredients": [
+      {
+        "amount": "2",
+        "ingredient": "uien (klein)"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "2-3",
+        "ingredient": "kipfilets"
+      },
+      {
+        "amount": "200",
+        "ingredient": "gram mango (in blokjes (vers of diepvries))"
+      },
+      {
+        "amount": "6",
+        "ingredient": "kleine wraps"
+      },
+      {
+        "amount": "100",
+        "ingredient": "gram cr\u00e8me fra\u00eeche"
+      },
+      {
+        "amount": "3-4",
+        "ingredient": "eetlepels groene pesto"
+      },
+      {
+        "amount": "100",
+        "ingredient": "gram Italiaanse ham (zoals crudo of prosciutto)"
+      },
+      {
+        "amount": "75",
+        "ingredient": "gram veldsla"
+      },
+      {
+        "amount": null,
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper en zout"
+      }
+    ],
+    "name": "Wrap mango en kip",
+    "nutrition": [
+      {
+        "amount": "322kcal",
+        "group": "Calorie\u00ebn"
+      },
+      {
+        "amount": "22g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "22g",
+        "group": "Eiwitten"
+      },
+      {
+        "amount": "15g",
+        "group": "Vetten"
+      },
+      {
+        "amount": "6g",
+        "group": "Verzadigd vet"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Snipper de uitjes en snijd de teentjes knoflook fijn. Snijd de kipfilets in blokjes. Was de sla indien nodig.",
+      "Verhit een beetje olijfolie in een koekenpan en fruit vervolgens het uitje en de knoflook aan tot deze glazig worden. Voeg dan de kipfilet in blokjes toe. Bak de kipfilet al omscheppend gaar en kruid deze met 2 tot 3 eetlepels chilisaus en paprikapoeder, peper en zout naar smaak. Als de kip gaar is, schep je de mango erdoorheen en zet je het vuur uit.",
+      "Bereid de wraps zoals op de verpakking aangegeven of gebruik lekkere zelfgemaakte wraps.",
+      "Verdeel een (kleine) eetlepel cr\u00e8me fra\u00eeche en een eetlepel pesto over de wrap. Leg hierop een plakje Italiaanse ham en verdeel daarover ongeveer 3 eetlepels van de mango en kip. Garneer tot slot met een klein handje veldsla en rol de wraps dicht. Eet smakelijk!"
+    ],
+    "tags": [
+      "wraps",
+      "quick",
+      "chicken",
+      "mango",
+      "spicy"
+    ],
+    "thumbnail": "https://www.eefkooktzo.nl/wp-content/uploads/2016/09/Wrap-mango-en-kip.jpg",
+    "time": 20,
+    "url": "https://www.eefkooktzo.nl/wrap-mango-en-kip/"
+  },
   "vpqlvmvtni": {
     "date_created": 1690887792.27568,
     "date_updated": 1690887792.27568,
