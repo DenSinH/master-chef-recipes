@@ -1,4 +1,101 @@
 {
+  "ajzrkavhof": {
+    "date_created": 1692378754.23941,
+    "date_updated": 1692378754.23941,
+    "ingredients": [
+      {
+        "amount": "1 lb",
+        "ingredient": "Chicken thighs"
+      },
+      {
+        "amount": null,
+        "ingredient": "red bell pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "green bell pepper"
+      },
+      {
+        "amount": "1 small",
+        "ingredient": "yellow onion"
+      },
+      {
+        "amount": "1/3 cup",
+        "ingredient": "coconut aminos"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "chicken stock"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sesame oil"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "ground ginger"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "minced garlic"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "honey"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "rice vinegar"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "cornstarch"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "cashews"
+      },
+      {
+        "amount": "Salt & pepper",
+        "ingredient": "to taste"
+      },
+      {
+        "amount": null,
+        "ingredient": "Avocado oil spray"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sesame seeds (for garnish)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Green onions (for garnish)"
+      }
+    ],
+    "name": "20 Minute Cashew Chicken",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Start off by cutting the chicken thighs into bite size cubes and place in a bowl. Season with salt and pepper and mix well.",
+      "Preheat a pan to medium high heat and spray with some avocado oil. Once heated add the chicken pieces cooking for about 5-7 minutes, stirring occasionally, until the temperature reaches 165 degrees.",
+      "While the chicken is cooking chop the bell peppers and onions into large chunks.",
+      "Once the chicken has cooked, add in the peppers and onions to the pan and saute for about 5 minutes, stirring occasionally, until the veggies start to become soft and have some char to them.",
+      "Next you\u2019ll start on the sauce. In medium sized bowl add in 1/3 cup coconut aminos, 1/2 cup chicken stock, 1 tsp sesame oil, 1 tsp ginger powder, 1 tbs minced garlic, 1 tbs honey, 1 tbs rice vinegar, and 1 tbs cornstarch. Mix well until the cornstarch is fully incorporated.",
+      "Now that the veggies are cooked add in the sauce and mix well. Simmer for a few minutes on low until the sauce becomes thick.",
+      "You\u2019ll then mix in the 1/2 cup cashews and let it simmer for just a minute or so to warm them up.",
+      "Serve with cauliflower rice or regular rice then top with some freshly chopped green onion and some sesame seeds. Enjoy!"
+    ],
+    "tags": [
+      "quick",
+      "easy",
+      "healthy",
+      "stir-fry",
+      "cashews"
+    ],
+    "thumbnail": "http://static1.squarespace.com/static/63dc66df33b458676fc70f98/63dc6797b9594852e23521ef/64c2b28d4947f72198e595a2/1691109110095/IMG_5636_jpg.jpg?format=1500w",
+    "time": 20,
+    "url": "https://www.caileeeats.com/recipes/20-minute-cashew-chicken"
+  },
   "bhupwszewa": {
     "date_created": 1690887854.525666,
     "date_updated": 1690887854.525666,
