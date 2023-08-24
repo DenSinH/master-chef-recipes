@@ -368,6 +368,75 @@
     "time": 25,
     "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
   },
+  "nknaqtdckq": {
+    "date_created": 1692896699.725175,
+    "date_updated": 1692896699.725175,
+    "ingredients": [
+      {
+        "amount": "400 gr",
+        "ingredient": "Chicken"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Onion"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Bell Peppers"
+      },
+      {
+        "amount": "250 gr",
+        "ingredient": "Kidney Beans"
+      },
+      {
+        "amount": "250 gr",
+        "ingredient": "Tomato Cubes"
+      },
+      {
+        "amount": null,
+        "ingredient": "Cumin"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chili Powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Oregano"
+      },
+      {
+        "amount": null,
+        "ingredient": "Garlic Powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Paprika Powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Lime"
+      }
+    ],
+    "name": "Mexican Chicken and Rice",
+    "nutrition": null,
+    "people": 2,
+    "preparation": [
+      "Cut the chicken into cubes and add 1 tsp of cumin, 2 tsp of paprika, 2 tsp of oregano, 1 tsp chili powder, some salt and pepper and some lime. Mix the chicken and the spices.",
+      "In a frying pan, fry the chicken until done. Remove the chicken from the pan.",
+      "Cut the bell peppers and the onion. Fry them for a few minutes, then add the beans, rice, more of the seasoning you added to the chicken (the same amounts), fry for a minute and then add the tomatoes and 150ml of water.",
+      "Let it simmer for about 10 minutes (or until the rice is done), add the chicken and you're done."
+    ],
+    "tags": [
+      "Meal prep",
+      "Chicken",
+      "Mexican",
+      "Rice",
+      "Easy"
+    ],
+    "thumbnail": null,
+    "time": 25,
+    "url": "https://www.instagram.com/reel/Cu2KZ-BoKUS"
+  },
   "veblossdih": {
     "date_created": 1690974533.891053,
     "date_updated": 1690974533.891053,
