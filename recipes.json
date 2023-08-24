@@ -437,6 +437,100 @@
     "time": 25,
     "url": "https://www.instagram.com/reel/Cu2KZ-BoKUS"
   },
+  "todrsgtaks": {
+    "date_created": 1692904543.017555,
+    "date_updated": 1692904543.017555,
+    "ingredients": [
+      {
+        "amount": "450 grams",
+        "ingredient": "chicken breasts"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1 1/2 teaspoon",
+        "ingredient": "dried thyme"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "ground black pepper"
+      },
+      {
+        "amount": "5",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": "1",
+        "ingredient": "medium zucchini"
+      },
+      {
+        "amount": "250 ml",
+        "ingredient": "heavy cream"
+      },
+      {
+        "amount": "100 grams",
+        "ingredient": "parmesan cheese"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "sun-dried tomato pesto"
+      },
+      {
+        "amount": "500 grams",
+        "ingredient": "fresh gnocchi"
+      }
+    ],
+    "name": "Creamy Pesto Chicken Gnocchi",
+    "nutrition": [
+      {
+        "amount": "791",
+        "group": "Calories"
+      },
+      {
+        "amount": "47 g",
+        "group": "Fat"
+      },
+      {
+        "amount": "35 g",
+        "group": "Protein"
+      },
+      {
+        "amount": "57 g",
+        "group": "Carbs"
+      },
+      {
+        "amount": "6 g",
+        "group": "Sugars"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Start by prepping your chicken. Pat the chicken breasts dry and season them generously with the dried thyme, smoked paprika, salt, and black pepper. Ensure each piece is well-coated for maximum flavor.",
+      "Heat the olive oil in a large pan over medium heat. When it\u2019s shimmering, add the chicken breasts and sear them until they're golden brown and cooked through, which should take about 5-6 minutes per side depending on thickness. Once done, transfer the chicken to a plate and let it rest - it\u2019s done its part for now.",
+      "To the same pan, add a splash of water to deglaze it. This helps lift those tasty, caramelized bits stuck to the bottom of the pan, which are full of flavor. Add your minced garlic and sliced zucchini into the pan, stir them around, and cook until the zucchini is tender and the garlic is wonderfully fragrant.",
+      "Pour in the heavy cream, followed by the Parmesan cheese. Stir until the cheese melts into the cream, forming a thick sauce. Bring your fresh gnocchi to the party by adding them directly into the sauce. Cook them for about 5 minutes, until they become tender and have soaked up some of that creamy sauce. To this, add the sun-dried tomato pesto and stir well. Add the chicken back to the pan and finish with an extra sprinkle of Parmesan and fresh basil if you have it. Enjoy!"
+    ],
+    "tags": [
+      "creamy",
+      "pesto",
+      "chicken",
+      "gnocchi",
+      "easy"
+    ],
+    "thumbnail": "https://www.recipesbyanne.com/wp-content/uploads/2023/07/IMG_9590-scaled.jpg",
+    "time": 20,
+    "url": "https://www.recipesbyanne.com/recipe/creamy-pesto-chicken-gnocchi/"
+  },
   "veblossdih": {
     "date_created": 1690974533.891053,
     "date_updated": 1690974533.891053,
