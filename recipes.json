@@ -164,6 +164,96 @@
     "time": 15,
     "url": "https://www.leukerecepten.nl/recepten/gnocchi-in-truffelsaus/"
   },
+  "ktlzynexmd": {
+    "date_created": 1693413241.705715,
+    "date_updated": 1693413241.705715,
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "groentebouillonblokje"
+      },
+      {
+        "amount": "2",
+        "ingredient": "sjalotten, gesnipperd"
+      },
+      {
+        "amount": "4",
+        "ingredient": "el olijfolie"
+      },
+      {
+        "amount": "300",
+        "ingredient": "gram risottorijst"
+      },
+      {
+        "amount": "150",
+        "ingredient": "ml witte wijn"
+      },
+      {
+        "amount": "185",
+        "ingredient": "gram Grand'Italia Pesto alla Genovese 185g"
+      },
+      {
+        "amount": "400",
+        "ingredient": "gram spinazie"
+      },
+      {
+        "amount": "300",
+        "ingredient": "gram reuzengarnalen, gepeld en schoongemaakt"
+      },
+      {
+        "amount": "100",
+        "ingredient": "gram Parmezaanse kaas, geraspt"
+      },
+      {
+        "amount": "15",
+        "ingredient": "gram basilicum"
+      }
+    ],
+    "name": "Risotto con pesto e gamberi",
+    "nutrition": [
+      {
+        "amount": "795kcal",
+        "group": "Energie"
+      },
+      {
+        "amount": "66g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "31g",
+        "group": "Eiwitten"
+      },
+      {
+        "amount": "43g",
+        "group": "Vetten"
+      },
+      {
+        "amount": "5g",
+        "group": "Vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Breng 1 liter water aan de kook en los hierin het groentebouillonblokje op.",
+      "Fruit de sjalotten 3 min. in 2 el olijfolie in een ruime pan. Voeg de rijst toe en bak een paar min. mee tot de rijst goed heet is. Roer goed.",
+      "Schenk de wijn in de pan en roer regelmatig tot alle wijn is opgenomen. Doe \u00bc deel van de bouillon erbij en roer tot de bouillon is opgenomen. Schep dan weer \u00bc deel bouillon erbij. Roer tot de bouillon is opgenomen en schep er de helft van de pesto door met de rest van de bouillon.",
+      "Blijf nog 10 min. roeren tot al het vocht is opgenomen en de rijst bijna beetgaar is. Roer de spinazie erdoor en verwarm de risotto nog 5 min. op laag vuur met een deksel op de pan. Zet het vuur uit en laat het gerecht nog 5 min. doorgaren.",
+      "Bak ondertussen de garnalen 4 min. in een koekenpan in de rest van de olie. Schep er de rest van de pesto door en verwarm alles nog 1 min.",
+      "Pluk de blaadjes van het basilicum. Houd wat kleine blaadjes apart en snijd de grote in reepjes.",
+      "Haal de pan risotto van het vuur en roer de helft van de Parmezaanse kaas en de reepjes basilicum erdoor.",
+      "Verdeel de rijst over diepe borden en schep er de pestogarnalen op. Bestrooi met de rest van de kaas en garneer met de basilicumblaadjes."
+    ],
+    "tags": [
+      "Italian",
+      "Risotto",
+      "Pesto",
+      "Seafood",
+      "Creamy"
+    ],
+    "thumbnail": "https://granditaliacdnprodimages.azureedge.net/files/styles/recipe_main_image_670x420/windowsazurestorage/recipes/2020-02/18/1026/Recept%20Risotto%20con%20pesto%20e%20gamberi%20Grand'Italia.jpg",
+    "time": 40,
+    "url": "https://www.granditalia.nl/recepten/recept-Risotto-con-pesto/"
+  },
   "kunukalxde": {
     "date_created": 1691329753.204298,
     "date_updated": 1691329753.204298,
