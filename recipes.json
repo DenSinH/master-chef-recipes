@@ -701,7 +701,7 @@
   },
   "nyzrigdglr": {
     "date_created": 1693843635.662224,
-    "date_updated": 1693907893.753804,
+    "date_updated": 1694352168.331884,
     "ingredients": [
       {
         "amount": "500 gram",
@@ -710,18 +710,6 @@
       {
         "amount": "150 gram",
         "ingredient": "mais"
-      },
-      {
-        "amount": "150 gram",
-        "ingredient": "geraspte kaas"
-      },
-      {
-        "amount": "125 gram",
-        "ingredient": "zure room"
-      },
-      {
-        "amount": "6",
-        "ingredient": "tortilla wraps"
       },
       {
         "amount": "1 blikje",
@@ -734,6 +722,26 @@
       {
         "amount": "1",
         "ingredient": "ui"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Paprikas"
+      },
+      {
+        "amount": "150 gram",
+        "ingredient": "Kidneybonen"
+      },
+      {
+        "amount": "6",
+        "ingredient": "tortilla wraps"
+      },
+      {
+        "amount": "125 gram",
+        "ingredient": "zure room"
+      },
+      {
+        "amount": "150 gram",
+        "ingredient": "geraspte kaas"
       },
       {
         "amount": "1 eetlepel",
@@ -766,14 +774,6 @@
       {
         "amount": null,
         "ingredient": "Olie peper en zout"
-      },
-      {
-        "amount": "150 gram",
-        "ingredient": "Kidneybonen"
-      },
-      {
-        "amount": "2",
-        "ingredient": "Paprikas"
       }
     ],
     "name": "Simpele burritos met gehakt",
@@ -809,6 +809,7 @@
       "Verdeel een beetje zure room over de wrap, verdeel er daarna wat gehakt over, de saus en tot slot wat geraspte kaas.",
       "Tot slot verdeel je nog wat tomatensaus over de bovenkant en de geraspte kaas."
     ],
+    "remarks": null,
     "tags": [
       "Mexican cuisine",
       "Easy recipe",
