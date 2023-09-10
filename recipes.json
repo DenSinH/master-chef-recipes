@@ -166,11 +166,15 @@
   },
   "cohbqlsmuo": {
     "date_created": 1693565658.861192,
-    "date_updated": 1693565850.947467,
+    "date_updated": 1694357588.779332,
     "ingredients": [
       {
         "amount": "1 kilo",
         "ingredient": "kipfilet"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "spaghetti"
       },
       {
         "amount": "handje",
@@ -225,16 +229,12 @@
         "ingredient": "tijm"
       },
       {
-        "amount": "heel veel",
-        "ingredient": "parmezaanse kaas"
-      },
-      {
         "amount": "halve theelepel",
         "ingredient": "knoflookpoeder"
       },
       {
-        "amount": "400 gram",
-        "ingredient": "spaghetti"
+        "amount": "heel veel",
+        "ingredient": "parmezaanse kaas"
       },
       {
         "amount": "theelepel",
@@ -242,13 +242,19 @@
       }
     ],
     "name": "fuck me now chicken",
-    "nutrition": null,
+    "nutrition": [
+      {
+        "amount": null,
+        "group": "None"
+      }
+    ],
     "people": 4,
     "preparation": [
       "Meng de tarwebloem, zout, peper, paprikapoeder, de helft van de chilivlokken, en knoflookpoeder op een bord of schaal door elkaar. Paneer de kip met het mengsel, terwijl je boter en olie in een grote pan verwarmt. Bak de kip dan aan beide kanten goudbruin (deze hoeft vanbinnen niet gaar te zijn) en verplaats de kip dan naar een schaal. Dek deze af met aluminiumfolie en zet opzij.\r\n\r\nZet ondertussen een pan water op het vuur. ",
       "Hak de knoflook fijn en snij de zongedroogde tomaten in stukjes. Voeg de knoflook samen met wat extra boter toe aan de pan, en gooi na een minuut of twee de tomaten erbij. Blus dit af met de bouillon en voeg dan de kookroom eraan toe. Peper, zout, oregano, tijm, peterselie, chilivlokken, en parmezaan mogen dan in de saus. Laat de saus iets indikken. \r\n\r\nWanneer het water kookt en is gezouten, mag hier de pasta aan toegevoegd worden.",
       "Voeg de kip plus eventuele sappen terug toe aan de pan met saus. laat dit een aantal minuten staan om de kip door te laten garen. Wanneer de pasta en de kip gaar zijn kan het worden opgediend!"
     ],
+    "remarks": null,
     "tags": [
       "Kip",
       "Pasta",
