@@ -915,6 +915,121 @@
     "time": 20,
     "url": "https://www.recipesbyanne.com/recipe/creamy-pesto-chicken-gnocchi/"
   },
+  "uoswlnrpbk": {
+    "date_created": 1694357446.74826,
+    "date_updated": 1694357446.74826,
+    "ingredients": [
+      {
+        "amount": "300 g",
+        "ingredient": "volkoren penne"
+      },
+      {
+        "amount": "190 g",
+        "ingredient": "rode pesto"
+      },
+      {
+        "amount": "100 g",
+        "ingredient": "creme fraice"
+      },
+      {
+        "amount": null,
+        "ingredient": "rucola"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tomaten"
+      },
+      {
+        "amount": "2",
+        "ingredient": "paprikas"
+      },
+      {
+        "amount": "3",
+        "ingredient": "teentje knoflook"
+      },
+      {
+        "amount": "30 g",
+        "ingredient": "pijnboompitten"
+      },
+      {
+        "amount": "60 g",
+        "ingredient": "zongedroogde tomaten"
+      },
+      {
+        "amount": "50 g",
+        "ingredient": "parmezaan"
+      },
+      {
+        "amount": "500 g",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "olijfolie extra vierge"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout"
+      }
+    ],
+    "name": "Volkoren penne met rode pesto en gegrilde kip",
+    "nutrition": [
+      {
+        "amount": "890.28 kcal",
+        "group": "Calorie\u00ebn"
+      },
+      {
+        "amount": "73.57 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "6.35 g",
+        "group": "waarvan suikers"
+      },
+      {
+        "amount": "37.94 g",
+        "group": "Vet"
+      },
+      {
+        "amount": "7.22 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "56.99 g",
+        "group": "Prote\u00efnen"
+      },
+      {
+        "amount": "13.03 g",
+        "group": "Vezels"
+      }
+    ],
+    "people": 3,
+    "preparation": [
+      "Breng een pot gezouten water aan de kook en kook de volkoren penne beetgaar in 8-9 minuten. Giet de pasta af, maar hou wat van het kookvocht bij.",
+      "Snij de tomaat, de zongedroogde tomaatjes en de paprikas in blokjes.",
+      "Pel de knoflook en snipper de ui. Snijd de kipfilet in blokjes. Bak de knoflook en de ui even aan. ",
+      "Voeg dan de kip toe. Verwarm een grillpan en bak de kipfilets 3-4 minuten aan elke kant. Breng op smaak met peper en zout. Wanneer deze bijna klaar is voeg je de paprika toe.",
+      "Bak even door, en voeg dan de tomaten en zongedroogde tomaten toe. ",
+      "Voeg dan de pesto en de creme fraiche toe en laat even doorpruttelen.",
+      "Bak de pijnboompitten aan.",
+      "Serveer en garneer met rucola, pijnboompitten en parmezaan."
+    ],
+    "remarks": "Je kan ook courgette gebruiken als toevoeging of vervanging van de paprika.",
+    "tags": [
+      "main dish",
+      "pasta dish",
+      "poultry",
+      "European",
+      "Italian"
+    ],
+    "thumbnail": "https://image.15gram.be/uploads/recipes/10354_volkoren-penne-met-rode-pesto-en-gegrilde-kip_1648222449-1920x1280.jpg",
+    "time": 20,
+    "url": "https://15gram.be/recepten/volkoren-penne-met-rode-pesto-en-gegrilde-kip"
+  },
   "veblossdih": {
     "date_created": 1690974533.891053,
     "date_updated": 1690974533.891053,
