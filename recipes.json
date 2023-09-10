@@ -338,7 +338,7 @@
   },
   "ktlzynexmd": {
     "date_created": 1693413241.705715,
-    "date_updated": 1694351433.051613,
+    "date_updated": 1694357961.470041,
     "ingredients": [
       {
         "amount": "1",
@@ -349,36 +349,36 @@
         "ingredient": "sjalotten, gesnipperd"
       },
       {
-        "amount": "4",
-        "ingredient": "el olijfolie"
+        "amount": "300 gram",
+        "ingredient": "risottorijst"
       },
       {
-        "amount": "300",
-        "ingredient": "gram risottorijst"
+        "amount": "150 ml",
+        "ingredient": "witte wijn"
       },
       {
-        "amount": "150",
-        "ingredient": "ml witte wijn"
+        "amount": "185 gram",
+        "ingredient": "Grand'Italia Pesto alla Genovese"
       },
       {
-        "amount": "185",
-        "ingredient": "gram Grand'Italia Pesto alla Genovese 185g"
+        "amount": "400 gram",
+        "ingredient": "spinazie"
       },
       {
-        "amount": "400",
-        "ingredient": "gram spinazie"
+        "amount": "300 gram",
+        "ingredient": "reuzengarnalen, gepeld en schoongemaakt"
       },
       {
-        "amount": "300",
-        "ingredient": "gram reuzengarnalen, gepeld en schoongemaakt"
+        "amount": "100 gram",
+        "ingredient": "Parmezaanse kaas, geraspt"
       },
       {
-        "amount": "100",
-        "ingredient": "gram Parmezaanse kaas, geraspt"
+        "amount": "4 el",
+        "ingredient": "olijfolie"
       },
       {
-        "amount": "15",
-        "ingredient": "gram basilicum"
+        "amount": "15 gram",
+        "ingredient": "basilicum"
       }
     ],
     "name": "Risotto con pesto e gamberi",
