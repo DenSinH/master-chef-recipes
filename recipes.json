@@ -259,6 +259,81 @@
     "time": 40,
     "url": "https://www.instagram.com/p/CqgjDS-ga_F/"
   },
+  "gxhoagwyip": {
+    "date_created": 1694347042.436157,
+    "date_updated": 1694347042.436157,
+    "ingredients": [
+      {
+        "amount": "1 kg",
+        "ingredient": "zoete aardappel"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "uienpoeder"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "knoflookpoeder"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "gerookt paprikapoeder"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "traditionele olijfolie"
+      }
+    ],
+    "name": "Zoete-aardappel friet",
+    "nutrition": [
+      {
+        "amount": "280 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "46g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "85mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "3g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "8g",
+        "group": "vet"
+      },
+      {
+        "amount": "1g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "5g",
+        "group": "vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven voor op 230 \u00b0C.",
+      "Snijd in dikke frites en verdeel over een met bakpapier beklede bakplaat.",
+      "Bestrooi met het uienpoeder, knoflookpoeder, gerookte-paprikapoeder en eventueel zout.",
+      "Besprenkel met de olijfolie en schep om, zodat alles gelijkmatig is verdeeld.",
+      "Bak de frites in het midden van de oven in ca. 35 min. gaar. Schep elke 10 min. om."
+    ],
+    "tags": [
+      "Sweet potato fries",
+      "Healthy",
+      "Oven-baked",
+      "Side dish",
+      "Vegan"
+    ],
+    "thumbnail": "https://static.ah.nl/static/recepten/img_078546_1024x748_JPG.jpg",
+    "time": 45,
+    "url": "https://www.ah.nl/r/1186993"
+  },
   "ktlzynexmd": {
     "date_created": 1693413241.705715,
     "date_updated": 1693413241.705715,
