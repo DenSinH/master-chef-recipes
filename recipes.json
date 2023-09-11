@@ -166,7 +166,7 @@
   },
   "cohbqlsmuo": {
     "date_created": 1693565658.861192,
-    "date_updated": 1694357699.84535,
+    "date_updated": 1694452944.848331,
     "ingredients": [
       {
         "amount": "1 kilo",
@@ -179,10 +179,6 @@
       {
         "amount": "handje",
         "ingredient": "tarwebloem"
-      },
-      {
-        "amount": "theelepel",
-        "ingredient": "paprikapoeder"
       },
       {
         "amount": "snuf",
@@ -221,6 +217,14 @@
         "ingredient": "kippenbouillon"
       },
       {
+        "amount": "heel veel",
+        "ingredient": "parmezaanse kaas"
+      },
+      {
+        "amount": "theelepel",
+        "ingredient": "paprikapoeder"
+      },
+      {
         "amount": "theelepel",
         "ingredient": "oregano"
       },
@@ -231,10 +235,6 @@
       {
         "amount": "halve theelepel",
         "ingredient": "knoflookpoeder"
-      },
-      {
-        "amount": "heel veel",
-        "ingredient": "parmezaanse kaas"
       },
       {
         "amount": "theelepel",
