@@ -831,11 +831,35 @@
   },
   "todrsgtaks": {
     "date_created": 1692904543.017555,
-    "date_updated": 1692904543.017555,
+    "date_updated": 1694535857.058557,
     "ingredients": [
       {
         "amount": "450 grams",
         "ingredient": "chicken breasts"
+      },
+      {
+        "amount": "500 grams",
+        "ingredient": "fresh gnocchi"
+      },
+      {
+        "amount": "250 ml",
+        "ingredient": "heavy cream"
+      },
+      {
+        "amount": "1",
+        "ingredient": "medium zucchini"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "sun-dried tomato pesto"
+      },
+      {
+        "amount": "100 grams",
+        "ingredient": "parmesan cheese"
+      },
+      {
+        "amount": "5",
+        "ingredient": "garlic cloves"
       },
       {
         "amount": "2 tablespoons",
@@ -847,7 +871,7 @@
       },
       {
         "amount": "1 teaspoon",
-        "ingredient": "smoked paprika"
+        "ingredient": "smoked paprika powder"
       },
       {
         "amount": "1 teaspoon",
@@ -856,30 +880,6 @@
       {
         "amount": "1/2 teaspoon",
         "ingredient": "ground black pepper"
-      },
-      {
-        "amount": "5",
-        "ingredient": "garlic cloves"
-      },
-      {
-        "amount": "1",
-        "ingredient": "medium zucchini"
-      },
-      {
-        "amount": "250 ml",
-        "ingredient": "heavy cream"
-      },
-      {
-        "amount": "100 grams",
-        "ingredient": "parmesan cheese"
-      },
-      {
-        "amount": "2 tablespoons",
-        "ingredient": "sun-dried tomato pesto"
-      },
-      {
-        "amount": "500 grams",
-        "ingredient": "fresh gnocchi"
       }
     ],
     "name": "Creamy Pesto Chicken Gnocchi",
@@ -912,6 +912,7 @@
       "To the same pan, add a splash of water to deglaze it. This helps lift those tasty, caramelized bits stuck to the bottom of the pan, which are full of flavor. Add your minced garlic and sliced zucchini into the pan, stir them around, and cook until the zucchini is tender and the garlic is wonderfully fragrant.",
       "Pour in the heavy cream, followed by the Parmesan cheese. Stir until the cheese melts into the cream, forming a thick sauce. Bring your fresh gnocchi to the party by adding them directly into the sauce. Cook them for about 5 minutes, until they become tender and have soaked up some of that creamy sauce. To this, add the sun-dried tomato pesto and stir well. Add the chicken back to the pan and finish with an extra sprinkle of Parmesan and fresh basil if you have it. Enjoy!"
     ],
+    "remarks": null,
     "tags": [
       "creamy",
       "pesto",
