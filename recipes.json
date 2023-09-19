@@ -96,6 +96,82 @@
     "time": 20,
     "url": "https://www.caileeeats.com/recipes/20-minute-cashew-chicken"
   },
+  "anwguqjmjy": {
+    "date_created": 1695115133.570012,
+    "date_updated": 1695115133.570012,
+    "ingredients": [
+      {
+        "amount": "2",
+        "ingredient": "bakken kastagnechampignons"
+      },
+      {
+        "amount": "500 g",
+        "ingredient": "gemengd gehakt"
+      },
+      {
+        "amount": "4 el",
+        "ingredient": "olijfolie"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "creme fraiche"
+      },
+      {
+        "amount": "80 g",
+        "ingredient": "Parmezaanse kaas"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "bloem"
+      },
+      {
+        "amount": "500 g",
+        "ingredient": "gnocchi (Rummo)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "prei"
+      }
+    ],
+    "name": "Gnocchi met romige paddenstoelen-gehaktsaus",
+    "nutrition": [
+      {
+        "amount": "861 kcal",
+        "group": "Energie"
+      },
+      {
+        "amount": "52 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "41 g",
+        "group": "Eiwitten"
+      },
+      {
+        "amount": "53 g",
+        "group": "Vet"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Verhit 2 el olijfolie in een ruime koekenpan en bak de gnocchi in 15 min. krokant.",
+      "Snipper de sjalot uit de soeppakketten. Veeg de paddenstoelen schoon en snijd grof. Verhit 2 el olie in een hapjespan en fruit de sjalot 1 min. Voeg de paddenstoelen toe en bak 5 min. op hoog vuur aan.",
+      "Halveer intussen de prei in de lengte, spoel goed af en snijd in halve ringen. Voeg de prei toe aan de paddenstoelen en bak 5 min. mee. Voeg het gehakt toe en bak rul.",
+      "Voeg 1 el bloem toe en bak 1 min. mee. Verkruimel er een half bouillonblokje over. Schenk er de slagroom bij, roer door en verwarm 1 min. Schep de gnocchi door de saus en breng op smaak.",
+      "Snijd de peterselie fijn. Schep de gnocchi op 4 borden. Rasp er de Parmezaanse kaas over en garneer met de peterselie. Tip! je houdt bloem en 1 bouillonblokje over. Handig voor de voorraadkast!"
+    ],
+    "remarks": null,
+    "tags": [
+      "Gnocchi",
+      "Creamy",
+      "Mushrooms",
+      "Ground meat",
+      "Quick"
+    ],
+    "thumbnail": "https://static-images.jumbo.com/product_images/Recipe_504911-01_560x560.jpg",
+    "time": 20,
+    "url": "https://www.jumbo.com/recepten/gnocchi-met-romige-paddenstoelen-gehaktsaus-504911"
+  },
   "bhupwszewa": {
     "date_created": 1690887854.525666,
     "date_updated": 1690887854.525666,
