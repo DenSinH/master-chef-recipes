@@ -1502,6 +1502,103 @@
     "time": 60,
     "url": "https://www.keukenliefde.nl/gehaktballen-van-restaurant-de-librije/"
   },
+  "wpbklgujmp": {
+    "date_created": 1698518604.650482,
+    "date_updated": 1698518604.650482,
+    "ingredients": [
+      {
+        "amount": "300 gr",
+        "ingredient": "kippendijen (of vega kip)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ui"
+      },
+      {
+        "amount": "1",
+        "ingredient": "teen knoflook"
+      },
+      {
+        "amount": "2 cm",
+        "ingredient": "gember"
+      },
+      {
+        "amount": "1",
+        "ingredient": "paprika"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tomaten"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "cr\u00e8me fra\u00eeche"
+      },
+      {
+        "amount": null,
+        "ingredient": "olie om te bakken"
+      },
+      {
+        "amount": "300 gr",
+        "ingredient": "rijst"
+      },
+      {
+        "amount": "400 gr",
+        "ingredient": "sperziebonen"
+      },
+      {
+        "amount": "2",
+        "ingredient": "bosuien"
+      },
+      {
+        "amount": "1 snuf",
+        "ingredient": "peper en zout"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "kerrie"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "komijn"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "kurkuma"
+      },
+      {
+        "amount": "1 snuf",
+        "ingredient": "kaneel"
+      }
+    ],
+    "name": "Kip madras",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Kook de rijst gaar in ca. 10 minuten. En ook de sperziebonen in ca. 14 minuten.",
+      "Hak ondertussen de ui, gember en knoflook fijn en fruit aan in een pan met een beetje olie.",
+      "Voeg de paprika en tomaten in blokjes toe. Bak daarna ook de (vega) kip in stukjes mee.",
+      "Doe alle kruiden van het kruidenmengsel erbij en roer goed door.",
+      "Voeg de cr\u00e8me fra\u00eeche toe en roer erdoor.",
+      "Schep wat rijst en boontjes op een bord. Doe daar de kip madras bij.",
+      "Hak de bosuien in ringetjes en garneer het gerecht hiermee.",
+      "Tip: voeg een fijngehakte halve rode peper toe samen met de uien voor een pittige smaak."
+    ],
+    "remarks": null,
+    "tags": [
+      "chicken",
+      "curry",
+      "quick",
+      "gluten-free"
+    ],
+    "thumbnail": "https://www.leukerecepten.nl/wp-content/uploads/2023/05/kip_madras_b.jpg",
+    "time": 25,
+    "url": "https://www.leukerecepten.nl/recepten/kip-madras/"
+  },
   "ygeoavchcx": {
     "date_created": 1690886082.714525,
     "date_updated": 1690886082.714525,
