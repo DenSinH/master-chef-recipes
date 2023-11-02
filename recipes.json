@@ -566,6 +566,68 @@
     "time": 40,
     "url": "https://cookieandkate.com/crispy-smashed-potatoes-recipe/"
   },
+  "juwtabweyq": {
+    "date_created": 1698954865.150246,
+    "date_updated": 1698954865.150246,
+    "ingredients": [
+      {
+        "amount": "500 gr",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "2",
+        "ingredient": "uien"
+      },
+      {
+        "amount": "250 gr",
+        "ingredient": "champignons"
+      },
+      {
+        "amount": "1",
+        "ingredient": "rode paprika"
+      },
+      {
+        "amount": "3 tenen",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "140 gr",
+        "ingredient": "tomatenpuree"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "ketjap manis"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "sambal oelek"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "suiker"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "azijn"
+      }
+    ],
+    "name": "Wokschotel van kip uien champignons paprika en kruiden",
+    "nutrition": null,
+    "people": 3,
+    "preparation": [
+      "Bak de ui en de knoflook aan",
+      "Bak de kipfilet",
+      "voeg de paprika en champignons toe",
+      "Voeg tomatenpuree toe",
+      "Breng op smaak met ketjap, suiker, azijn en sambal",
+      "Serveer met rijst"
+    ],
+    "remarks": null,
+    "tags": [],
+    "thumbnail": "https://recipe-service.prod.cloud.jumbo.com/recipes/1333758-7/Wokschotel-van-kip-uien-champignons-paprika-en-kruid_1333758-7-0_560x560",
+    "time": 15,
+    "url": "https://www.jumbo.com/recepten/wokschotel-van-kip-uien-champignons-paprika-en-kruid-1333758-7"
+  },
   "ktlzynexmd": {
     "date_created": 1693413241.705715,
     "date_updated": 1694357961.470041,
