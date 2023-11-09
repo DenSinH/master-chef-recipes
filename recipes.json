@@ -1123,7 +1123,7 @@
   },
   "rfgjmqphiv": {
     "date_created": 1699552042.697397,
-    "date_updated": 1699552042.697397,
+    "date_updated": 1699552070.449807,
     "ingredients": [
       {
         "amount": "8",
@@ -1241,7 +1241,7 @@
       "spicy",
       "main dish"
     ],
-    "thumbnail": null,
+    "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/next-level-fried-chicken-dbd69d6.jpg?quality=90&webp=true&resize=440,400",
     "time": 54,
     "url": "https://www.bbcgoodfood.com/recipes/next-level-fried-chicken"
   },
