@@ -1966,5 +1966,86 @@
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2016/10/IMG_9996.jpg",
     "time": 20,
     "url": "https://www.lekkerensimpel.com/pasta-pesto-met-spinazie-en-zalm/"
+  },
+  "yqwhbbacyb": {
+    "date_created": 1701963581.818731,
+    "date_updated": 1701963581.818731,
+    "ingredients": [
+      {
+        "amount": "450 g",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "350 g",
+        "ingredient": "tomaten passata"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "Griekse yoghurt"
+      },
+      {
+        "amount": "2",
+        "ingredient": "sjalotten"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "1",
+        "ingredient": "rode paprika"
+      },
+      {
+        "amount": "1",
+        "ingredient": "courgette"
+      },
+      {
+        "amount": "3 tl",
+        "ingredient": "garam massala (of kerriepoeder)"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "gemalen komijnzaad"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "gemalen gember"
+      },
+      {
+        "amount": null,
+        "ingredient": "Witte rijst"
+      },
+      {
+        "amount": null,
+        "ingredient": "Verse peterselie (optioneel)"
+      }
+    ],
+    "name": "Kip in romige tomatensaus met rijst en groenten",
+    "nutrition": null,
+    "people": 2,
+    "preparation": [
+      "Snijd 2 kipfilets van totaal circa 450 g in hapklare stukjes en bestrooi rondom met zout en peper. Bak de kip in een scheutje olijfolie rondom bruin en gaar.",
+      "Snijd ondertussen 1 paprika in reepjes of blokjes en 1 courgette in halve maantjes. Snipper tevens 2 sjalotten (of 1 ui) en snijd 2 tenen knoflook fijn.",
+      "Haal de kip uit de pan en zet even weg. Voeg wat olijfolie toe aan de pan en fruit de sjalot en knoflook even een minuutje aan.",
+      "Voeg vervolgens de courgette en paprika toe en bak al omscheppend een minuut of 5-7 op middelhoog vuur.",
+      "Schenk nu 350 g tomaten passata over het geheel samen met 3 flinke tl garam massala of (goede) kerriepoeder, 1 tl paprikapoeder, 1 tl gemalen komijnzaad en 1 tl gemalen gember.",
+      "Meng alles grondig door elkaar en voeg tevens de kip weer toe aan het geheel. Roer nu ook ongeveer 100 ml (Griekse) yoghurt door het gerecht zodat het extra romig wordt. Laat met deksel (schuin) op de pan nog een minuut of 5 pruttelen.",
+      "Serveer met witte rijst en (optioneel) verse peterselie. Eet smakelijk."
+    ],
+    "remarks": null,
+    "tags": [
+      "Chicken",
+      "Creamy",
+      "Tomato sauce",
+      "Rice",
+      "Vegetables"
+    ],
+    "thumbnail": "https://smaakmenutie.nl/wp-content/uploads/2020/03/Kip-in-romige-tomatensaus-2.jpg",
+    "time": 30,
+    "url": "https://smaakmenutie.nl/kip-in-romige-tomatensaus-met-rijst-en-groenten/"
   }
 }
