@@ -338,7 +338,7 @@
   },
   "feettmxzuf": {
     "date_created": 1701962961.078538,
-    "date_updated": 1701962961.078538,
+    "date_updated": 1701962972.848009,
     "ingredients": [
       {
         "amount": "2",
@@ -395,7 +395,7 @@
     ],
     "name": "Shakshuka",
     "nutrition": null,
-    "people": null,
+    "people": 3,
     "preparation": [
       "Neem een flinke koekenpan en verhit hierin de olijfolie.",
       "Fruit de ui aan tot deze glazig is en voeg de knoflook, komijn, paprikapoeder en cayenne toe en bak dit even mee.",
