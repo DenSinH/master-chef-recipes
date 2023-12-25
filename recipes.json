@@ -1367,7 +1367,7 @@
   },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
-    "date_updated": 1703518722.46118,
+    "date_updated": 1703519208.326021,
     "ingredients": [
       {
         "amount": null,
@@ -1378,8 +1378,8 @@
         "ingredient": "komkommer"
       },
       {
-        "amount": "2",
-        "ingredient": "el pijnboompitten"
+        "amount": "2 el",
+        "ingredient": "pijnboompitten"
       },
       {
         "amount": "30g",
