@@ -1367,7 +1367,7 @@
   },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
-    "date_updated": 1703520468.048051,
+    "date_updated": 1703520623.88327,
     "ingredients": [
       {
         "amount": "2",
@@ -1386,11 +1386,11 @@
         "ingredient": "friteslijn"
       },
       {
-        "amount": "15g",
+        "amount": "1 el",
         "ingredient": "truffeltapenade"
       },
       {
-        "amount": "10g",
+        "amount": "1 el",
         "ingredient": "parmezaanse kaas"
       },
       {
