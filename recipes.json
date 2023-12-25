@@ -1367,10 +1367,10 @@
   },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
-    "date_updated": 1703519208.326021,
+    "date_updated": 1703520087.458794,
     "ingredients": [
       {
-        "amount": null,
+        "amount": "2",
         "ingredient": "tomaten"
       },
       {
