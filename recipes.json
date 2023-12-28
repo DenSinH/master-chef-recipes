@@ -1,4 +1,73 @@
 {
+  "ahuojcxcqq": {
+    "date_created": 1703784973.836559,
+    "date_updated": 1703784973.836559,
+    "ingredients": [
+      {
+        "amount": "200 gr",
+        "ingredient": "rijst"
+      },
+      {
+        "amount": "300 gr",
+        "ingredient": "kippendijfilet"
+      },
+      {
+        "amount": null,
+        "ingredient": "paprika's (rood en geel)"
+      },
+      {
+        "amount": "0.5",
+        "ingredient": "prei"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "75 ml",
+        "ingredient": "chilisaus"
+      },
+      {
+        "amount": "3 el",
+        "ingredient": "bloem"
+      },
+      {
+        "amount": "snuf",
+        "ingredient": "peper en zout"
+      },
+      {
+        "amount": null,
+        "ingredient": "sesamzaadjes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "bosui"
+      }
+    ],
+    "name": "Rijst met sweet chili kip",
+    "nutrition": null,
+    "people": 2,
+    "preparation": [
+      "Kook de rijst volgens de instructies op de verpakking.",
+      "Snijd de kippendijfilet in stukjes en bestrooi met zout en peper. Bedek de kip daarna met een dun laagje bloem.",
+      "Snijd de paprika in reepjes en de prei en knoflook fijn.",
+      "Giet een beetje olijfolie en een klontje boter in een pan. Bak de kip op hoog vuur rondom bruin en zet het vuur daarna wat zachter en laat de kip nog 5 minuten zachtjes bakken totdat de kip gaar is (voor de zekerheid even goed controleren).",
+      "Haal de kip uit de pan en doe, indien nodig, een nieuw scheutje olie erin. Bak de paprika en prei een minuut of 5 tot 10.",
+      "Doe dan de kip terug in de pan samen met de knoflook. Doe de chilisaus erbij en bak een minuutje mee.",
+      "Verdeel de rijst en de kip met groente over twee borden. Serveer met wat sesamzaadjes en eventueel een fijngesneden bosuitje of wat gebakken uitjes."
+    ],
+    "remarks": null,
+    "tags": [
+      "rice",
+      "chicken",
+      "quick",
+      "easy",
+      "dinner"
+    ],
+    "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2022/09/588A4218-1024x682.jpg",
+    "time": 25,
+    "url": "https://www.lekkerensimpel.com/rijst-met-sweet-chili-kip/"
+  },
   "ajzrkavhof": {
     "date_created": 1692378754.23941,
     "date_updated": 1692808572.940323,
