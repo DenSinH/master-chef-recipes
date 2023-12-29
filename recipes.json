@@ -1112,6 +1112,104 @@
     "time": 25,
     "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
   },
+  "muafgekefs": {
+    "date_created": 1703869691.717285,
+    "date_updated": 1703869691.717285,
+    "ingredients": [
+      {
+        "amount": "350 g",
+        "ingredient": "tarwebloem"
+      },
+      {
+        "amount": "5 g",
+        "ingredient": "gist"
+      },
+      {
+        "amount": "210 ml",
+        "ingredient": "water"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "olijfolie"
+      },
+      {
+        "amount": "7 g",
+        "ingredient": "zout"
+      },
+      {
+        "amount": "150 g",
+        "ingredient": "spek, in reepjes"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "cr\u00e8me fraiche"
+      },
+      {
+        "amount": null,
+        "ingredient": "uien, in fijne ringen"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout"
+      }
+    ],
+    "name": "Flammkuchen met spek en uien",
+    "nutrition": [
+      {
+        "amount": "860.27 kcal",
+        "group": "Calorie\u00ebn"
+      },
+      {
+        "amount": "66.24 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "4.2 g",
+        "group": "waarvan suikers"
+      },
+      {
+        "amount": "60.6 g",
+        "group": "Vet"
+      },
+      {
+        "amount": "25.2 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "12.35 g",
+        "group": "Prote\u00efnen"
+      },
+      {
+        "amount": "3.35 g",
+        "group": "Vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Doe de bloem in een keukenmachine. Voeg het gist en het zout toe. Voeg dan ook het water en de olijfolie toe.",
+      "Kneed het deeg 10 minuten op matige snelheid tot een soepel deeg dat licht plakkerig en elastisch is.",
+      "Laat afgedekt een uur rijzen op een warme plek.",
+      "Verwarm de oven voor op 250 \u00b0C.",
+      "Rol het deeg uit op een met bakpapier bedekte bakplaat tot een rechthoek of een cirkel.",
+      "Besmeer het deeg met de cr\u00e8me fraiche. Verdeel hierover de uien met de spekreepjes. Kruid bij met peper en zout.",
+      "Bak de Flammkuchen 10 minuten af in de warme oven."
+    ],
+    "remarks": null,
+    "tags": [
+      "lunch",
+      "appetizer",
+      "snack",
+      "pizza",
+      "French"
+    ],
+    "thumbnail": "https://image.15gram.be/uploads/recipes/6430_flammkuchen-met-spek-en-uien-aangesneden_1455208147-1920x1280.jpg",
+    "time": 80,
+    "url": "https://15gram.be/recepten/flammkuchen-met-spek-en-uien"
+  },
   "nknaqtdckq": {
     "date_created": 1692896699.725175,
     "date_updated": 1694357532.747472,
