@@ -1287,7 +1287,7 @@
   },
   "npwbdhzbyz": {
     "date_created": 1704132068.620714,
-    "date_updated": 1704132068.620714,
+    "date_updated": 1704132118.612725,
     "ingredients": [
       {
         "amount": "300 gr",
@@ -1320,7 +1320,7 @@
     ],
     "name": "Kip-pesto balletjes",
     "nutrition": null,
-    "people": null,
+    "people": 4,
     "preparation": [
       "Verwarm de oven voor op 200 graden.",
       "Meng in een grote kom alle ingredi\u00ebnten door elkaar. Voeg eventueel wat extra paneermeel toe als het mengsel niet stevig genoeg is.",
@@ -1336,7 +1336,7 @@
       "Baked"
     ],
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2023/12/588A7400-scaled.jpg",
-    "time": null,
+    "time": 20,
     "url": "https://www.lekkerensimpel.com/kip-pesto-balletjes/"
   },
   "nyzrigdglr": {
