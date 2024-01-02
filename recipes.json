@@ -407,7 +407,7 @@
   },
   "cytcvbdkor": {
     "date_created": 1704222214.364016,
-    "date_updated": 1704222214.364016,
+    "date_updated": 1704222276.750439,
     "ingredients": [
       {
         "amount": "2",
@@ -468,10 +468,10 @@
     ],
     "name": "CHICKEN DIANE",
     "nutrition": null,
-    "people": null,
+    "people": 2,
     "preparation": [
       "Season chicken with salt and pepper. Heat oil and 1 tbsp butter in your favorite pan over medium-high.",
-      "Add chicken and cook until golden brown on each side.  Continue to flip and cook if necessary until a thermometer inserted into thickest portion reaches 165F (~4 min per side).",
+      "Add chicken and cook until golden brown on each side.  Continue to flip and cook if necessary.",
       "Transfer chicken to a plate and set aside. Reminder, not to wipe out the pan. The reserved bits are what makes this sauce special.",
       "Lower heat to medium. Add mushrooms, a pinch of salt, and 1 tbsp butter.",
       "Cook, stirring occasionally, until mushrooms begin to brown (5 min).",
@@ -490,7 +490,7 @@
       "Mushrooms"
     ],
     "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/401591984_1028650048177065_6600893410692203333_n.jpg?stp=c324.576.540.540a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=cc8yPtVH2ZgAX9xUMcd&_nc_ht=scontent-ord5-1.cdninstagram.com&oh=00_AfCY2IATTtcKg-JARhX4Va_-DNJIm2xXqYufJEUs7aZ6jQ&oe=6599F057",
-    "time": null,
+    "time": 30,
     "url": "https://www.instagram.com/reel/CzolF0Iuw-a/?igsh=MXg2a3J0bjl0dGV0aQ=="
   },
   "feettmxzuf": {
