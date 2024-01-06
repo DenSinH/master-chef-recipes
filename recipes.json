@@ -1286,7 +1286,7 @@
   },
   "muafgekefs": {
     "date_created": 1703869691.717285,
-    "date_updated": 1704550553.929434,
+    "date_updated": 1704550567.217034,
     "ingredients": [
       {
         "amount": "350 g",
@@ -1337,8 +1337,7 @@
       "language": "nl",
       "meal_type": "main",
       "meat_type": [
-        "pork",
-        "beef"
+        "pork"
       ],
       "temperature": "hot"
     },
