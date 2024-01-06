@@ -1785,7 +1785,7 @@
   },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
-    "date_updated": 1704317296.680931,
+    "date_updated": 1704553762.764013,
     "ingredients": [
       {
         "amount": "1",
@@ -1828,7 +1828,7 @@
       "language": "nl",
       "meal_type": "appetizer",
       "meat_type": [
-        "other"
+        "beef"
       ],
       "temperature": "room temperature"
     },
