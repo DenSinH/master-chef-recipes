@@ -44,6 +44,18 @@
         "ingredient": "bosui"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Rijst met sweet chili kip",
     "nutrition": null,
     "people": 2,
@@ -57,13 +69,6 @@
       "Verdeel de rijst en de kip met groente over twee borden. Serveer met wat sesamzaadjes en eventueel een fijngesneden bosuitje of wat gebakken uitjes."
     ],
     "remarks": "Lekker met cashewnoten erdoor!",
-    "tags": [
-      "rice",
-      "chicken",
-      "quick",
-      "easy",
-      "dinner"
-    ],
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2022/09/588A4218-1024x682.jpg",
     "time": 25,
     "url": "https://www.lekkerensimpel.com/rijst-met-sweet-chili-kip/"
@@ -141,6 +146,18 @@
         "ingredient": "Green onions (for garnish)"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "chinese",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "20 Minute Cashew Chicken",
     "nutrition": null,
     "people": 4,
@@ -153,13 +170,6 @@
       "Now that the veggies are cooked add in the sauce and mix well. Simmer for a few minutes on low until the sauce becomes thick.",
       "You\u2019ll then mix in the 1/2 cup cashews and let it simmer for just a minute or so to warm them up.",
       "Serve with cauliflower rice or regular rice then top with some freshly chopped green onion and some sesame seeds. Enjoy!"
-    ],
-    "tags": [
-      "quick",
-      "easy",
-      "healthy",
-      "stir-fry",
-      "cashews"
     ],
     "thumbnail": "http://static1.squarespace.com/static/63dc66df33b458676fc70f98/63dc6797b9594852e23521ef/64c2b28d4947f72198e595a2/1691109110095/IMG_5636_jpg.jpg?format=1500w",
     "time": 20,
@@ -202,6 +212,18 @@
         "ingredient": "prei"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "hot"
+    },
     "name": "Gnocchi met romige paddenstoelen-gehaktsaus",
     "nutrition": [
       {
@@ -230,13 +252,6 @@
       "Snijd de peterselie fijn. Schep de gnocchi op 4 borden. Rasp er de Parmezaanse kaas over en garneer met de peterselie. Tip! je houdt bloem en 1 bouillonblokje over. Handig voor de voorraadkast!"
     ],
     "remarks": null,
-    "tags": [
-      "Gnocchi",
-      "Creamy",
-      "Mushrooms",
-      "Ground meat",
-      "Quick"
-    ],
     "thumbnail": "https://static-images.jumbo.com/product_images/Recipe_504911-01_560x560.jpg",
     "time": 20,
     "url": "https://www.jumbo.com/recepten/gnocchi-met-romige-paddenstoelen-gehaktsaus-504911"
@@ -286,6 +301,18 @@
         "ingredient": "pijnboompitten"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
     "name": "Gnocchi in truffelsaus",
     "nutrition": null,
     "people": 3,
@@ -297,13 +324,6 @@
       "Voeg de gnocchi toe aan de pan en de truffeltapenade. Giet de room erbij en roer tot een saus, laat deze een paar minuutjes zachtjes pruttelen.",
       "Rasp de Parmezaanse kaas en roer deze er op het laatst door (bewaar een beetje voor de garnering).",
       "Serveer de truffel gnocchi in borden en garneer met verse basilicum, Parmezaanse kaas en pijnboompitten."
-    ],
-    "tags": [
-      "gnocchi",
-      "quick",
-      "creamy",
-      "vegetarian",
-      "Italian"
     ],
     "thumbnail": "https://www.leukerecepten.nl/wp-content/uploads/2022/09/Gnocchi-truffelsaus-recept.jpg",
     "time": 15,
@@ -386,6 +406,18 @@
         "ingredient": "peterselie"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "fuck me now chicken",
     "nutrition": null,
     "people": 4,
@@ -395,12 +427,6 @@
       "Voeg de kip plus eventuele sappen terug toe aan de pan met saus. laat dit een aantal minuten staan om de kip door te laten garen. Wanneer de pasta en de kip gaar zijn kan het worden opgediend!"
     ],
     "remarks": null,
-    "tags": [
-      "Kip",
-      "Pasta",
-      "Italiaans",
-      "Lekker"
-    ],
     "thumbnail": "https://www.modernhoney.com/wp-content/uploads/2022/04/Marry-Me-Chicken-Recipe-2-500x375.jpg",
     "time": 40,
     "url": "https://www.instagram.com/p/CqgjDS-ga_F/"
@@ -466,6 +492,18 @@
         "ingredient": "black pepper"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "CHICKEN DIANE",
     "nutrition": null,
     "people": 2,
@@ -482,13 +520,6 @@
       "Transfer the chicken and its juices back into the sauce in the pan. Enjoy immediately."
     ],
     "remarks": null,
-    "tags": [
-      "Chicken",
-      "Fall dish",
-      "Thanksgiving alternative",
-      "Creamy sauce",
-      "Mushrooms"
-    ],
     "thumbnail": "https://i.imgur.com/HovOVmV.jpg",
     "time": 30,
     "url": "https://www.instagram.com/reel/CzolF0Iuw-a/?igsh=MXg2a3J0bjl0dGV0aQ=="
@@ -550,6 +581,18 @@
         "ingredient": "gehakte tomatenblokjes"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "middle eastern",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
     "name": "Shakshuka",
     "nutrition": null,
     "people": 3,
@@ -561,13 +604,6 @@
       "Maak vier kuiltjes in de pan en breek hierin de eieren. Laat ze even meekoken tot het eiwit gestold is en serveer in de pan."
     ],
     "remarks": "Lekker met flatbread!",
-    "tags": [
-      "Shakshuka",
-      "paprika-tomatenstoof",
-      "Midden-Oosten",
-      "easy to make",
-      "vegetarian"
-    ],
     "thumbnail": "https://miljuschka.nl/wp-content/uploads/2021/02/Shakshuka.jpg",
     "time": 30,
     "url": "https://miljuschka.nl/midden-oosten-favoriet-shakshuka/"
@@ -645,6 +681,18 @@
         "ingredient": "versgemalen zout en peper"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Mexicaanse Quesadillas met Kip en Avocado",
     "nutrition": null,
     "people": 2,
@@ -658,13 +706,6 @@
       "Snij de quesadillas door midden en bestrooi ze met wat gehakte koriander (of platte peterselie)."
     ],
     "remarks": null,
-    "tags": [
-      "Mexican",
-      "Quick and Easy",
-      "Chicken",
-      "Avocado",
-      "Tortilla"
-    ],
     "thumbnail": "https://marielleindekeuken.nl/wp-content/uploads/2017/07/image1.jpeg",
     "time": null,
     "url": "https://marielleindekeuken.nl/2017/07/01/mexicaanse-quesadillas-met-kip-en-avocado/"
@@ -694,6 +735,18 @@
         "ingredient": "traditionele olijfolie"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "side",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
     "name": "Zoete-aardappel friet",
     "nutrition": [
       {
@@ -734,13 +787,6 @@
       "Bak de frites in het midden van de oven in ca. 35 min. gaar. Schep elke 10 min. om."
     ],
     "remarks": "Je kan nog ma\u00efzena door de frites mengen om ze extra krokant te maken.",
-    "tags": [
-      "Sweet potato fries",
-      "Healthy",
-      "Oven-baked",
-      "Side dish",
-      "Vegan"
-    ],
     "thumbnail": "https://static.ah.nl/static/recepten/img_078546_1024x748_JPG.jpg",
     "time": 45,
     "url": "https://www.ah.nl/r/1186993"
@@ -778,6 +824,18 @@
         "ingredient": "chopped fresh parsley, chives and/or green onion"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "potatoes"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "side",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
     "name": "Crispy Smashed Potatoes",
     "nutrition": null,
     "people": 4,
@@ -791,13 +849,6 @@
       "Bake until the potatoes are nice and golden on the edges, about 25 to 30 minutes. Sprinkle them with chopped fresh herbs, and serve hot."
     ],
     "remarks": null,
-    "tags": [
-      "Crispy",
-      "Potatoes",
-      "Side dish",
-      "Vegan",
-      "Gluten free"
-    ],
     "thumbnail": "https://cookieandkate.com/images/2019/05/baked-smashed-potatoes.jpg",
     "time": 40,
     "url": "https://cookieandkate.com/crispy-smashed-potatoes-recipe/"
@@ -827,6 +878,18 @@
         "ingredient": "peper"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "other",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "room temperature"
+    },
     "name": "Honing-mosterd dressing",
     "nutrition": null,
     "people": 2,
@@ -834,11 +897,6 @@
       "Meng alle ingredienten in een bakje en klaar is je honing-mosterd dressing."
     ],
     "remarks": null,
-    "tags": [
-      "Salad dressing",
-      "Quick recipe",
-      "Condiment"
-    ],
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2016/10/IMG_4802.jpg",
     "time": 5,
     "url": "https://www.lekkerensimpel.com/honing-mosterd-dressing/"
@@ -888,6 +946,18 @@
         "ingredient": "azijn"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Wokschotel van kip uien champignons paprika en kruiden",
     "nutrition": null,
     "people": 3,
@@ -900,7 +970,6 @@
       "Serveer met rijst"
     ],
     "remarks": null,
-    "tags": [],
     "thumbnail": "https://recipe-service.prod.cloud.jumbo.com/recipes/1333758-7/Wokschotel-van-kip-uien-champignons-paprika-en-kruid_1333758-7-0_560x560",
     "time": 15,
     "url": "https://www.jumbo.com/recepten/wokschotel-van-kip-uien-champignons-paprika-en-kruid-1333758-7"
@@ -950,6 +1019,18 @@
         "ingredient": "basilicum"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "seafood"
+      ],
+      "temperature": "hot"
+    },
     "name": "Risotto con pesto e gamberi",
     "nutrition": [
       {
@@ -985,13 +1066,6 @@
       "Verdeel de rijst over diepe borden en schep er de pestogarnalen op. Bestrooi met de rest van de kaas en garneer met de basilicumblaadjes."
     ],
     "remarks": "Het oorspronkelijke recept gebruikt broccoli in plaats van spinazie.",
-    "tags": [
-      "Italian",
-      "Risotto",
-      "Pesto",
-      "Seafood",
-      "Creamy"
-    ],
     "thumbnail": "https://granditaliacdnprodimages.azureedge.net/files/styles/recipe_main_image_670x420/windowsazurestorage/recipes/2020-02/18/1026/Recept%20Risotto%20con%20pesto%20e%20gamberi%20Grand'Italia.jpg",
     "time": 40,
     "url": "https://www.granditalia.nl/recepten/recept-Risotto-con-pesto/"
@@ -1073,6 +1147,18 @@
         "ingredient": "fresh rosemary, for serving (optional)"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "One Skillet Creamy Sun-Dried Tomato Chicken and Orzo",
     "nutrition": null,
     "people": 6,
@@ -1081,13 +1167,6 @@
       "Heat 1 tablespoon olive oil in a large oven-safe skillet set over medium-high heat. Rub the chicken with 1 tablespoon olive oil, the oregano, paprika, red pepper flakes, salt, and pepper. When the oil is shimmering, add the chicken. Sear on both sides until golden, about 3-5 minutes per side. Remove the chicken from the skillet.",
       "To the same skillet, add the butter and shallot, cooking until fragrant, about 3 minutes. Add the garlic and orzo, cooking until lightly golden, 2-3 minutes. Add the wine and de-glaze the pan. Add 1 1/2 cups water. Bring to a boil, cook 3-5 minutes, then add the cream, mustard, parmesan, spinach, and sun-dried tomatoes, stirring until the spinach has wilted. Slide the chicken and any juices left on the plate back into the skillet. Transfer to the oven and cook, uncovered for 10-15 minutes, until the chicken is cooked through.",
       "Serve the chicken topped with lemon juice and rosemary, if desired."
-    ],
-    "tags": [
-      "creamy",
-      "chicken",
-      "orzo",
-      "skillet",
-      "quick"
     ],
     "thumbnail": "https://www.halfbakedharvest.com/wp-content/uploads/2019/12/One-Skillet-Creamy-Sun-Dried-Tomato-Chicken-and-Orzo-1.jpg",
     "time": 45,
@@ -1150,6 +1229,18 @@
         "ingredient": "zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "indian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Wraps kip tikka masala",
     "nutrition": [
       {
@@ -1188,13 +1279,6 @@
       "Voeg de aangegeven hoeveelheid tomatenpuree toe en laat kort meebakken. Voeg de kokosmelk toe. Meng goed door elkaar en laat 5 minuten zachtjes pruttelen, roer er dan de garam masala door.",
       "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
       "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
-    ],
-    "tags": [
-      "main dish",
-      "chicken",
-      "wrap",
-      "Indian",
-      "quick and easy"
     ],
     "thumbnail": "https://image.15gram.be/uploads/recipes/8379_wraps-kip-tikka-masala_1535471113-1920x1280.jpg",
     "time": 25,
@@ -1245,6 +1329,18 @@
         "ingredient": "zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "pork"
+      ],
+      "temperature": "hot"
+    },
     "name": "Flammkuchen met spek en uien",
     "nutrition": [
       {
@@ -1287,13 +1383,6 @@
       "Bak de Flammkuchen 10 minuten af in de warme oven."
     ],
     "remarks": "Ook lekker met:\r\nPittige worst,\r\nParmaham en rucola,\r\nBrie en nootjes,\r\nGeitenkaas en appel,\r\nGerookte zalm,\r\nChampignons en pesto",
-    "tags": [
-      "lunch",
-      "appetizer",
-      "snack",
-      "pizza",
-      "French"
-    ],
     "thumbnail": "https://image.15gram.be/uploads/recipes/6430_flammkuchen-met-spek-en-uien-aangesneden_1455208147-1920x1280.jpg",
     "time": 80,
     "url": "https://15gram.be/recepten/flammkuchen-met-spek-en-uien"
@@ -1347,6 +1436,18 @@
         "ingredient": "Lime"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Mexican Chicken and Rice",
     "nutrition": [
       {
@@ -1362,13 +1463,6 @@
       "Let it simmer for about 10 minutes (or until the rice is done). Occasionally stir to prevent the rice from burning. Add the chicken and you're done."
     ],
     "remarks": null,
-    "tags": [
-      "Meal prep",
-      "Chicken",
-      "Mexican",
-      "Rice",
-      "Easy"
-    ],
     "thumbnail": "https://scontent-ams4-1.cdninstagram.com/v/t51.36329-15/361574690_1448826465901266_3306559486425713458_n.jpg?stp=c216.384.360.360a_dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=YDtV13RmmRQAX-O4nZS&_nc_ht=scontent-ams4-1.cdninstagram.com&oh=00_AfBPU6ojqXoaAlBs9FlWff9iNeg1hlnrUzeZgxre_qqPPg&oe=6502DB98",
     "time": 25,
     "url": "https://www.instagram.com/reel/Cu2KZ-BoKUS"
@@ -1406,6 +1500,18 @@
         "ingredient": "peper en zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Kip-pesto balletjes",
     "nutrition": null,
     "people": 4,
@@ -1416,13 +1522,6 @@
       "Bak de kipgehaktballetjes circa 20 minuten in de oven totdat ze bruin zijn en gaar van binnen."
     ],
     "remarks": null,
-    "tags": [
-      "Chicken",
-      "Pesto",
-      "Appetizer",
-      "Easy",
-      "Baked"
-    ],
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2023/12/588A7400-scaled.jpg",
     "time": 20,
     "url": "https://www.lekkerensimpel.com/kip-pesto-balletjes/"
@@ -1504,6 +1603,18 @@
         "ingredient": "Olie peper en zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "hot"
+    },
     "name": "Simpele burritos met gehakt",
     "nutrition": [
       {
@@ -1539,13 +1650,6 @@
       "Tot slot verdeel je nog wat tomatensaus over de bovenkant en de geraspte kaas."
     ],
     "remarks": "Het is ook lekker om guacamole of (verkruimelde) tortillachips toe te voegen op je burrito.",
-    "tags": [
-      "Mexican cuisine",
-      "Easy recipe",
-      "Beef",
-      "Wraps",
-      "Oven-baked"
-    ],
     "thumbnail": "https://www.eefkooktzo.nl/wp-content/uploads/2016/05/Simpele-Burritos-met-gehakt2.jpg",
     "time": 35,
     "url": "https://www.eefkooktzo.nl/simpele-burritos-gehakt/"
@@ -1611,6 +1715,18 @@
         "ingredient": "turmeric"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Next level fried chicken",
     "nutrition": [
       {
@@ -1663,13 +1779,6 @@
       "When all the chicken has been fried, combine the reserved spice mix with 1 tbsp flaky sea salt and sprinkle over the chicken to serve."
     ],
     "remarks": null,
-    "tags": [
-      "fried chicken",
-      "crispy",
-      "marinated",
-      "spicy",
-      "main dish"
-    ],
     "thumbnail": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/next-level-fried-chicken-dbd69d6.jpg?quality=90&webp=true&resize=440,400",
     "time": 54,
     "url": "https://www.bbcgoodfood.com/recipes/next-level-fried-chicken"
@@ -1711,6 +1820,18 @@
         "ingredient": "handjes rucola"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "room temperature"
+    },
     "name": "Eiwitrijke Carpaccio Bommetjes",
     "nutrition": [
       {
@@ -1742,13 +1863,6 @@
       "Eet smakelijk!"
     ],
     "remarks": null,
-    "tags": [
-      "high protein",
-      "appetizer",
-      "Christmas",
-      "healthy snack",
-      "easy to make"
-    ],
     "thumbnail": "https://i.imgur.com/dJ38O6B.jpg",
     "time": null,
     "url": "https://www.instagram.com/reel/C04TLH4o-Yc/?igshid=MTdlMjRlYjZlMQ%3D%3D"
@@ -1806,6 +1920,18 @@
         "ingredient": "ground black pepper"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Creamy Pesto Chicken Gnocchi",
     "nutrition": [
       {
@@ -1837,13 +1963,6 @@
       "Pour in the heavy cream, followed by the Parmesan cheese. Stir until the cheese melts into the cream, forming a thick sauce. Bring your fresh gnocchi to the party by adding them directly into the sauce. Cook them for about 5 minutes, until they become tender and have soaked up some of that creamy sauce. To this, add the sun-dried tomato pesto and stir well. Add the chicken back to the pan and finish with an extra sprinkle of Parmesan and fresh basil if you have it. Enjoy!"
     ],
     "remarks": null,
-    "tags": [
-      "creamy",
-      "pesto",
-      "chicken",
-      "gnocchi",
-      "easy"
-    ],
     "thumbnail": "https://www.recipesbyanne.com/wp-content/uploads/2023/07/IMG_9590-scaled.jpg",
     "time": 20,
     "url": "https://www.recipesbyanne.com/recipe/creamy-pesto-chicken-gnocchi/"
@@ -1909,6 +2028,18 @@
         "ingredient": "zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Volkoren penne met rode pesto en gegrilde kip",
     "nutrition": [
       {
@@ -1952,13 +2083,6 @@
       "Serveer en garneer met rucola, pijnboompitten en parmezaan."
     ],
     "remarks": "Je kan ook courgette gebruiken als toevoeging of vervanging van de paprika.",
-    "tags": [
-      "main dish",
-      "pasta dish",
-      "poultry",
-      "European",
-      "Italian"
-    ],
     "thumbnail": "https://image.15gram.be/uploads/recipes/10354_volkoren-penne-met-rode-pesto-en-gegrilde-kip_1648222449-1920x1280.jpg",
     "time": 20,
     "url": "https://15gram.be/recepten/volkoren-penne-met-rode-pesto-en-gegrilde-kip"
@@ -2012,6 +2136,18 @@
         "ingredient": "peper en zout"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Wrap mango en kip",
     "nutrition": [
       {
@@ -2041,13 +2177,6 @@
       "Verhit een beetje olijfolie in een koekenpan en fruit vervolgens het uitje en de knoflook aan tot deze glazig worden. Voeg dan de kipfilet in blokjes toe. Bak de kipfilet al omscheppend gaar en kruid deze met 2 tot 3 eetlepels chilisaus en paprikapoeder, peper en zout naar smaak. Als de kip gaar is, schep je de mango erdoorheen en zet je het vuur uit.",
       "Bereid de wraps zoals op de verpakking aangegeven of gebruik lekkere zelfgemaakte wraps.",
       "Verdeel een (kleine) eetlepel cr\u00e8me fra\u00eeche en een eetlepel pesto over de wrap. Leg hierop een plakje Italiaanse ham en verdeel daarover ongeveer 3 eetlepels van de mango en kip. Garneer tot slot met een klein handje veldsla en rol de wraps dicht. Eet smakelijk!"
-    ],
-    "tags": [
-      "wraps",
-      "quick",
-      "chicken",
-      "mango",
-      "spicy"
     ],
     "thumbnail": "https://www.eefkooktzo.nl/wp-content/uploads/2016/09/Wrap-mango-en-kip.jpg",
     "time": 20,
@@ -2090,6 +2219,18 @@
         "ingredient": "verse basilicum"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Gnocchi ovenschotel met romige kip",
     "nutrition": [
       {
@@ -2127,13 +2268,6 @@
       "Maak ondertussen de champignons schoon met keukenpapier en snijd in vieren. Snijd de kipdijfilet in blokjes. Verhit de rest van de olie in een hapjespan en bak de kip 3 min. op middelhoog vuur. Voeg de champignons toe en bak 5 min. mee.",
       "Halveer de cherrytomaten en voeg samen met de gnocchi toe aan de kip. Roer de Paturain Cuisine erdoor en warm 1 min. mee. Breng op smaak met peper.",
       "Verdeel het mengsel over de ovenschaal en strooi de kaas erover. Bak de gnocchischotel ca. 15 min. in het midden van de oven tot de kaas gesmolten en lichtbruin is. Snijd het basilicum grof en verdeel over de ovenschotel."
-    ],
-    "tags": [
-      "oven dish",
-      "gnocchi",
-      "creamy",
-      "chicken",
-      "easy"
     ],
     "thumbnail": "https://static.ah.nl/static/recepten/img_RAM_PRD122160_1024x748_JPG.jpg",
     "time": 40,
@@ -2176,6 +2310,18 @@
         "ingredient": "roomboter"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "hot"
+    },
     "name": "Gehaktballen van Restaurant De Librije",
     "nutrition": null,
     "people": 4,
@@ -2186,12 +2332,6 @@
       "Schenk de fond erbij en laat de ballen onder af en toe keren, met de deksel schuin op de pan, in 45 minuten op laag vuur gaar worden."
     ],
     "remarks": "Ook lekker op een wit broodje met wijko satesaus",
-    "tags": [
-      "meatballs",
-      "Dutch cuisine",
-      "main course",
-      "easy recipe"
-    ],
     "thumbnail": "https://www.keukenliefde.nl/wp-content/uploads/2013/01/DSC_0898_800x536.jpg",
     "time": 60,
     "url": "https://www.keukenliefde.nl/gehaktballen-van-restaurant-de-librije/"
@@ -2269,6 +2409,18 @@
         "ingredient": "kaneel"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "indian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Kip madras",
     "nutrition": null,
     "people": 4,
@@ -2283,12 +2435,6 @@
       "Tip: voeg een fijngehakte halve rode peper toe samen met de uien voor een pittige smaak."
     ],
     "remarks": null,
-    "tags": [
-      "chicken",
-      "curry",
-      "quick",
-      "gluten-free"
-    ],
     "thumbnail": "https://www.leukerecepten.nl/wp-content/uploads/2023/05/kip_madras_b.jpg",
     "time": 25,
     "url": "https://www.leukerecepten.nl/recepten/kip-madras/"
@@ -2334,6 +2480,18 @@
         "ingredient": "zout en peper"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "fish"
+      ],
+      "temperature": "hot"
+    },
     "name": "Pasta pesto met spinazie en zalm",
     "nutrition": null,
     "people": 2,
@@ -2343,13 +2501,6 @@
       "Gebruik je een zalmmoot dan bak de zalm, terwijl de pasta aan het koken is en de spinazie aan het opwarmen is, gaar. Breng de zalm op smaak met peper en zout en doe een scheutje olie of boter in een koekenpan. Leg de zalm in de pan en bak ongeveer 1 minuut op hoog vuur. Zet daarna het vuur zachter en bak de zalm nog 2-3 minuten. Keer de zalm om en bak ook de andere kant nog 2-3 minuten op matig vuur totdat de zalm mooi gaar is.",
       "Als de spinazie is opgewarmd doe je de pesto, creme fraiche en kruidenroomkaas erdoor en dan even roeren.",
       "Giet de pasta af en meng met het spinazie mengsel. Verdeel de pasta over 2 borden. Snijd de zalm in stukjes en verdeel over de borden. Dan nog wat pijnboompitten en Parmezaanse kaas erover en smullen maar!"
-    ],
-    "tags": [
-      "pasta",
-      "quick",
-      "healthy",
-      "salmon",
-      "spinach"
     ],
     "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2016/10/IMG_9996.jpg",
     "time": 20,
@@ -2412,6 +2563,18 @@
         "ingredient": "Verse peterselie (optioneel)"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "Kip in romige tomatensaus met rijst en groenten",
     "nutrition": null,
     "people": 2,
@@ -2425,13 +2588,6 @@
       "Serveer met witte rijst en (optioneel) verse peterselie. Eet smakelijk."
     ],
     "remarks": null,
-    "tags": [
-      "Chicken",
-      "Creamy",
-      "Tomato sauce",
-      "Rice",
-      "Vegetables"
-    ],
     "thumbnail": "https://smaakmenutie.nl/wp-content/uploads/2020/03/Kip-in-romige-tomatensaus-2.jpg",
     "time": 30,
     "url": "https://smaakmenutie.nl/kip-in-romige-tomatensaus-met-rijst-en-groenten/"
