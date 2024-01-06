@@ -52,6 +52,18 @@
         "ingredient": "dark soy"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "chinese",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
     "name": "CRISPY CHILLI CHICKEN",
     "nutrition": null,
     "people": 4,
@@ -64,13 +76,6 @@
       "Top with spring onions and sesame seeds"
     ],
     "remarks": null,
-    "tags": [
-      "chicken",
-      "crispy",
-      "chilli",
-      "easy",
-      "take out"
-    ],
     "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/414450890_1080929022958562_1412249807210111294_n.jpg?stp=c353.628.589.589a_dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=xWuEUHJeiXkAX__zSF1&_nc_ht=scontent-ord5-1.cdninstagram.com&oh=00_AfDPSxg7Yd4LN1Hk5eUbG4blWiggDzM83tbCdpcAj9liNg&oe=659B1C9B",
     "time": null,
     "url": "https://www.instagram.com/reel/C1eHhh2rAVt/?igsh=enRoY3JpYTJrcHFr"
@@ -144,6 +149,18 @@
         "ingredient": "sesame seeds"
       }
     ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "korean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "hot"
+    },
     "name": "Sticky Korean Fried Beef & Golden Fried Rice",
     "nutrition": [
       {
@@ -172,13 +189,6 @@
       "Add equal portions to meal prep containers"
     ],
     "remarks": null,
-    "tags": [
-      "High Protein",
-      "Meal Prep",
-      "Sticky Korean Fried Beef",
-      "Golden Fried Rice",
-      "Quick Recipe"
-    ],
     "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/408654955_2041305076206100_6302851543805416592_n.jpg?stp=c387.687.645.645a_dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=rNrLlq-HsgYAX-dxoXz&_nc_ht=scontent-ord5-1.cdninstagram.com&oh=00_AfCIvUyOHFxJkRbOYRACqrKY45d6JyxyfVU4Pt98ftWDKg&oe=659C124A",
     "time": null,
     "url": "https://www.instagram.com/reel/C0ovXdDNUj8/?igsh=aW5ta25tbnh2ZDl6"
