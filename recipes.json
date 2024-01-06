@@ -855,7 +855,7 @@
   },
   "imcyxcddhq": {
     "date_created": 1701713604.995863,
-    "date_updated": 1701713604.995863,
+    "date_updated": 1704553837.755447,
     "ingredients": [
       {
         "amount": "2 tl",
@@ -886,7 +886,7 @@
       "language": "nl",
       "meal_type": "other",
       "meat_type": [
-        "other"
+        "vegetarian"
       ],
       "temperature": "room temperature"
     },
