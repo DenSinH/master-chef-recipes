@@ -1654,6 +1654,82 @@
     "time": 35,
     "url": "https://www.eefkooktzo.nl/simpele-burritos-gehakt/"
   },
+  "pulyfcuzkj": {
+    "date_created": 1704716983.718405,
+    "date_updated": 1704743557.222603,
+    "ingredients": [
+      {
+        "amount": "500 gr",
+        "ingredient": "gnocchi"
+      },
+      {
+        "amount": "350 gr",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "75 gr",
+        "ingredient": "spekreepjes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "courgette"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ui"
+      },
+      {
+        "amount": "2 tenen",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "4 el",
+        "ingredient": "pesto"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "kookroom"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "geraspte parmezaanse kaas"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Gnocchi kip pesto",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven voor op 180 graden.",
+      "Snipper de ui, snijd de tenen knoflook fijn en de courgette in kleine blokjes.",
+      "Bak de gnocchi in een koekenpan met een scheutje olie in 12 minuten goudbruin.",
+      "Bak de spekreepjes in 4-5 minuten krokant in een koekenpan zonder olie.",
+      "Bak in de pan waar de spekjes in gebakken zijn, in het losgekomen vet, de ui, knoflook en courgette aan.",
+      "Voeg na 3-4 minuten de kip toe en bak even kort mee totdat de kip is dichtgeschroeid.",
+      "Schep dan alles in een ovenschaal samen met de gnocchi en de spekjes.",
+      "Meng de pesto en kookroom door elkaar en giet daarna over de inhoud in de ovenschaal.",
+      "Tot slot wat geraspte parmezaanse kaas erover en dan zet je de ovenschaal nog 10-15 minuten in de oven totdat de kaas is gesmolten."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.lekkerensimpel.com/wp-content/uploads/2022/09/588A3613.jpg",
+    "time": 35,
+    "url": "https://www.lekkerensimpel.com/gnocchi-kip-pesto/"
+  },
   "rfgjmqphiv": {
     "date_created": 1699552042.697397,
     "date_updated": 1699552070.449807,
