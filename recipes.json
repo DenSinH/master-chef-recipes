@@ -903,7 +903,7 @@
   },
   "iqulcmsvdr": {
     "date_created": 1706116749.595321,
-    "date_updated": 1706116749.595321,
+    "date_updated": 1706117101.505984,
     "ingredients": [
       {
         "amount": "1",
@@ -914,20 +914,20 @@
         "ingredient": "knoflook"
       },
       {
-        "amount": null,
+        "amount": "1",
         "ingredient": "courgette"
       },
       {
-        "amount": null,
+        "amount": "1",
         "ingredient": "rode paprika"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Wortel"
       },
       {
         "amount": "400 gram",
         "ingredient": "tortellini met kaas"
-      },
-      {
-        "amount": "1 el",
-        "ingredient": "Italiaanse kruiden"
       },
       {
         "amount": "400 gram",
@@ -942,11 +942,7 @@
         "ingredient": "Parmigiano Reggiano"
       },
       {
-        "amount": "1",
-        "ingredient": "Wortel"
-      },
-      {
-        "amount": null,
+        "amount": "1 el",
         "ingredient": "Italiaanse kruiden"
       },
       {
