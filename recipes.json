@@ -901,6 +901,87 @@
     "time": 5,
     "url": "https://www.lekkerensimpel.com/honing-mosterd-dressing/"
   },
+  "iqulcmsvdr": {
+    "date_created": 1706116749.595321,
+    "date_updated": 1706116749.595321,
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "ui"
+      },
+      {
+        "amount": "2 teentjes",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": null,
+        "ingredient": "courgette"
+      },
+      {
+        "amount": null,
+        "ingredient": "rode paprika"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "tortellini met kaas"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "tomaatblokjes"
+      },
+      {
+        "amount": "250 gram",
+        "ingredient": "mascarpone"
+      },
+      {
+        "amount": "50 gram",
+        "ingredient": "Parmigiano Reggiano"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Wortel"
+      },
+      {
+        "amount": null,
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": null,
+        "ingredient": "Peper en zout"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Tortellini ovenschotel met mascarpone tomatensaus",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Zet een pan met water op voor de tortellini. Breng het water aan de kook en kook de tortellini volgens de bereidingstijd op de verpakking.",
+      "Snipper de ui en de teentjes knoflook.",
+      "Snijd de courgette, wortel en paprika in stukjes.",
+      "Fruit de wortel, ui en knoflook aan. Voeg dan de courgette, paprika, Italiaanse kruiden toe en bak nog een minuutje of 6 mee. Voeg dan de tomatenblokjes en mascarpone toe. Roer goed door. Breng op smaak met zout en peper en Italiaanse kruiden.",
+      "Roer de tortellini door de saus. ",
+      "Serveer en garneer met de Parmigiano Reggiano."
+    ],
+    "remarks": "Je kan natuurlijk ook tortellini met ham of andere vulling gebruiken.",
+    "thumbnail": "https://zoetezusjes.nl/wp-content/uploads/2023/09/tortellinimascarponeovenschotelwebsite2.jpg",
+    "time": null,
+    "url": "https://zoetezusjes.nl/tortelliniovenschotelmetmascarponetomatensaus/"
+  },
   "juwtabweyq": {
     "date_created": 1698954865.150246,
     "date_updated": 1698954865.150246,
