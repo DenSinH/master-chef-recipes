@@ -1938,31 +1938,6 @@
     "time": 54,
     "url": "https://www.bbcgoodfood.com/recipes/next-level-fried-chicken"
   },
-  "rhsatoupff": {
-    "date_created": 1706452555.751148,
-    "date_updated": 1706452695.424181,
-    "ingredients": [],
-    "meta": {
-      "carb_type": [
-        "other"
-      ],
-      "cuisine": "other",
-      "language": null,
-      "meal_type": "other",
-      "meat_type": [
-        "other"
-      ],
-      "temperature": "any"
-    },
-    "name": "Test recipe",
-    "nutrition": null,
-    "people": null,
-    "preparation": [],
-    "remarks": null,
-    "thumbnail": null,
-    "time": null,
-    "url": null
-  },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
     "date_updated": 1704553762.764013,
