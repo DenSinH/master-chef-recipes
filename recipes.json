@@ -2124,7 +2124,7 @@
   },
   "uhxuhmqhel": {
     "date_created": 1705227499.522421,
-    "date_updated": 1706610517.244461,
+    "date_updated": 1706623031.762773,
     "ingredients": [
       {
         "amount": "1 tbsp",
@@ -2221,7 +2221,7 @@
     },
     "name": "Lemony Chicken Orzo Soup",
     "nutrition": null,
-    "people": null,
+    "people": 3,
     "preparation": [
       "Heat oil in a large soup pot over medium-high heat. Add the onion, bell pepper, and fennel and cook for 6\u20138 minutes until just beginning to soften. Add the garlic and cook for 1 minute\u2014season with salt and pepper.",
       "Place the white parts of the scallions in a food processor along with the rosemary, thyme, and parsley and pulse until minced.",
