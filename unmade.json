@@ -950,22 +950,26 @@
   },
   "xevblxmhfp": {
     "date_created": 1704387971.738041,
-    "date_updated": 1704387971.738041,
+    "date_updated": 1706726539.670581,
     "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "Rice"
+      },
       {
         "amount": "650g",
         "ingredient": "chicken breasts"
       },
       {
-        "amount": "1",
+        "amount": "2",
         "ingredient": "onion"
       },
       {
-        "amount": "1",
+        "amount": "2",
         "ingredient": "pepper"
       },
       {
-        "amount": "1",
+        "amount": "3",
         "ingredient": "clove garlic"
       },
       {
@@ -977,11 +981,11 @@
         "ingredient": "sesame seeds"
       },
       {
-        "amount": "1 tbsp",
+        "amount": "2 tbsp",
         "ingredient": "honey"
       },
       {
-        "amount": "3-4 tbsp",
+        "amount": "6 tbsp",
         "ingredient": "cornflour"
       },
       {
@@ -989,21 +993,25 @@
         "ingredient": "Cooking oil"
       },
       {
-        "amount": "1 tbsp",
+        "amount": "2 tbsp",
         "ingredient": "sriracha"
       },
       {
-        "amount": "2 tbsp",
-        "ingredient": "light soy"
+        "amount": "5 tsp",
+        "ingredient": "dark soy"
       },
       {
-        "amount": "1 tsp",
-        "ingredient": "dark soy"
+        "amount": null,
+        "ingredient": "Paprika powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chili flakes"
       }
     ],
     "meta": {
       "carb_type": [
-        "none"
+        "rice"
       ],
       "cuisine": "chinese",
       "language": "en",
@@ -1017,15 +1025,16 @@
     "nutrition": null,
     "people": 4,
     "preparation": [
-      "Slice the chicken breasts in to strips and season with salt, pepper and 1 tbsp of the light soy sauce, toss in cornflour",
-      "Add oil to the pan until 1/2 inch deep and add the chicken, flipping half way. Meanwhile mix together the sauce ingredients: honey, soy and sriracha",
-      "Once cooked remove chicken from pan and set aside",
+      "Cook the rice.",
+      "Slice the chicken breasts in to strips and season with salt, pepper and 2 tbsp of the light soy sauce, toss in cornflour",
+      "Add oil to the pan until 1/2 cm deep and add the chicken, flipping half way. Meanwhile mix together the sauce ingredients: honey, soy and sriracha",
+      "Once cooked remove chicken from pan and set aside, and remove some of the oil",
       "Add the sliced pepper and onion to the pan and fry for 3-4 minutes then add garlic and fry for another minute",
       "Add the chicken back to the pan and add in the sauce, stir on high heat until thickened and coated",
       "Top with spring onions and sesame seeds"
     ],
     "remarks": null,
-    "thumbnail": "https://scontent-ord5-1.cdninstagram.com/v/t51.29350-15/414450890_1080929022958562_1412249807210111294_n.jpg?stp=c353.628.589.589a_dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=c4dd86&_nc_ohc=xWuEUHJeiXkAX__zSF1&_nc_ht=scontent-ord5-1.cdninstagram.com&oh=00_AfDPSxg7Yd4LN1Hk5eUbG4blWiggDzM83tbCdpcAj9liNg&oe=659B1C9B",
+    "thumbnail": "https://i.imgur.com/3vrsl2j.jpg",
     "time": null,
     "url": "https://www.instagram.com/reel/C1eHhh2rAVt/?igsh=enRoY3JpYTJrcHFr"
   },
