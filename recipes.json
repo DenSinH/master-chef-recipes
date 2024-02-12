@@ -2028,6 +2028,80 @@
     "time": 54,
     "url": "https://www.bbcgoodfood.com/recipes/next-level-fried-chicken"
   },
+  "skaenurnut": {
+    "date_created": 1707761754.111641,
+    "date_updated": 1707761754.111641,
+    "ingredients": [
+      {
+        "amount": "1000 gram",
+        "ingredient": "Half- om halfgehakt"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Eieren"
+      },
+      {
+        "amount": "80 gram",
+        "ingredient": "Paneermeel"
+      },
+      {
+        "amount": "1 tot 2 eetlepel",
+        "ingredient": "Italiaanse kruiden (vers of uit pot)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "Zout"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Rode ui"
+      },
+      {
+        "amount": "0.5",
+        "ingredient": "Paprika"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "Knoflookpoeder"
+      },
+      {
+        "amount": "Klontje",
+        "ingredient": "Boter"
+      },
+      {
+        "amount": "Eetlepel",
+        "ingredient": "Olijfolie"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "beef",
+        "pork"
+      ],
+      "temperature": "any"
+    },
+    "name": "Merel's Italiaanse Burgers",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Meng alle ingredi\u00ebnten en een bak. Voeg eventueel extra ei of paneermeel toe als het te nat of droog is. Verdeel dan het mengsel in gelijke delen",
+      "Voeg boter en olijfolie toe aan een pan en laat de boter smelten. Voeg wat verse rozemarijn toe aan de pan om mee te bakken. Voeg dan de hamburgers toe en bak aan beide kanten bruin tot het gaar is. "
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 20,
+    "url": null
+  },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
     "date_updated": 1704553762.764013,
