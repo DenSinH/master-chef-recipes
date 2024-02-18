@@ -1,4 +1,74 @@
 {
+  "cftcorijuh": {
+    "date_created": 1708267775.089476,
+    "date_updated": 1708267775.089476,
+    "ingredients": [
+      {
+        "amount": "500 gram",
+        "ingredient": "rundergehakt"
+      },
+      {
+        "amount": "4",
+        "ingredient": " hamburgerbuns"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "wortel julienne"
+      },
+      {
+        "amount": "1",
+        "ingredient": "stukje verse gember (geschild, geraspt, ca. 4 cm)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "bosje bosuien (in ringen)"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "Sum&Sam teriyaki woksaus"
+      },
+      {
+        "amount": "25 gram",
+        "ingredient": "Sum&Sam gebakken uitjes"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "Sum&Sam wokolie"
+      },
+      {
+        "amount": null,
+        "ingredient": "Verstegen zout en peper"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Oosterse Burger",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "Meng de wortel met de helft van de gember, de helft van de bosui en de helft van de woksaus.",
+      "Kneed het gehakt met de rest van de gember, bosui, woksaus, uitjes, zout en peper.",
+      "Vorm er 4 burgers van.",
+      "Verhit de wokolie in een koekenpan en bak hierin de burgers circa 5 minuten per kant. Keer regelmatig.",
+      "Snijd de broodjes open.",
+      "Schep de wortelsalade op de onderste helften en bestrooi de gebakken uitjes erover.",
+      "Leg daarop de burgers en dek af met de bovenste helften."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": null,
+    "url": "https://www.vomar.nl/recept/oosterse-keuken/oosterse-burger"
+  },
   "dvlxoqrexl": {
     "date_created": 1704794664.581577,
     "date_updated": 1704794664.581577,
