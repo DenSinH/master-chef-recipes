@@ -2985,7 +2985,7 @@
   },
   "xnqcgomblv": {
     "date_created": 1708333059.702921,
-    "date_updated": 1708374373.127876,
+    "date_updated": 1708379353.157231,
     "ingredients": [
       {
         "amount": "2",
@@ -2994,6 +2994,22 @@
       {
         "amount": "180 gram",
         "ingredient": "(Soba) noodles"
+      },
+      {
+        "amount": "500 gram",
+        "ingredient": "Wokgroente"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Ui"
+      },
+      {
+        "amount": "3 teentjes",
+        "ingredient": "Knoflook"
+      },
+      {
+        "amount": null,
+        "ingredient": "Gember"
       },
       {
         "amount": "2",
@@ -3038,22 +3054,6 @@
       {
         "amount": "1 el",
         "ingredient": "ma\u00efzena"
-      },
-      {
-        "amount": null,
-        "ingredient": "Wokgroente"
-      },
-      {
-        "amount": null,
-        "ingredient": "Gember"
-      },
-      {
-        "amount": "1",
-        "ingredient": "Ui"
-      },
-      {
-        "amount": "3 teentjes",
-        "ingredient": "Knoflook"
       }
     ],
     "meta": {
