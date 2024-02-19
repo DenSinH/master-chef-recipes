@@ -1670,7 +1670,7 @@
   },
   "smrnsjcsel": {
     "date_created": 1708333059.702921,
-    "date_updated": 1708333059.702921,
+    "date_updated": 1708365135.870334,
     "ingredients": [
       {
         "amount": "2",
@@ -1678,7 +1678,7 @@
       },
       {
         "amount": "180 gram",
-        "ingredient": "(Udon) noodles"
+        "ingredient": "(Soba) noodles"
       },
       {
         "amount": "2",
@@ -1727,6 +1727,18 @@
       {
         "amount": null,
         "ingredient": "Wokgroente"
+      },
+      {
+        "amount": null,
+        "ingredient": "Gember"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Ui"
+      },
+      {
+        "amount": "3 teentjes",
+        "ingredient": "Knoflook"
       }
     ],
     "meta": {
@@ -1749,7 +1761,8 @@
       "Meng voor de glaze de ketjap, sojasaus, bruine suiker, honing en sesamolie. Smeer de zalm hiermee in en bak 10 a 12 minuten af in de oven. Zet de rest van de glaze opzij voor straks.",
       "Kook de noodles zoals op de verpakking vermeld staat gaar.",
       "Breng ook een pan water aan de kook, voeg de eieren toe wanneer het water kookt en kook precies 6 en een halve minuut. Spoel daarna direct goed af met koud water. Pel en zet opzij.",
-      "Verhit de olie in een koekenpan en bak de roerbakgroente 3 minuten. Voeg de glaze en 100 ml water toe. Maak een ma\u00efzena papje door de ma\u00efzena met een el water te mengen en voeg dit toe aan de saus. Laat al roerend inkoken tot een saus en voeg dan de noodles toe. Meng goed door. Dien de noodles met groente op. Leg de zalm erbovenop en de gehalveerde eitjes erbij. Garneer met crispy chili olie, hoeveelheid naar smaak, sesamzaad en bosui. Dien direct op."
+      "Verhit de olie in een koekenpan en bak de knoflook, ui en gember aan. Bak de roerbakgroente 3 minuten. Voeg de glaze en 100 ml water toe. Maak een ma\u00efzena papje door de ma\u00efzena met een el water te mengen en voeg dit toe aan de saus. Laat al roerend inkoken tot een saus en voeg dan de noodles toe. Meng goed door. ",
+      "Dien de noodles met groente op. Leg de zalm erbovenop en de gehalveerde eitjes erbij. Garneer met crispy chili olie, hoeveelheid naar smaak, sesamzaad en bosui. Dien direct op."
     ],
     "remarks": null,
     "thumbnail": "https://foodfromclaudnine.nl/wp-content/uploads/2023/07/blog-12671-scaled.jpg",
