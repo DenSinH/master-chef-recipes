@@ -1485,7 +1485,7 @@
   },
   "qptacpjixg": {
     "date_created": 1708426090.018571,
-    "date_updated": 1708426113.670204,
+    "date_updated": 1708450234.431943,
     "ingredients": [
       {
         "amount": "2 st",
@@ -1496,8 +1496,12 @@
         "ingredient": "Rode paprika"
       },
       {
-        "amount": "150 g",
+        "amount": "300 g",
         "ingredient": "Falafel balletjes"
+      },
+      {
+        "amount": "200 g",
+        "ingredient": "Halloumi "
       },
       {
         "amount": "4 st",
@@ -1513,7 +1517,7 @@
       },
       {
         "amount": "125 ml",
-        "ingredient": "Soja yoghurt"
+        "ingredient": "Griekse yoghurt"
       },
       {
         "amount": "1 el",
@@ -1526,6 +1530,10 @@
       {
         "amount": "snufje",
         "ingredient": "Peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "Dille"
       }
     ],
     "meta": {
@@ -1578,10 +1586,11 @@
     "people": 2,
     "preparation": [
       "Verwarm de oven voor op 180 \u2103.",
-      "Pel en snipper de ui. Was de paprika, verwijder de zaadlijsten en snijd in blokjes. Verhit bakolie in een koekenpan en bak de ui en paprika.",
-      "Bak de falafel balletjes 5 minuten mee.",
+      "Pel en snijd de ui in ringen. Was de paprika, verwijder de zaadlijsten en snijd in blokjes.",
+      "Bak de falafel balletjes 5 minuten in een pan met olie.",
+      "Bak ook de halloumi tot goudbruin.",
       "Maak de pitabroodjes een klein beetje vochtig en rooster voor 5 minuten in de voorverwarmde oven (je kunt ook een broodrooster gebruiken om de broodjes te verwarmen).",
-      "Was intussen de komkommer en rasp de helft fijn. Druk het vocht eruit door gebruik te maken van een zeef. Doe de rasp vervolgens in een kom. Pers de knoflook erboven uit. Meng de komkommer met de soja yoghurt en breng op smaak met citroensap en peper.",
+      "Was intussen de komkommer en rasp de helft fijn. Druk het vocht eruit door gebruik te maken van een zeef. Doe de rasp vervolgens in een kom. Pers de knoflook erboven uit. Meng de komkommer met de yoghurt en breng op smaak met citroensap, peper en dille.",
       "De rest van de komkommer snijd je in hele dunne plakjes.",
       "Snijd de warme pitabroodjes doormidden en vul met de falafel balletjes, paprika, ui, overgebleven komkommerplakjes en tzatziki."
     ],
