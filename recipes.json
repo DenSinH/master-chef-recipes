@@ -1070,6 +1070,122 @@
     "time": null,
     "url": "https://zoetezusjes.nl/tortelliniovenschotelmetmascarponetomatensaus/"
   },
+  "jeruileiyf": {
+    "date_created": 1708426090.018571,
+    "date_updated": 1708451114.112037,
+    "ingredients": [
+      {
+        "amount": "2 st",
+        "ingredient": "Rode ui"
+      },
+      {
+        "amount": "2 st",
+        "ingredient": "Rode paprika"
+      },
+      {
+        "amount": "300 g",
+        "ingredient": "Falafel balletjes"
+      },
+      {
+        "amount": "200 g",
+        "ingredient": "Halloumi "
+      },
+      {
+        "amount": "4 st",
+        "ingredient": "Pitabroodjes"
+      },
+      {
+        "amount": "2 st",
+        "ingredient": "Knoflookteen"
+      },
+      {
+        "amount": "1 st",
+        "ingredient": "Komkommer"
+      },
+      {
+        "amount": "125 ml",
+        "ingredient": "Griekse yoghurt"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "Bakolie"
+      },
+      {
+        "amount": "el",
+        "ingredient": "Citroensap"
+      },
+      {
+        "amount": "snufje",
+        "ingredient": "Peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "Dille"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "middle eastern",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Pitabroodjes met falafel en tzatziki",
+    "nutrition": [
+      {
+        "amount": "666 kcal",
+        "group": "Energie"
+      },
+      {
+        "amount": "85 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "14 g",
+        "group": "Suiker"
+      },
+      {
+        "amount": "21 g",
+        "group": "Vet"
+      },
+      {
+        "amount": "3 g",
+        "group": "Verzadigd vet"
+      },
+      {
+        "amount": "22 g",
+        "group": "Eiwit"
+      },
+      {
+        "amount": "22 g",
+        "group": "Vezels"
+      },
+      {
+        "amount": "2.2 g",
+        "group": "Zout"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Verwarm de oven voor op 180 \u2103.",
+      "Pel en snijd de ui in ringen. Was de paprika, verwijder de zaadlijsten en snijd in blokjes.",
+      "Bak de falafel balletjes 5 minuten in een pan met olie.",
+      "Bak ook de halloumi tot goudbruin.",
+      "Maak de pitabroodjes een klein beetje vochtig en rooster voor 5 minuten in de voorverwarmde oven (je kunt ook een broodrooster gebruiken om de broodjes te verwarmen).",
+      "Was intussen de komkommer en rasp de helft fijn. Druk het vocht eruit door gebruik te maken van een zeef. Doe de rasp vervolgens in een kom. Pers de knoflook erboven uit. Meng de komkommer met de yoghurt en breng op smaak met citroensap, peper en dille.",
+      "De rest van de komkommer snijd je in hele dunne plakjes.",
+      "Snijd de warme pitabroodjes doormidden en vul met de falafel balletjes, paprika, ui, overgebleven komkommerplakjes en tzatziki."
+    ],
+    "remarks": null,
+    "thumbnail": "https://i.imgur.com/P6bsyAt.jpeg",
+    "time": 30,
+    "url": "https://www.ekomenu.nl/recipe/pitabroodjes-met-falafel-en-tzatziki"
+  },
   "juwtabweyq": {
     "date_created": 1698954865.150246,
     "date_updated": 1698954865.150246,
