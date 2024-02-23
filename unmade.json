@@ -1200,6 +1200,87 @@
     "time": 65,
     "url": "https://www.giallozafferano.com/recipes/Lasagne-with-sausage-ragu.html"
   },
+  "nvjrnbrbjb": {
+    "date_created": 1708648802.662313,
+    "date_updated": 1708648802.662313,
+    "ingredients": [
+      {
+        "amount": "600g",
+        "ingredient": "chicken breast, uncooked"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sweet paprika"
+      },
+      {
+        "amount": null,
+        "ingredient": "Black pepper and salt"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "1 red onion, thinly chopped"
+      },
+      {
+        "amount": null,
+        "ingredient": "3 garlic cloves, minced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Garlic and paprika taco seasoning mix"
+      },
+      {
+        "amount": "400ml",
+        "ingredient": "tomato passata"
+      },
+      {
+        "amount": "60ml",
+        "ingredient": "water"
+      },
+      {
+        "amount": "70-80g",
+        "ingredient": "Grated cheese"
+      },
+      {
+        "amount": "10",
+        "ingredient": "mini wheat and corn tortillas"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "olive oil"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Garlic and Paprika Pulled Chicken Taquitos",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "In a mixing bowl, add the uncooked chicken, sweet paprika, salt, black pepper and 1 tbsp of olive oil, combine well and bake, air fry or pan fry until chicken is cooked thoroughly.",
+      "Once is slightly cooled down, shred or cut into bite size pieces.",
+      "Heat 1 tbsp of olive oil in a pan, add the chopped onion and saute for 2-3 min, add the minced garlic and fry for few seconds, then add the tomato passata, water and the garlic and paprika taco seasoning, mix well and simmer for 5-6 min, add the shredded chicken and grated cheese and combine.",
+      "Place two large spoonfuls of filling in a line along each tortilla and roll tightly and place seam side down in an oven safe casserole or baking tray. Sprinkle some grated cheese on top.",
+      "Bake in pre heated oven(170-180C) until crispy and cheese is melted.",
+      "Enjoy !!!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.29350-15/428715952_792634466011276_2454141841320783444_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=KHUUfc6__7AAX8gwq4M&_nc_ht=scontent-fra5-1.cdninstagram.com&oh=00_AfBUkMOC0uA0532WrAfOqmFR61fEM6Xvz83aoVCx5QyuaA&oe=65DC54FB",
+    "time": null,
+    "url": "https://www.instagram.com/reel/C3iNvsxIbpO/?igsh=MTM0NWJuNm82YXlsaQ=="
+  },
   "opcmaufbdc": {
     "date_created": 1706876541.66849,
     "date_updated": 1706876541.66849,
