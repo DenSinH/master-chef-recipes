@@ -177,10 +177,10 @@
   },
   "anwguqjmjy": {
     "date_created": 1695115133.570012,
-    "date_updated": 1695115133.570012,
+    "date_updated": 1708862533.711079,
     "ingredients": [
       {
-        "amount": "2",
+        "amount": "400 g",
         "ingredient": "bakken kastagnechampignons"
       },
       {
@@ -210,6 +210,14 @@
       {
         "amount": "1",
         "ingredient": "prei"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Sjalotten "
+      },
+      {
+        "amount": "3 tenen",
+        "ingredient": "Knoflook"
       }
     ],
     "meta": {
