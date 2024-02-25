@@ -177,7 +177,7 @@
   },
   "anwguqjmjy": {
     "date_created": 1695115133.570012,
-    "date_updated": 1708862533.711079,
+    "date_updated": 1708879062.2955,
     "ingredients": [
       {
         "amount": "400 g",
@@ -196,14 +196,6 @@
         "ingredient": "creme fraiche"
       },
       {
-        "amount": "80 g",
-        "ingredient": "Parmezaanse kaas"
-      },
-      {
-        "amount": "1 el",
-        "ingredient": "bloem"
-      },
-      {
         "amount": "500 g",
         "ingredient": "gnocchi (Rummo)"
       },
@@ -218,6 +210,18 @@
       {
         "amount": "3 tenen",
         "ingredient": "Knoflook"
+      },
+      {
+        "amount": "1 ",
+        "ingredient": "Bouillonblokje "
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "bloem"
+      },
+      {
+        "amount": "80 g",
+        "ingredient": "Parmezaanse kaas"
       }
     ],
     "meta": {
