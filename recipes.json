@@ -622,6 +622,105 @@
     "time": 30,
     "url": "https://www.instagram.com/reel/CzolF0Iuw-a/?igsh=MXg2a3J0bjl0dGV0aQ=="
   },
+  "ewyzfjmijs": {
+    "date_created": 1708878589.521242,
+    "date_updated": 1708878589.521242,
+    "ingredients": [
+      {
+        "amount": "1 el",
+        "ingredient": "arachideolie"
+      },
+      {
+        "amount": "4",
+        "ingredient": "scharrelkipschnitzels"
+      },
+      {
+        "amount": "250 g",
+        "ingredient": "cherrytomaten"
+      },
+      {
+        "amount": "12.5 g",
+        "ingredient": "verse bieslook"
+      },
+      {
+        "amount": "340 g",
+        "ingredient": "mais in pot"
+      },
+      {
+        "amount": "150 g",
+        "ingredient": "peen julienne"
+      },
+      {
+        "amount": "50 g",
+        "ingredient": "rozijnen"
+      },
+      {
+        "amount": "4 el",
+        "ingredient": "milde halfvolle yoghurt"
+      },
+      {
+        "amount": "8",
+        "ingredient": "volkoren tortillawraps"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "any"
+    },
+    "name": "Wraps met kipschnitzel, mais en rozijnen",
+    "nutrition": [
+      {
+        "amount": "585 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "80 g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "800 mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "27 g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "16 g",
+        "group": "vet"
+      },
+      {
+        "amount": "3 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "7 g",
+        "group": "vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Verhit de olie in een hapjespan en bak de kip in 8 min. op middelhoog vuur goudbruin en krokant. Keer halverwege. Neem uit de pan en snijd in repen.",
+      "Halveer ondertussen de cherrytomaten en snijd de bieslook fijn.",
+      "Laat de mais uitlekken.",
+      "Schep de cherrytomaten, bieslook, mais, peen julienne, rozijnen en yoghurt door elkaar en breng op smaak met peper en eventueel zout.",
+      "Verwarm de wraps volgens de aanwijzingen op de verpakking.",
+      "Verdeel de salade en schnitzelrepen over de wraps.",
+      "Serveer de rest van de salade erbij."
+    ],
+    "remarks": null,
+    "thumbnail": "https://i.imgur.com/eZiTGH0.jpeg",
+    "time": 13,
+    "url": null
+  },
   "feettmxzuf": {
     "date_created": 1701962961.078538,
     "date_updated": 1701962972.848009,
