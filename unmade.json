@@ -1885,6 +1885,122 @@
     "time": 240,
     "url": "https://rutgerbakt.nl/dessert-recepten/klassieke-tiramisu-recept/"
   },
+  "xhdhkepuvw": {
+    "date_created": 1709138018.91309,
+    "date_updated": 1709138018.91309,
+    "ingredients": [
+      {
+        "amount": "1 tbsp",
+        "ingredient": "vegetable oil"
+      },
+      {
+        "amount": "1",
+        "ingredient": "onion, finely sliced"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Garlic clove"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chicken breasts, sliced into strips"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "chipotle paste"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "can chopped tomatoes"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "can black beans, drained"
+      },
+      {
+        "amount": "4",
+        "ingredient": "large corn or flour tortilla wraps"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "avocado, stoned, peeled and sliced"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "Baby Gem lettuce, shredded"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Lime, halved"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Chipotle chicken wraps",
+    "nutrition": [
+      {
+        "amount": "425",
+        "group": "kcal"
+      },
+      {
+        "amount": "11g",
+        "group": "fat"
+      },
+      {
+        "amount": "3g",
+        "group": "saturates"
+      },
+      {
+        "amount": "49g",
+        "group": "carbs"
+      },
+      {
+        "amount": "9g",
+        "group": "sugars"
+      },
+      {
+        "amount": "9g",
+        "group": "fibre"
+      },
+      {
+        "amount": "28g",
+        "group": "protein"
+      },
+      {
+        "amount": "1.2g",
+        "group": "salt"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Heat the oil in a frying pan over a low-medium heat.",
+      "Toss in the onion and cook for 10 mins until softened.",
+      "Crush in the garlic and stir for 1 min before adding the chicken.",
+      "Turn up the heat and brown the chicken all over.",
+      "Spoon over the chipotle and stir to coat for 1 min.",
+      "Pour in the tomatoes and bring to the boil.",
+      "Season well and reduce the heat to a gentle simmer.",
+      "Cook for 5-6 mins or until the chicken is cooked through and any excess liquid has evaporated.",
+      "Stir the beans through until warmed, then remove from the heat.",
+      "Warm the wraps following pack instructions.",
+      "Divide the mix between the wraps, top with the avocado and shredded lettuce, and squeeze over the lime.",
+      "Roll up and cut in half before serving."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 40,
+    "url": "https://www.bbcgoodfood.com/recipes/chipotle-chicken-wraps"
+  },
   "yrcbbbyvte": {
     "date_created": 1704406300.94682,
     "date_updated": 1704406300.94682,
