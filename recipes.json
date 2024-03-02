@@ -3330,6 +3330,79 @@
     "time": 25,
     "url": "https://www.leukerecepten.nl/recepten/kip-madras/"
   },
+  "wwrpqvbwwa": {
+    "date_created": 1707419131.177072,
+    "date_updated": 1709383091.063571,
+    "ingredients": [
+      {
+        "amount": "200 ml",
+        "ingredient": "espresso"
+      },
+      {
+        "amount": "50 ml",
+        "ingredient": "amandellikeur, marsala of cognac"
+      },
+      {
+        "amount": null,
+        "ingredient": "lange vingers"
+      },
+      {
+        "amount": "4",
+        "ingredient": "eidooiers"
+      },
+      {
+        "amount": "110 gr",
+        "ingredient": "suiker"
+      },
+      {
+        "amount": "500 gr",
+        "ingredient": "mascarpone, op kamertemperatuur"
+      },
+      {
+        "amount": "3",
+        "ingredient": "eiwitten"
+      },
+      {
+        "amount": "snuf",
+        "ingredient": "zout"
+      },
+      {
+        "amount": null,
+        "ingredient": "cacaopoeder, om te bestrooien"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "dessert",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Klassieke tiramisu",
+    "nutrition": null,
+    "people": 6,
+    "preparation": [
+      "Klop de eidooiers met de helft van de suiker met een (hand)mixer met garde(s) tot een zeer romig mengsel, dit duurt zeker 5 minuten.",
+      "Voeg vervolgens de mascarpone toe aan het eidooiermengsel en klop dit tot een homogene massa.",
+      "Doe de eiwitten met een snuf zout in een vetvrije kom en zorg dat de garde(s) van de mixer heel goed schoongemaakt zijn.",
+      "Klop de eiwitten met een (hand)mixer met garde(s) stijf.",
+      "Voeg lepel voor lepel de resterende suiker toe.",
+      "Spatel het stijfgeklopte eiwit door het mascarponemengsel en meng dit tot een egale cr\u00e8me.",
+      "Meng de espresso met de drank naar keuze. Doop hier de lange vingers \u00e9\u00e9n voor \u00e9\u00e9n kort in en bedek daarmee de bodem van een (oven)schaal van ongeveer 25\u00d718 centimeter.",
+      "Verdeel hier de helft van het tiramisumengsel overheen en strijk dit glad.",
+      "Herhaal beide stappen en zet de tiramisu minimaal 4 uur in de koelkast om op te stijven.",
+      "Bestuif voor het serveren met een dikke laag cacaopoeder."
+    ],
+    "remarks": null,
+    "thumbnail": "https://i.imgur.com/Z4kLSab.jpeg",
+    "time": 240,
+    "url": "https://rutgerbakt.nl/dessert-recepten/klassieke-tiramisu-recept/"
+  },
   "xnqcgomblv": {
     "date_created": 1708333059.702921,
     "date_updated": 1708426152.82752,
