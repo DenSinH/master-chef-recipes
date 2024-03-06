@@ -343,7 +343,7 @@
   },
   "brhrwcvcjw": {
     "date_created": 1709758706.109313,
-    "date_updated": 1709758719.183555,
+    "date_updated": 1709758788.61159,
     "ingredients": [
       {
         "amount": "\u00bd tbsp",
@@ -400,6 +400,10 @@
       {
         "amount": null,
         "ingredient": "Sesame seeds"
+      },
+      {
+        "amount": "400 gr",
+        "ingredient": "Chinese vegetable mix"
       }
     ],
     "meta": {
@@ -418,6 +422,7 @@
     "nutrition": null,
     "people": 2,
     "preparation": [
+      "While making the tofu with the steps below, cook the rice and fry the vegetable mix.",
       "Coat 280g tofu in cornflour and pinch of white pepper.",
       "Add 1 tbsp vegetable oil to a pan and heat it up. Add the tofu to the pan and cook, stirring intermittently until golden.",
       "Mix the sugar, cornflour, soy sauce, balsemic vinegar, brown sugar, vegetable stock, water and cooking sake to make the sauce.",
