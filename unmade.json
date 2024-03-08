@@ -526,6 +526,110 @@
     "time": null,
     "url": "https://www.tiktok.com/t/ZT8VFEAT9/"
   },
+  "icighwgkpu": {
+    "date_created": 1709893272.250324,
+    "date_updated": 1709893272.250324,
+    "ingredients": [
+      {
+        "amount": "400 gram",
+        "ingredient": "paddenstoelen mix"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ui (gesnipperd)"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook (fijngesneden)"
+      },
+      {
+        "amount": "2 takjes",
+        "ingredient": "verse tijm"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "bloem"
+      },
+      {
+        "amount": "1 liter",
+        "ingredient": "champignonbouillon"
+      },
+      {
+        "amount": "150 ml",
+        "ingredient": "kookroom/slagroom"
+      },
+      {
+        "amount": "4 plakjes",
+        "ingredient": "bladerdeeg (uit de koeling of ontdooid)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ei + een scheutje melk"
+      },
+      {
+        "amount": null,
+        "ingredient": "boter, verse peterselie, peper en zout"
+      },
+      {
+        "amount": null,
+        "ingredient": "optioneel: geraspte Parmezaanse kaas"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Paddenstoelensoep",
+    "nutrition": [
+      {
+        "amount": "355 kcal",
+        "group": "Calorie\u00ebn"
+      },
+      {
+        "amount": "17 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "11 g",
+        "group": "Eiwitten"
+      },
+      {
+        "amount": "19 g",
+        "group": "Vetten"
+      },
+      {
+        "amount": "9 g",
+        "group": "Verzadigd vet"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Borstel de paddenstoelen schoon en snij in plakjes.",
+      "Verhit een beetje boter in een ruime pan en fruit de ui en knoflook even aan.",
+      "Bak dan de paddenstoelen mee samen met de tijm.",
+      "Als ze bijna gaar zijn voeg je de bloem toe.",
+      "Bak even kort mee en schenk dan de bouillon erbij.",
+      "Breng aan de kook en als het kookt roer je de room erdoor.",
+      "Laat de soep een klein half uurtje pruttelen en breng op smaak met peper en zout.",
+      "Verwarm ondertussen de oven voor op 220 graden boven- en onderwarmte.",
+      "Vis de takjes van de tijm uit de soep.",
+      "Schenk de soep in hittebestendige kom, bestrijk de randen van de kom met het ei, leg het bladerdeeg eroverheen.",
+      "Bestrijk de bladerdeegdakjes met de rest van het ei en strooi er wat sesamzaadjes (of een mix van sesam/ maanzaadjes), tijm en/of Parmezaanse kaas over en bak in 8-10 min gaar en goudbruin.",
+      "Serveer direct, eet smakelijk!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.eefkooktzo.nl/wp-content/uploads/2023/11/Paddestoelensoep-recept.jpg",
+    "time": 50,
+    "url": "https://www.eefkooktzo.nl/paddenstoelensoep/"
+  },
   "ieetjrqbbq": {
     "date_created": 1707055252.843954,
     "date_updated": 1707055252.843954,
