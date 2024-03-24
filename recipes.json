@@ -1670,6 +1670,104 @@
     "time": 30,
     "url": "https://www.ekomenu.nl/recipe/pitabroodjes-met-falafel-en-tzatziki"
   },
+  "jttijruome": {
+    "date_created": 1711269603.246204,
+    "date_updated": 1711269603.246204,
+    "ingredients": [
+      {
+        "amount": "3 tbsp",
+        "ingredient": "rapeseed (canola) oil"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "cumin seeds"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "coriander seeds"
+      },
+      {
+        "amount": null,
+        "ingredient": "Indian bay leaf (cassia leaf)"
+      },
+      {
+        "amount": "4",
+        "ingredient": "onions, finely chopped"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "ground cumin"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "garlic and ginger paste"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "red chilli powder (more or less to taste)"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "ground turmeric"
+      },
+      {
+        "amount": "4 tennis ball-size",
+        "ingredient": "tomatoes, finely chopped"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "100ml ",
+        "ingredient": "tomato pur\u00e9e or plain passata (sieved tomatoes)"
+      },
+      {
+        "amount": "1.6kg",
+        "ingredient": "skinless chicken thighs, bone-in"
+      },
+      {
+        "amount": "1\u20132 tsp",
+        "ingredient": "garam masala"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "indian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Chicken Masala Curry",
+    "nutrition": null,
+    "people": 8,
+    "preparation": [
+      "In a large saucepan that has a lid, heat the oil over a medium\u2013high heat.",
+      "When hot, add the cumin seeds, coriander seeds and bay leaf and temper in the oil for about 30 seconds.",
+      "Pour in the chopped onions.",
+      "Fry for about 5 minutes until the onions are soft and translucent.",
+      "Stir in the ground cumin and coriander, garlic and ginger paste, chilli powder and turmeric followed by the chopped tomatoes and allow to sizzle over a medium heat for about 5 minutes.",
+      "Add the salt to this mixture and it will help the onion release moisture into the sauce.",
+      "The onions and tomatoes will begin to break down, turning into a thick sauce.",
+      "Stir in the tomato pur\u00e9e or passata (sieved tomatoes) and sizzle for about 30 seconds, then add the chicken.",
+      "Stir it all up nicely and pour in just enough water to cover the chicken.",
+      "Cover the curry and let it simmer for about 10 minutes. The sauce will become nice and thick and will stick to the chicken pieces as they cook.",
+      "Remove the lid and stir, adding a drop more water if you prefer a thinner sauce or turning up the heat if it is too runny.",
+      "You\u2019ll know the curry is ready when the oil comes to the top. Simply skim it off.",
+      "Stir in 1 teaspoon of the garam masala and taste.",
+      "Add more salt if needed.",
+      "I usually use about 2 teaspoons of garam masala."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 40,
+    "url": null
+  },
   "juwtabweyq": {
     "date_created": 1698954865.150246,
     "date_updated": 1698954865.150246,
