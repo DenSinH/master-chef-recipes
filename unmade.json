@@ -384,7 +384,7 @@
   },
   "egcscrnozk": {
     "date_created": 1711454215.380392,
-    "date_updated": 1711454215.380392,
+    "date_updated": 1711454339.203849,
     "ingredients": [
       {
         "amount": "1 can (400g)",
@@ -429,26 +429,6 @@
       {
         "amount": null,
         "ingredient": "desired burger toppings: lettuce, tomato, etc."
-      },
-      {
-        "amount": "1 cup",
-        "ingredient": "mayonnaise"
-      },
-      {
-        "amount": "2",
-        "ingredient": "chipotle peppers in adobo sauce"
-      },
-      {
-        "amount": "1 tbsp",
-        "ingredient": "adobo sauce (from can of chipotle peppers in adobo sauce)"
-      },
-      {
-        "amount": "2 tsp",
-        "ingredient": "lime juice"
-      },
-      {
-        "amount": null,
-        "ingredient": "salt and freshly ground black pepper"
       }
     ],
     "meta": {
