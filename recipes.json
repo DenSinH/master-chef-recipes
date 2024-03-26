@@ -4338,6 +4338,153 @@
     "time": 30,
     "url": "https://smaakmenutie.nl/kip-in-romige-tomatensaus-met-rijst-en-groenten/"
   },
+  "ytnexdltjc": {
+    "date_created": 1711454215.380392,
+    "date_updated": 1711474388.53385,
+    "ingredients": [
+      {
+        "amount": "1 can (400g)",
+        "ingredient": "black beans, drained and rinsed"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "green bell pepper"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "small onion"
+      },
+      {
+        "amount": "2",
+        "ingredient": "cloves garlic, peeled"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large egg*, beaten"
+      },
+      {
+        "amount": "2/3 cup",
+        "ingredient": "whole wheat breadcrumbs"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "chili powder"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "cumin"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt and freshly ground black pepper, to taste"
+      },
+      {
+        "amount": "4",
+        "ingredient": "hamburger buns"
+      },
+      {
+        "amount": null,
+        "ingredient": "desired burger toppings: lettuce, tomato, etc."
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "The BEST Black Bean Burger",
+    "nutrition": [
+      {
+        "amount": "149 kcal",
+        "group": "Calories"
+      },
+      {
+        "amount": "28 g",
+        "group": "Carbohydrates"
+      },
+      {
+        "amount": "8 g",
+        "group": "Protein"
+      },
+      {
+        "amount": "2 g",
+        "group": "Fat"
+      },
+      {
+        "amount": "1 g",
+        "group": "Saturated Fat"
+      },
+      {
+        "amount": "1 g",
+        "group": "Polyunsaturated Fat"
+      },
+      {
+        "amount": "1 g",
+        "group": "Monounsaturated Fat"
+      },
+      {
+        "amount": "1 g",
+        "group": "Trans Fat"
+      },
+      {
+        "amount": "37 mg",
+        "group": "Cholesterol"
+      },
+      {
+        "amount": "445 mg",
+        "group": "Sodium"
+      },
+      {
+        "amount": "350 mg",
+        "group": "Potassium"
+      },
+      {
+        "amount": "8 g",
+        "group": "Fiber"
+      },
+      {
+        "amount": "1 g",
+        "group": "Sugar"
+      },
+      {
+        "amount": "581 IU",
+        "group": "Vitamin A"
+      },
+      {
+        "amount": "16 mg",
+        "group": "Vitamin C"
+      },
+      {
+        "amount": "49 mg",
+        "group": "Calcium"
+      },
+      {
+        "amount": "3 mg",
+        "group": "Iron"
+      }
+    ],
+    "people": 1,
+    "preparation": [
+      "Mash black beans: Place rinsed and drained black beans in a bowl. If needed, blot them with a paper towel to remove extra moisture. Place in a large bowl and mash well with a fork.",
+      "Puree Veggies: Place bell pepper, onion and garlic in a food processor and process until finely minced.",
+      "Strain: Transfer pureed veggie mixture to a fine mesh strainer and use the back of a spoon to press out excess moisture. (If it's too wet, the burger wont hold together as well.)",
+      "Combine: Add the strained vegetable mixture to the bowl with the black beans. Add the chili powder, cumin and salt and pepper and stir to combine. Add beaten egg and mix. Stir in bread crumbs.",
+      "Form Patties: scoop mixture into 4 even sized patties, forming them and pressing flat with your hands.",
+      "Cook on Grill, Stove or Oven: To Grill: Cook on well oiled grill over medium heat, for 4-5 minutes on each side. To Cook on Stove: Cook over medium heat in a greased grill pan or skillet for 4-5 minutes on each side. To Cook in Oven: Bake at 375 degrees F on a lightly oiled baking sheet, for 8-10 minutes on each side.",
+      "Assemble: Serve burgers on a bun or lettuce wrap and top with a spoonful of chipotle mayo, lettuce, tomato, cheese, avocado, or any desired toppings!"
+    ],
+    "remarks": "Recept voor 4 burgers",
+    "thumbnail": "https://i.imgur.com/5ad6B6N.jpeg",
+    "time": 25,
+    "url": "https://tastesbetterfromscratch.com/the-best-black-bean-burger/"
+  },
   "yuvrnlcgwt": {
     "date_created": 1709185827.940899,
     "date_updated": 1709233366.209854,
