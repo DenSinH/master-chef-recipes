@@ -384,7 +384,7 @@
   },
   "egcscrnozk": {
     "date_created": 1711454215.380392,
-    "date_updated": 1711454500.02577,
+    "date_updated": 1711474381.958363,
     "ingredients": [
       {
         "amount": "1 can (400g)",
@@ -433,8 +433,7 @@
     ],
     "meta": {
       "carb_type": [
-        "bread",
-        "legumes"
+        "bread"
       ],
       "cuisine": "other",
       "language": "en",
@@ -526,7 +525,7 @@
       "Assemble: Serve burgers on a bun or lettuce wrap and top with a spoonful of chipotle mayo, lettuce, tomato, cheese, avocado, or any desired toppings!"
     ],
     "remarks": "Recept voor 4 burgers",
-    "thumbnail": "https://tastesbetterfromscratch.com/wp-content/uploads/2019/06/Black-Bean-Burgers-Web-18.jpg",
+    "thumbnail": "https://i.imgur.com/5ad6B6N.jpeg",
     "time": 25,
     "url": "https://tastesbetterfromscratch.com/the-best-black-bean-burger/"
   },
