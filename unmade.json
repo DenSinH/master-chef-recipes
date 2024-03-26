@@ -384,7 +384,7 @@
   },
   "egcscrnozk": {
     "date_created": 1711454215.380392,
-    "date_updated": 1711454339.203849,
+    "date_updated": 1711454475.450099,
     "ingredients": [
       {
         "amount": "1 can (400g)",
@@ -514,7 +514,7 @@
         "group": "Iron"
       }
     ],
-    "people": null,
+    "people": 1,
     "preparation": [
       "Mash black beans: Place rinsed and drained black beans in a bowl. If needed, blot them with a paper towel to remove extra moisture. Place in a large bowl and mash well with a fork.",
       "Puree Veggies: Place bell pepper, onion and garlic in a food processor and process until finely minced.",
@@ -524,7 +524,7 @@
       "Cook on Grill, Stove or Oven: To Grill: Cook on well oiled grill over medium heat, for 4-5 minutes on each side. To Cook on Stove: Cook over medium heat in a greased grill pan or skillet for 4-5 minutes on each side. To Cook in Oven: Bake at 375 degrees F on a lightly oiled baking sheet, for 8-10 minutes on each side.",
       "Assemble: Serve burgers on a bun or lettuce wrap and top with a spoonful of chipotle mayo, lettuce, tomato, cheese, avocado, or any desired toppings!"
     ],
-    "remarks": null,
+    "remarks": "Recept voor 4 burgers",
     "thumbnail": "https://tastesbetterfromscratch.com/wp-content/uploads/2019/06/Black-Bean-Burgers-Web-18.jpg",
     "time": 25,
     "url": "https://tastesbetterfromscratch.com/the-best-black-bean-burger/"
