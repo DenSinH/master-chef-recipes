@@ -384,7 +384,7 @@
   },
   "egcscrnozk": {
     "date_created": 1711454215.380392,
-    "date_updated": 1711454475.450099,
+    "date_updated": 1711454500.02577,
     "ingredients": [
       {
         "amount": "1 can (400g)",
@@ -433,7 +433,8 @@
     ],
     "meta": {
       "carb_type": [
-        "bread"
+        "bread",
+        "legumes"
       ],
       "cuisine": "other",
       "language": "en",
