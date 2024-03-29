@@ -3652,7 +3652,7 @@
   },
   "vkiipwuqao": {
     "date_created": 1704406300.94682,
-    "date_updated": 1711697613.418897,
+    "date_updated": 1711697735.058037,
     "ingredients": [
       {
         "amount": "2",
@@ -3700,10 +3700,6 @@
       },
       {
         "amount": null,
-        "ingredient": "Rice"
-      },
-      {
-        "amount": null,
         "ingredient": "spring onion"
       },
       {
@@ -3711,12 +3707,12 @@
         "ingredient": "garlic"
       },
       {
-        "amount": null,
-        "ingredient": "chopped bell pepper"
-      },
-      {
         "amount": "600g",
         "ingredient": "cooked white rice"
+      },
+      {
+        "amount": null,
+        "ingredient": "chopped bell pepper"
       },
       {
         "amount": "50ml",
