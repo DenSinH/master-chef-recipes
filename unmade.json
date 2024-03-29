@@ -2265,7 +2265,7 @@
   },
   "yrcbbbyvte": {
     "date_created": 1704406300.94682,
-    "date_updated": 1711697409.223681,
+    "date_updated": 1711697538.324205,
     "ingredients": [
       {
         "amount": "2",
@@ -2274,6 +2274,10 @@
       {
         "amount": "70g",
         "ingredient": "bell pepper"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "stir fry vegetable mix"
       },
       {
         "amount": "600g",
@@ -2361,17 +2365,18 @@
     ],
     "people": 5,
     "preparation": [
-      "Crack 2 eggs and whisk and then chop spring onion and 70g bell pepper",
-      "Then to 600g raw lean beef mince add tbsp garlic, tbsp onion powder , 50ml light soy sauce and tbsp sesame oil",
+      "To 600g raw lean beef mince add tbsp garlic, tbsp onion powder , 50ml light soy sauce and tbsp sesame oil",
       "Mix together and cook for 10 mins with on high heat until crispy",
       "Then add 1 Tbsp gochujang paste ( or tomato paste if you can\u2019t find it ), 80ml light soy sauce, 20g honey ",
       "Sitr and let it simmer and finish with spring onion",
       "For the golden fried rice: add 1 tbsp garlic, your chopped bell pepper and spring onion",
+      "Add the vegetable mix and cook for a bit",
+      "Meanwhile, crack 2 eggs and whisk and then chop spring onion and 70g bell pepper",
       "Your whisked 2 eggs, scramble and then add in 600g cooked white rice",
-      "Followed by 50ml light soy sauce , stir and finish with 15g sesame seeds",
+      "Followed by 50ml light soy sauce, stir and finish with 15g sesame seeds",
       "Add equal portions to meal prep containers"
     ],
-    "remarks": null,
+    "remarks": "Lekker met (cassave) kroepoek",
     "thumbnail": "https://i.imgur.com/GovD14C.jpeg",
     "time": null,
     "url": "https://www.instagram.com/reel/C0ovXdDNUj8/?igsh=aW5ta25tbnh2ZDl6"
