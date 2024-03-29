@@ -3652,7 +3652,7 @@
   },
   "vkiipwuqao": {
     "date_created": 1704406300.94682,
-    "date_updated": 1711697571.040608,
+    "date_updated": 1711697613.418897,
     "ingredients": [
       {
         "amount": "2",
@@ -3667,7 +3667,7 @@
         "ingredient": "stir fry vegetable mix"
       },
       {
-        "amount": "600g",
+        "amount": "800g",
         "ingredient": "raw lean beef mince"
       },
       {
@@ -3697,6 +3697,10 @@
       {
         "amount": "20g",
         "ingredient": "honey"
+      },
+      {
+        "amount": null,
+        "ingredient": "Rice"
       },
       {
         "amount": null,
