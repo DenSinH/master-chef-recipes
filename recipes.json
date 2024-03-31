@@ -841,6 +841,84 @@
     "time": 30,
     "url": "https://www.instagram.com/reel/CzolF0Iuw-a/?igsh=MXg2a3J0bjl0dGV0aQ=="
   },
+  "ecegsypnmt": {
+    "date_created": 1711902327.487377,
+    "date_updated": 1711902327.487377,
+    "ingredients": [
+      {
+        "amount": "4 el",
+        "ingredient": "Hela cranberry-peperdressing"
+      },
+      {
+        "amount": "500 g",
+        "ingredient": "biologische gekookte bietjes"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "rodewijnazijn"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "suiker"
+      },
+      {
+        "amount": "200 g",
+        "ingredient": "feta 43+"
+      },
+      {
+        "amount": "85 g",
+        "ingredient": "rucola"
+      },
+      {
+        "amount": "90 g",
+        "ingredient": "Granaatappelpitjes"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "room temperature"
+    },
+    "name": "Salade met zoetzure bietjes, feta en cranberry-peperdressing",
+    "nutrition": [
+      {
+        "amount": "247 kcal",
+        "group": "Energie"
+      },
+      {
+        "amount": "17 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "11 g",
+        "group": "Eiwitten"
+      },
+      {
+        "amount": "14 g",
+        "group": "Vet"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Schil de bietjes en snijd ze in blokjes van 1 bij 1 cm.",
+      "Meng er de azijn en suiker door en laat 5 min. staan.",
+      "Snijd de feta in blokjes.",
+      "Verdeel de rucola over een mooie schaal.",
+      "Verdeel er de biet en vervolgens de feta over.",
+      "Besprenkel met de dressing en bestrooi met de granaatappelpitjes."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 10,
+    "url": "https://www.jumbo.com/recepten/salade-met-zoetzure-bietjes%252c-feta-en-cranberry-peperdressing-1000287"
+  },
   "ewyzfjmijs": {
     "date_created": 1708878589.521242,
     "date_updated": 1708878610.332544,
