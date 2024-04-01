@@ -1919,6 +1919,95 @@
     "time": 15,
     "url": "https://www.jumbo.com/recepten/wokschotel-van-kip-uien-champignons-paprika-en-kruid-1333758-7"
   },
+  "koeykfiwxx": {
+    "date_created": 1711990256.342571,
+    "date_updated": 1711990256.342571,
+    "ingredients": [
+      {
+        "amount": "250 gr",
+        "ingredient": "oesterzwammen"
+      },
+      {
+        "amount": null,
+        "ingredient": "zonnebloemolie of frituurolie, om in te bakken"
+      },
+      {
+        "amount": "100 gr",
+        "ingredient": "tarwebloem"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "knoflookpoeder"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "uipoeder"
+      },
+      {
+        "amount": "\u2018n afgestreken tl",
+        "ingredient": "zout"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "suiker"
+      },
+      {
+        "amount": "250 gr",
+        "ingredient": "plantaardige melk (b.v. soja)"
+      },
+      {
+        "amount": "100 gr",
+        "ingredient": "tarwebloem"
+      },
+      {
+        "amount": "\u00bd tl",
+        "ingredient": "knoflookpoeder"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": "\u00bd tl",
+        "ingredient": "cayennepeper"
+      },
+      {
+        "amount": "\u00bd tl",
+        "ingredient": "tijm"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout en peper naar smaak"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "krokant gebakken oesterzwammen",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Zorg ervoor dat de oesterzwammen goed schoon en droog zijn. Scheur eventuele grote exemplaren in kleinere stukken.",
+      "Neem daarna twee kommen en meng in de eerste kom alle ingredi\u00ebnten voor het beslag. Doe de tarwebloem in de kom en voeg dan knoflookpoeder, uipoeder, zout en suiker toe. Giet er de plantaardige melk over en meng het geheel tot \u2019n vloeibaar beslag.",
+      "In de andere kom meng je alle ingredi\u00ebnten die je nodig hebt om de \u2018vegan fried chicken\u2019 te paneren. Dus de tarwebloem, knoflookpoeder, paprikapoeder, cayennepeper, tijm en zout en peper naar smaak.",
+      "Verhit daarna de olie tot 170 graden. Doop nu elk stuk oesterzwam eerst in het beslag rol ze vervolgens door het droge mengsel.",
+      "Laat ze daarna meteen in de hete olie glijden en bak ze in 3-5 minuten gaar en goudkleurig.",
+      "Serveer de \u2018vegan fried chicken\u2019 met alleen wat zout en citroen of met je favoriete sausje \u2013 Eet smakelijk!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://soulfood.nl/wp-content/uploads/2021/05/1-1.jpg",
+    "time": 30,
+    "url": "https://soulfood.nl/vegan-fried-chicken-van-oesterzwammen/"
+  },
   "ktlzynexmd": {
     "date_created": 1693413241.705715,
     "date_updated": 1694357961.470041,
