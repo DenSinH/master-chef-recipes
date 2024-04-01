@@ -1517,7 +1517,7 @@
   },
   "poucopwmzu": {
     "date_created": 1709990237.009365,
-    "date_updated": 1709990237.009365,
+    "date_updated": 1711990559.987876,
     "ingredients": [
       {
         "amount": "300g",
@@ -1565,7 +1565,7 @@
       },
       {
         "amount": "300g",
-        "ingredient": "spaghetti (+ pasta water)"
+        "ingredient": "Pasta (+ pasta water)"
       },
       {
         "amount": null,
@@ -1592,7 +1592,7 @@
       ],
       "temperature": "hot"
     },
-    "name": "CREAM OF MUSHROOM SPAGHETTI",
+    "name": "CREAM OF MUSHROOM PASTA",
     "nutrition": null,
     "people": 4,
     "preparation": [
