@@ -834,10 +834,10 @@
   },
   "jirczdwrwh": {
     "date_created": 1712161703.073675,
-    "date_updated": 1712161703.073675,
+    "date_updated": 1712161909.263251,
     "ingredients": [
       {
-        "amount": "500g",
+        "amount": "600g",
         "ingredient": "chicken mini fillets, uncooked"
       },
       {
@@ -857,8 +857,12 @@
         "ingredient": "easy cook long grain rice, washed and drained"
       },
       {
-        "amount": null,
+        "amount": "3",
         "ingredient": "large vine tomatoes, peeled and chopped"
+      },
+      {
+        "amount": "1 can",
+        "ingredient": "Corn"
       },
       {
         "amount": "1 can",
@@ -889,7 +893,7 @@
         "ingredient": "olive oil"
       },
       {
-        "amount": "2 cups",
+        "amount": "400ml",
         "ingredient": "vegetable stock( made up from stock cube)"
       },
       {
@@ -916,7 +920,13 @@
     "name": "One pot chicken fajita rice",
     "nutrition": null,
     "people": null,
-    "preparation": [],
+    "preparation": [
+      "Add olive oil to a pan and saut\u00e9 the onion and garlic.",
+      "Marinade the chicken in the spices, and add to the pan together with the bell pepper.",
+      "Once brown, add the tomato puree and the diced tomatoes. Add spices to taste.",
+      "Add the rice, the vegetable stock, the beans and the corn.",
+      "Wait until the rice is done and add the cheese."
+    ],
     "remarks": null,
     "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.29350-15/433725156_411086161657133_4281092966205822339_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=GMrpOlDDACEAX-ysf2L&_nc_ht=scontent-fra3-1.cdninstagram.com&oh=00_AfDHRllpPu76y33aVyxDDFUlxXWNZZU9mrwo-FmncNMaGg&oe=661348EF",
     "time": null,
