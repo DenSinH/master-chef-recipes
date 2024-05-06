@@ -2217,6 +2217,85 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C4AlheooNwL/?igsh=MW9oamttcmFpcW5ycw=="
   },
+  "ugijtqbxpx": {
+    "date_created": 1715005130.360893,
+    "date_updated": 1715005130.360893,
+    "ingredients": [
+      {
+        "amount": "2 grote",
+        "ingredient": "courgettes"
+      },
+      {
+        "amount": "300 gr",
+        "ingredient": "(vega)gehakt"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "tomatensaus"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tomaten"
+      },
+      {
+        "amount": "125 gr",
+        "ingredient": "champignons (in plakjes)"
+      },
+      {
+        "amount": "1/2 bol",
+        "ingredient": "mozzarella"
+      },
+      {
+        "amount": "Verse",
+        "ingredient": "basilicum"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": "1",
+        "ingredient": "teen knoflook"
+      },
+      {
+        "amount": "1",
+        "ingredient": "uitje"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Italiaans gevulde courgette",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven op 200 graden.",
+      "Snijd de courgette door de lengte doormidden. Schraap met een lepeltje wat vruchtvlees uit het midden.",
+      "Leg de courgettes in een ovenschaal of op een bakplaat. Bestrijk de courgettes aan de bovenzijde met een beetje olie en bestrooi met een klein snufje peper en zout.",
+      "Zet de courgettes 10 minuten in de oven.",
+      "Snipper de ui en knoflook. Fruit deze in een pan. Voeg het gehakt toe en bak rul. Voeg de Italiaanse kruiden toe.",
+      "Bak ook de champignons mee. Snijd de tomaten in blokjes en verwijder het waterige gedeelte en doe de tomatenblokjes bij het gehakt.",
+      "Doe de tomatensaus erbij met een snuf peper en zout en wat grof gehakte basilicumblaadjes en laat 10 minuutjes pruttelen.",
+      "Haal de courgettes uit de oven en vul ze royaal met het gehaktmengsel.",
+      "Snijd of scheur de mozzarella in kleine stukjes en verdeel over de gevulde courgettes.",
+      "Bak de courgettes nog 15 minuten in de oven.",
+      "Tip: vervang het gehakt ook eens door vegetarisch gehakt voor een vega variant.",
+      "Probeer ook eens de Mexicaans gevulde courgette."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.leukerecepten.nl/wp-content/uploads/2020/09/gevulde-courgette-italiaans_b.jpg",
+    "time": 40,
+    "url": "https://www.leukerecepten.nl/recepten/italiaans-gevulde-courgette/"
+  },
   "ujtzhfqkql": {
     "date_created": 1709546175.478963,
     "date_updated": 1709546175.478963,
