@@ -2926,6 +2926,107 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C3j6mvdpEXx/?igsh=eGt5dWJ0czZwcXA="
   },
+  "yoinytxwyz": {
+    "date_created": 1715870495.14222,
+    "date_updated": 1715870495.14222,
+    "ingredients": [
+      {
+        "amount": "1 cup / 8 ounces",
+        "ingredient": "orzo"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "zest from one lemon",
+        "ingredient": "lemon zest"
+      },
+      {
+        "amount": "1/4 cup, finely chopped",
+        "ingredient": "dill"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "honey Dijon mustard"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1/4 teaspoon",
+        "ingredient": "pepper"
+      },
+      {
+        "amount": "measured with your heart",
+        "ingredient": "feta"
+      },
+      {
+        "amount": "10, optional",
+        "ingredient": "jumbo tiger shrimp"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "mediterranean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "seafood"
+      ],
+      "temperature": "any"
+    },
+    "name": "Lemon Feta Orzo",
+    "nutrition": [
+      {
+        "amount": "628 kcal",
+        "group": "Calories"
+      },
+      {
+        "amount": "66 g",
+        "group": "Carbohydrates"
+      },
+      {
+        "amount": "24 g",
+        "group": "Protein"
+      },
+      {
+        "amount": "29 g",
+        "group": "Fat"
+      },
+      {
+        "amount": "4 g",
+        "group": "Saturated Fat"
+      },
+      {
+        "amount": "126 mg",
+        "group": "Cholesterol"
+      },
+      {
+        "amount": "1231 mg",
+        "group": "Sodium"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Cook the orzo in salted water until al dente. Salt the water after it comes to a boil, stir, and add in the orzo.",
+      "While the orzo is cooking, make the dressing by adding olive oil, lemon juice and zest, dill, mustard, salt, and pepper in a glass measuring cup. Stir until fully combined.",
+      "Add the cooked orzo to a large bowl, and, while still warm, pour the dressing on top and stir. Crumble in some feta (measure with your heart) and stir again.",
+      "If making shrimp, thaw peeled and deveined jumbo black tiger shrimp and pat them dry. Add some of the reserved dressing and toss them into that dressing.",
+      "Heat a pan over medium-high heat. The pan should be hot before adding in the shrimp. Add the shrimp making sure to space them apart. Cook on each side for 1 to 2 minutes. Toss the shrimp in with the lemon orzo and enjoy!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://themodernnonna.com/wp-content/uploads/2023/05/Lemon-Feta-Orzo-PNG-768x1024.png",
+    "time": 15,
+    "url": "https://themodernnonna.com/lemon-feta-orzo/"
+  },
   "ysbhdmbnvc": {
     "date_created": 1705227383.0437,
     "date_updated": 1705227383.0437,
