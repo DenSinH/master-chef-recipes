@@ -2953,7 +2953,7 @@
   },
   "ycyruyrbrh": {
     "date_created": 1715246166.494669,
-    "date_updated": 1715246166.494669,
+    "date_updated": 1716795018.357838,
     "ingredients": [
       {
         "amount": "800g",
@@ -2970,10 +2970,6 @@
       {
         "amount": "1",
         "ingredient": "onion"
-      },
-      {
-        "amount": null,
-        "ingredient": "chopped.chopped"
       },
       {
         "amount": null,
