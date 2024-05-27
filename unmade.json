@@ -690,7 +690,7 @@
   },
   "hmkwlnyxjq": {
     "date_created": 1715798720.931666,
-    "date_updated": 1715798720.931666,
+    "date_updated": 1716825674.171496,
     "ingredients": [
       {
         "amount": "1.5 lbs",
@@ -725,6 +725,10 @@
         "ingredient": "White onions, cut into squares"
       },
       {
+        "amount": null,
+        "ingredient": "For the sauce:"
+      },
+      {
         "amount": "1/2 cup",
         "ingredient": "dark soy sauce"
       },
@@ -741,12 +745,12 @@
         "ingredient": "sriracha sauce"
       },
       {
-        "amount": "1 tbsp",
-        "ingredient": "Chinese five spice"
-      },
-      {
         "amount": "1 tsp",
         "ingredient": "cornstarch (mixed with 1/4 cup water)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Garnishing:"
       },
       {
         "amount": null,
@@ -791,11 +795,11 @@
     "people": 4,
     "preparation": [
       "Cut chicken into cubes then place in a bowl and season with salt, pepper, garlic powder, and cornstarch",
-      "Transfer to air fryer rack, spray with avocado oil and then Air fry for 20 minutes at 400\u00b0F. Shake every 5 mins",
+      "Bake in a pan until done.",
+      "Mix the soy sauce, honey, sweet chili sauce, Sriracha sauce and some corn starch for the sauce.",
       "In a pan on medium heat cook the pepper, onion, and garlic for 3-4 minutes until the vegetables soften",
       "Then add the sauce and cook for 3-4 more minutes until the sauce thickens.",
-      "Add crispy chicken to the sauce, garnish with chilis and green onions (optional) and enjoy over some rice",
-      "ENJOY you lil cutie pie \ud83d\ude0d"
+      "Add crispy chicken to the sauce, garnish with chilis and green onions (optional) and enjoy over some rice"
     ],
     "remarks": null,
     "thumbnail": "https://scontent-fra5-2.cdninstagram.com/v/t51.29350-15/442677893_492416913118617_4312156372593636451_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=ZuQoq86Udr8Q7kNvgEcf9MQ&_nc_ht=scontent-fra5-2.cdninstagram.com&oh=00_AYBmvS_idDdBdt-OYs3-8iNqXPjf3PegyJ04MAckyXmivg&oe=664AC021",
