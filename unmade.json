@@ -690,7 +690,7 @@
   },
   "hmkwlnyxjq": {
     "date_created": 1715798720.931666,
-    "date_updated": 1716825674.171496,
+    "date_updated": 1716827100.432194,
     "ingredients": [
       {
         "amount": "1.5 lbs",
@@ -717,11 +717,15 @@
         "ingredient": "Garlic, finely minced"
       },
       {
-        "amount": null,
-        "ingredient": "Red bell pepper, cut into squares"
+        "amount": "250g",
+        "ingredient": "Chinese vegetable mix"
       },
       {
-        "amount": null,
+        "amount": "2",
+        "ingredient": "bell pepper, cut into squares"
+      },
+      {
+        "amount": "2",
         "ingredient": "White onions, cut into squares"
       },
       {
@@ -797,7 +801,7 @@
       "Cut chicken into cubes then place in a bowl and season with salt, pepper, garlic powder, and cornstarch",
       "Bake in a pan until done.",
       "Mix the soy sauce, honey, sweet chili sauce, Sriracha sauce and some corn starch for the sauce.",
-      "In a pan on medium heat cook the pepper, onion, and garlic for 3-4 minutes until the vegetables soften",
+      "In a pan on medium heat cook the pepper, onion, vegetable mix and garlic for 3-4 minutes until the vegetables soften",
       "Then add the sauce and cook for 3-4 more minutes until the sauce thickens.",
       "Add crispy chicken to the sauce, garnish with chilis and green onions (optional) and enjoy over some rice"
     ],
