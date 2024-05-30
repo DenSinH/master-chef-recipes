@@ -5022,6 +5022,88 @@
     "time": 20,
     "url": "https://www.lekkerensimpel.com/pasta-pesto-met-spinazie-en-zalm/"
   },
+  "ygyzfzolzv": {
+    "date_created": 1717102691.758914,
+    "date_updated": 1717102691.758914,
+    "ingredients": [
+      {
+        "amount": "400 gr",
+        "ingredient": "kippendijen"
+      },
+      {
+        "amount": "2 blikken",
+        "ingredient": "tomatenblokjes"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "zonnebloemolie"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "chilipoeder"
+      },
+      {
+        "amount": "\u00bd el",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": null,
+        "ingredient": "tortilla's"
+      },
+      {
+        "amount": "40 gr",
+        "ingredient": "mozzarella"
+      },
+      {
+        "amount": "40 gr",
+        "ingredient": "geraspte kaas"
+      },
+      {
+        "amount": "125 gr",
+        "ingredient": "zure room"
+      },
+      {
+        "amount": "4 el",
+        "ingredient": "guacamole"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper en zout"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "other"
+      ],
+      "cuisine": "mexican",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Eenpansgerecht enchiladas",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Snijd en bak de kip in de pan goudbruin en voeg de paprikapoeder, chilipoeder, komijnpoeder, oregano en korianderpoeder toe.",
+      "Voeg de tomaten uit blik toe aan de pan.",
+      "Snijd of scheur de tortilla's in grove stukken en leg in de pan.",
+      "Bedek goed met de saus. Laat dit ongeveer 2 tot 3 minuten zachtjes pruttelen.",
+      "Verdeel de mozzarella en de geraspte kaas over de pan heen.",
+      "Laat de kaas smelten met de deksel op de pan.",
+      "Maak je het geheel af met zure room en guacamole."
+    ],
+    "remarks": null,
+    "thumbnail": "https://miljuschka.nl/wp-content/uploads/2024/03/miljuschka-enchilades.jpg",
+    "time": 23,
+    "url": "https://miljuschka.nl/eenpansgerecht-enchiladas/"
+  },
   "yiipomccxm": {
     "date_created": 1709369692.637237,
     "date_updated": 1709929953.059243,
