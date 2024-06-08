@@ -2907,7 +2907,7 @@
   },
   "ottwnhbnlv": {
     "date_created": 1717856356.01515,
-    "date_updated": 1717868346.786033,
+    "date_updated": 1717868361.598241,
     "ingredients": [
       {
         "amount": "1 lb / 500g",
@@ -2992,7 +2992,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "any"
+      "temperature": "hot"
     },
     "name": "Beef Steak Fajitas",
     "nutrition": null,
