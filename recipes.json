@@ -2905,6 +2905,116 @@
     "time": 35,
     "url": "https://www.eefkooktzo.nl/simpele-burritos-gehakt/"
   },
+  "ottwnhbnlv": {
+    "date_created": 1717856356.01515,
+    "date_updated": 1717868346.786033,
+    "ingredients": [
+      {
+        "amount": "1 lb / 500g",
+        "ingredient": "beef strips"
+      },
+      {
+        "amount": "4 tbsp / 1/4 cup",
+        "ingredient": "orange juice, fresh (1 orange)"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "lime juice"
+      },
+      {
+        "amount": "2",
+        "ingredient": "garlic cloves, minced"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "cumin powder"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "coriander powder"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "onion powder (optional)"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "chipotle powder"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": null,
+        "ingredient": "black pepper"
+      },
+      {
+        "amount": "2 - 3 tbsp",
+        "ingredient": "oil"
+      },
+      {
+        "amount": "2",
+        "ingredient": "bell peppers, large chunks "
+      },
+      {
+        "amount": "2",
+        "ingredient": "large white onion, large chunks "
+      },
+      {
+        "amount": null,
+        "ingredient": "tortillas"
+      },
+      {
+        "amount": "1",
+        "ingredient": "avocado"
+      },
+      {
+        "amount": null,
+        "ingredient": "sour cream"
+      },
+      {
+        "amount": null,
+        "ingredient": "lime wedges"
+      },
+      {
+        "amount": null,
+        "ingredient": "tomatoes, sliced, or Pico de gallo"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "any"
+    },
+    "name": "Beef Steak Fajitas",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "Place the Marinated Beef ingredients in a ziplock bag or bowl, massage to coat then refrigerate for 2 hour to overnight.",
+      "Remove beef from marinade 30 minutes prior to cooking (to bring to room temperature) and pat dry with paper towels. Discard marinade.",
+      "Drizzle 1/2 tbsp of oil on each side of the beef (1 tbsp in total).",
+      "Heat the BBQ or a skillet on high heat.",
+      "Cook beef to your liking. Remove beef onto a plate and cover loosely with foil.",
+      "Return skillet to stove, still on high heat, and heat 1/2 tbsp oil.",
+      "Add onions, sprinkle with salt and pepper, and cook until soft and charred. Remove onto serving plate.",
+      "Heat remaining 1/2 tbsp oil in the skillet.",
+      "Add bell pepper/capsicum, sprinkle with salt and pepper, and cook until charred. Remove onto plate.",
+      "Slice beef thinly against the grain.",
+      "Serve with warmed tortillas and fixings of choice."
+    ],
+    "remarks": null,
+    "thumbnail": "https://i.imgur.com/rwAUjR6.jpeg",
+    "time": null,
+    "url": "https://www.recipetineats.com/beef-fajitas/"
+  },
   "pulyfcuzkj": {
     "date_created": 1704716983.718405,
     "date_updated": 1704743557.222603,
