@@ -2930,11 +2930,11 @@
   },
   "uchpzrhvfw": {
     "date_created": 1717856356.01515,
-    "date_updated": 1717868169.718542,
+    "date_updated": 1717868250.523188,
     "ingredients": [
       {
         "amount": "1 lb / 500g",
-        "ingredient": "beef steak (rump and skirt are ideal)"
+        "ingredient": "beef strips"
       },
       {
         "amount": "4 tbsp / 1/4 cup",
@@ -2977,24 +2977,20 @@
         "ingredient": "oil"
       },
       {
-        "amount": null,
-        "ingredient": "bell peppers/capsicum, sliced"
+        "amount": "2",
+        "ingredient": "bell peppers, large chunks "
+      },
+      {
+        "amount": "2",
+        "ingredient": "large white onion, large chunks "
       },
       {
         "amount": null,
-        "ingredient": "large onion, halved and sliced (brown, yellow, white)"
+        "ingredient": "tortillas"
       },
       {
-        "amount": null,
-        "ingredient": "tortillas, small"
-      },
-      {
-        "amount": null,
+        "amount": "1",
         "ingredient": "avocado"
-      },
-      {
-        "amount": null,
-        "ingredient": "cilantro/coriander"
       },
       {
         "amount": null,
@@ -3025,7 +3021,7 @@
     "nutrition": null,
     "people": null,
     "preparation": [
-      "Place the Marinated Beef ingredients in a ziplock bag, massage to coat then refrigerate for 2 hour to overnight.",
+      "Place the Marinated Beef ingredients in a ziplock bag or bowl, massage to coat then refrigerate for 2 hour to overnight.",
       "Remove beef from marinade 30 minutes prior to cooking (to bring to room temperature) and pat dry with paper towels. Discard marinade.",
       "Drizzle 1/2 tbsp of oil on each side of the beef (1 tbsp in total).",
       "Heat the BBQ or a skillet on high heat.",
