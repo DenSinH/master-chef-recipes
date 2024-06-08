@@ -2930,7 +2930,7 @@
   },
   "uchpzrhvfw": {
     "date_created": 1717856356.01515,
-    "date_updated": 1717856356.01515,
+    "date_updated": 1717868169.718542,
     "ingredients": [
       {
         "amount": "1 lb / 500g",
@@ -3011,13 +3011,13 @@
     ],
     "meta": {
       "carb_type": [
-        "other"
+        "wraps"
       ],
-      "cuisine": "other",
-      "language": null,
-      "meal_type": "other",
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
       "meat_type": [
-        "other"
+        "beef"
       ],
       "temperature": "any"
     },
