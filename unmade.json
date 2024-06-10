@@ -1514,6 +1514,109 @@
     "time": 30,
     "url": "https://hungryhappens.net/one-pan-chicken-and-cabbage/"
   },
+  "ndosfvcqna": {
+    "date_created": 1718032221.922453,
+    "date_updated": 1718032221.922453,
+    "ingredients": [
+      {
+        "amount": "2 pounds",
+        "ingredient": "skinless chicken, breast or thighs"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "extra virgin olive oil"
+      },
+      {
+        "amount": "1",
+        "ingredient": "yellow onion, chopped"
+      },
+      {
+        "amount": "2-3",
+        "ingredient": "chipotle peppers in adobo, chopped"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "chili powder"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "dried oregano"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "cumin"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "tamari/soy sauce"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "honey"
+      },
+      {
+        "amount": "8-12",
+        "ingredient": "corn tortillas, warmed"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "shredded Mexican cheese blend"
+      },
+      {
+        "amount": null,
+        "ingredient": "avocado, cilantro, and limes for serving"
+      },
+      {
+        "amount": null,
+        "ingredient": "2 cloves garlic"
+      },
+      {
+        "amount": null,
+        "ingredient": "3 green onions"
+      },
+      {
+        "amount": null,
+        "ingredient": "1 jalape\u00f1o"
+      },
+      {
+        "amount": null,
+        "ingredient": "1/2 cup salsa verde"
+      },
+      {
+        "amount": null,
+        "ingredient": "2 tablespoons toasted sesame seeds"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Sheet Pan Crispy Jalape\u00f1o Chicken Tacos",
+    "nutrition": null,
+    "people": null,
+    "preparation": [
+      "Preheat the oven to 425\u00b0 F.",
+      "On a baking sheet, toss the chicken with olive oil, onions, chipotle, chili powder, oregano, and cumin. Pour over the tamari and honey. Toss to coat. Arrange in a single layer. Add the garlic cloves, jalape\u00f1o, and green onions (for the salsa). Roast everything for 20 minutes or until the chicken is cooked.",
+      "Remove the garlic cloves, jalape\u00f1o, and green onions from the sheet pan and add to a food processor. Let cool.",
+      "Shred the chicken and toss with the sauce on the sheet pan.",
+      "Line the taco shells up in a 9x13 inch baking dish. Bake for 5 minutes.",
+      "Stuff the chicken into each taco shell and top with cheese. Bake for 10 minutes, until the cheese has melted.",
+      "Add the salsa verde and tamari to the food processor with the jalape\u00f1o. Blend until smooth. Stir in the sesame seeds.",
+      "Serve each taco with the sesame verde sauce."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.halfbakedharvest.com/wp-content/uploads/2024/04/Sheet-Pan-Crispy-Jalapeno-Chicken-Tacos-1.jpg",
+    "time": null,
+    "url": "https://www.halfbakedharvest.com/jalapeno-chicken-tacos/"
+  },
   "nkjaikthrk": {
     "date_created": 1705227313.072753,
     "date_updated": 1705227313.072753,
