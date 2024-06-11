@@ -2907,7 +2907,7 @@
   },
   "ottwnhbnlv": {
     "date_created": 1717856356.01515,
-    "date_updated": 1717868361.598241,
+    "date_updated": 1718133683.48881,
     "ingredients": [
       {
         "amount": "1 lb / 500g",
@@ -2996,7 +2996,7 @@
     },
     "name": "Beef Steak Fajitas",
     "nutrition": null,
-    "people": null,
+    "people": 3,
     "preparation": [
       "Place the Marinated Beef ingredients in a ziplock bag or bowl, massage to coat then refrigerate for 2 hour to overnight.",
       "Remove beef from marinade 30 minutes prior to cooking (to bring to room temperature) and pat dry with paper towels. Discard marinade.",
