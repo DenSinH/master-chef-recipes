@@ -4496,6 +4496,99 @@
     "time": 60,
     "url": "https://www.keukenliefde.nl/gehaktballen-van-restaurant-de-librije/"
   },
+  "wdjvneaine": {
+    "date_created": 1717310690.525637,
+    "date_updated": 1718133604.526798,
+    "ingredients": [
+      {
+        "amount": "500g",
+        "ingredient": "beef mince"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt and pepper"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "garlic pur\u00e9e or 4 cloves"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "ginger puree"
+      },
+      {
+        "amount": "2 tbs",
+        "ingredient": "hoisin"
+      },
+      {
+        "amount": "2 tbs",
+        "ingredient": "sweet chilli sauce"
+      },
+      {
+        "amount": "1 tbs",
+        "ingredient": "light soy sauce"
+      },
+      {
+        "amount": "1 bunch",
+        "ingredient": "spring onions"
+      },
+      {
+        "amount": "1-2",
+        "ingredient": "peppers"
+      },
+      {
+        "amount": "500g",
+        "ingredient": "cooked rice"
+      },
+      {
+        "amount": "2 tbs",
+        "ingredient": "dark soy sauce"
+      },
+      {
+        "amount": null,
+        "ingredient": "chilli"
+      },
+      {
+        "amount": null,
+        "ingredient": "sesame seeds"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "hot"
+    },
+    "name": "15 Minute One Pot Sticky Beef Rice",
+    "nutrition": [
+      {
+        "amount": "390",
+        "group": "Calories"
+      },
+      {
+        "amount": "30.9g",
+        "group": "Protein"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Start by mixing together all the sauce ingredients in a bowl (hoisin, light soy sauce, garlic, ginger and sweet chili).",
+      "Season the beef and fry this off until browned and cooked through then add in the sauce and cook until the beef is coated and sticky.",
+      "Remove the beef from the pan and add in the spring onions and peppers and cook until they\u2019re starting to soften.",
+      "Then add in the cooked rice and soy sauce. Give it a good mix and add the beef back in.",
+      "Garnish, serve and enjoy!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://i.imgur.com/PbtPqDF.jpeg",
+    "time": 15,
+    "url": "https://www.instagram.com/reel/C6HCvrAigHu/?igsh=MWljNmNzZnlrcjgzeQ=="
+  },
   "wlsdxcirfg": {
     "date_created": 1712161703.073675,
     "date_updated": 1712591717.783606,
