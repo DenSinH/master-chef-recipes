@@ -3604,6 +3604,115 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C04TLH4o-Yc/?igshid=MTdlMjRlYjZlMQ%3D%3D"
   },
+  "sxiddqqmyh": {
+    "date_created": 1718723357.763739,
+    "date_updated": 1718728225.833916,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#for the noodles "
+      },
+      {
+        "amount": "1.5 tbsps",
+        "ingredient": "peanut butter"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "gochujang"
+      },
+      {
+        "amount": "1 tbsps",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "3 tbsps",
+        "ingredient": "hot water"
+      },
+      {
+        "amount": "1/2 tbsp",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "2",
+        "ingredient": "green onions, whites and green separated, finely sliced"
+      },
+      {
+        "amount": "pinch",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "200g",
+        "ingredient": "mushrooms"
+      },
+      {
+        "amount": "2",
+        "ingredient": "cloves garlic, minced"
+      },
+      {
+        "amount": "1.5 cups",
+        "ingredient": "water"
+      },
+      {
+        "amount": "1/2 tbsp",
+        "ingredient": "sesame oil"
+      },
+      {
+        "amount": "1 serving",
+        "ingredient": "noodles"
+      },
+      {
+        "amount": null,
+        "ingredient": "chili crisp (topping)"
+      },
+      {
+        "amount": null,
+        "ingredient": "#for the tofu"
+      },
+      {
+        "amount": "1/4 454g block",
+        "ingredient": "tofu"
+      },
+      {
+        "amount": "1/2 tbsp",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sesame oil"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "noodles"
+      ],
+      "cuisine": "korean",
+      "language": "en",
+      "meal_type": "soup",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Peanut Gochujang Noodle Soup",
+    "nutrition": null,
+    "people": 1,
+    "preparation": [
+      "#For the crispy tofu crumbles",
+      "Crumble tofu into a large bowl and add soy sauce and sesame oil. Toss to coat and combine.",
+      "Air-fryer, toaster oven or conventional oven: Line the bottom of your air fryer basket or a baking sheet with foil and pour in the tofu crumbles, spreading them into one even layer. Air-fry or bake at 400F for 18-22 minutes, stirring halfway through.",
+      "Stovetop: Heat 1 tbsp oil in a skillet over medium heat and add tofu crumbles. Fry until golden brown, stirring constantly, about 8-10 minutes.",
+      "#For the soup",
+      "In a small bowl combine peanut butter, gochujang, soy sauce and hot water. Stir until smooth.",
+      "Heat oil in a small saucepan over medium heat. Add green onion whites, mushrooms and garlic and saut\u00e9 for 2-3 minutes.",
+      "Pour in water and bring to a simmer. Then lower the heat to medium-low and simmer for 5 minutes.",
+      "Turn off the heat and allow the broth to stop simmering. Then stir in the peanut gochujang mixture along with sesame oil and most of the green onion greens.",
+      "Ladle the broth over cooked noodles and top with tofu crumbles, chili crisp and the rest of the green onion."
+    ],
+    "remarks": null,
+    "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd174031-9475-4a77-aa4c-7e4ebe747a34_1179x1572.jpeg",
+    "time": 20,
+    "url": "https://freshoffthestack.substack.com/p/peanut-gochujang-noodle-soup"
+  },
   "todrsgtaks": {
     "date_created": 1692904543.017555,
     "date_updated": 1694536041.613312,
