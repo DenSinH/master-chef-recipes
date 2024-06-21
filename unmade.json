@@ -1514,6 +1514,81 @@
     "time": 30,
     "url": "https://hungryhappens.net/one-pan-chicken-and-cabbage/"
   },
+  "mvtzsoiuud": {
+    "date_created": 1719009934.152096,
+    "date_updated": 1719009934.152096,
+    "ingredients": [
+      {
+        "amount": "150 g",
+        "ingredient": "Pancetta"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Chicken breast sliced thinly"
+      },
+      {
+        "amount": "4",
+        "ingredient": "Cloves of garlic chopped"
+      },
+      {
+        "amount": "150 ml",
+        "ingredient": "Chicken stock"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "Double cream"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "Paprika"
+      },
+      {
+        "amount": "400 g",
+        "ingredient": "Gnocchi"
+      },
+      {
+        "amount": "40 g",
+        "ingredient": "Parmesan grated (plus extra for serving)"
+      },
+      {
+        "amount": "15 g",
+        "ingredient": "Parsley chopped"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken",
+        "pork"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Creamy Chicken & Pancetta Gnocchi",
+    "nutrition": null,
+    "people": 2,
+    "preparation": [
+      "Add the pancetta into a large frying pan without any oil. (The pancetta will release fat).",
+      "Cook it over a medium to high heat until it starts to turn crispy.",
+      "Add in the sliced chicken breast and cook until it\u2019s sealed, which means no more pink bits.",
+      "Chuck in the garlic and cook for a further minute, then pour in the chicken stock, double cream, and add the paprika.",
+      "Stir well.",
+      "Add in the gnocchi and mix it well then cover with a lid or tin foil.",
+      "Simmer for 3-4 minutes, or until the sauce is creamy and coats the gnocchi.",
+      "Remove the lid, then sprinkle in the parmesan and chopped parsley.",
+      "Mix well and then taste for seasoning.",
+      "Dish it up, and then serve with more grated parmesan.",
+      "Enjoy."
+    ],
+    "remarks": null,
+    "thumbnail": "https://chefjonwatts.com/wp-content/uploads/2022/07/chef-jon-watts-in-blue-apron.webp",
+    "time": 15,
+    "url": "https://chefjonwatts.com/creamy-chicken-pancetta-gnocchi/"
+  },
   "ndosfvcqna": {
     "date_created": 1718032221.922453,
     "date_updated": 1718032221.922453,
