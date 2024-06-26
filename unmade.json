@@ -1805,6 +1805,128 @@
     "time": null,
     "url": "https://www.halfbakedharvest.com/jalapeno-chicken-tacos/"
   },
+  "nerfukclpt": {
+    "date_created": 1719392250.624585,
+    "date_updated": 1719392250.624585,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "600g",
+        "ingredient": "boneless, skinless chicken thighs"
+      },
+      {
+        "amount": "1 Tbsp",
+        "ingredient": "cajun seasoning"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "onion granules"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "garlic granules"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": "1 Tbsp",
+        "ingredient": "extra virgin olive oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Cajun Lime Sauce"
+      },
+      {
+        "amount": "1",
+        "ingredient": "shallot - finely chopped"
+      },
+      {
+        "amount": "1",
+        "ingredient": "sweet red pepper - finely chopped"
+      },
+      {
+        "amount": "3 cloves",
+        "ingredient": "garlic - crushed"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 Tsp",
+        "ingredient": "cajun seasoning"
+      },
+      {
+        "amount": "200ml",
+        "ingredient": "chicken stock"
+      },
+      {
+        "amount": "150ml",
+        "ingredient": "single cream"
+      },
+      {
+        "amount": "100g",
+        "ingredient": "cherry tomatoes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "lime (optional)"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "One Pan Cajun Lime Chicken",
+    "nutrition": [
+      {
+        "amount": "595",
+        "group": "cals"
+      },
+      {
+        "amount": "44g",
+        "group": "carbs"
+      },
+      {
+        "amount": "40g",
+        "group": "protein"
+      },
+      {
+        "amount": "27g",
+        "group": "fat"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Step 1. Season the chicken thighs all over in half the olive oil, cajun seasoning, smoked paprika, onion granules, garlic granules and oregano.",
+      "Step 2. Heat the remaining olive oil in a large, deep pan, sear the chicken thighs, over a high heat, for 3-4 minutes each side, then remove and set aside.",
+      "Step 3. In the same pan, saut\u00e9 the shallot, garlic, sweet red pepper over a low-medium heat for 5 minutes, stirring regularly, until soft, sprinkle in the smoked paprika, cajun seasoning, add the chicken stock, single cream, stir to combine and bring the pan to a simmer.",
+      "Step 4. Add the chicken thighs back to the pan, along with the cherry tomatoes and lime if using. Cover the pan and leave to cook over a medium heat for 15-20 minutes, stir occasionally and check the sauce and chicken isn\u2019t catching. Make sure the chicken thighs are cooked through then you\u2019re ready to serve.",
+      "Step 5. Meanwhile, steam the tender stem for 3-4 minutes. Heat the rice when ready to serve.",
+      "Step 6. Serve the chicken thighs over the basmati rice, spoon over the sauce and soured cream."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.thegoodbite.co.uk/wp-content/uploads/2024/05/DSC08883-2-2-scaled.jpg",
+    "time": 30,
+    "url": "https://www.thegoodbite.co.uk/recipes/one-pan-cajun-lime-chicken/"
+  },
   "nkjaikthrk": {
     "date_created": 1705227313.072753,
     "date_updated": 1705227313.072753,
