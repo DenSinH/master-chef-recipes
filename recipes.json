@@ -2,6 +2,7 @@
   "ahuojcxcqq": {
     "date_created": 1703784973.836559,
     "date_updated": 1703868190.928309,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "200 gr",
@@ -57,7 +58,7 @@
       "temperature": "hot"
     },
     "name": "Rijst met sweet chili kip",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Kook de rijst volgens de instructies op de verpakking.",
@@ -76,6 +77,7 @@
   "ajbkyfxver": {
     "date_created": 1709990237.009365,
     "date_updated": 1711990618.391531,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "300g",
@@ -151,7 +153,7 @@
       "temperature": "hot"
     },
     "name": "CREAM OF MUSHROOM PASTA",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Pour 500ml of boiling water over the dried mushrooms. Stir, then cover.",
@@ -175,6 +177,7 @@
   "ajzrkavhof": {
     "date_created": 1692378754.23941,
     "date_updated": 1692808572.940323,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 lb",
@@ -258,25 +261,129 @@
       "temperature": "hot"
     },
     "name": "20 Minute Cashew Chicken",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Start off by cutting the chicken thighs into bite size cubes and place in a bowl. Season with salt and pepper and mix well.",
       "Preheat a pan to medium high heat and spray with some avocado oil. Once heated add the chicken pieces cooking for about 5-7 minutes, stirring occasionally, until the temperature reaches 165 degrees.",
       "While the chicken is cooking chop the bell peppers and onions into large chunks.",
       "Once the chicken has cooked, add in the peppers and onions to the pan and saute for about 5 minutes, stirring occasionally, until the veggies start to become soft and have some char to them.",
-      "Next you\u2019ll start on the sauce. In medium sized bowl add in 1/3 cup soy sauce, 1/2 cup chicken stock, 1 tsp sesame oil, 1 tsp ginger powder, 1 tbs minced garlic, 1 tbs honey, 1 tbs rice vinegar, and 1 tbs cornstarch. Mix well until the cornstarch is fully incorporated.",
+      "Next you’ll start on the sauce. In medium sized bowl add in 1/3 cup soy sauce, 1/2 cup chicken stock, 1 tsp sesame oil, 1 tsp ginger powder, 1 tbs minced garlic, 1 tbs honey, 1 tbs rice vinegar, and 1 tbs cornstarch. Mix well until the cornstarch is fully incorporated.",
       "Now that the veggies are cooked add in the sauce and mix well. Simmer for a few minutes on low until the sauce becomes thick.",
-      "You\u2019ll then mix in the 1/2 cup cashews and let it simmer for just a minute or so to warm them up.",
+      "You’ll then mix in the 1/2 cup cashews and let it simmer for just a minute or so to warm them up.",
       "Serve with cauliflower rice or regular rice then top with some freshly chopped green onion and some sesame seeds. Enjoy!"
     ],
+    "remarks": null,
     "thumbnail": "http://static1.squarespace.com/static/63dc66df33b458676fc70f98/63dc6797b9594852e23521ef/64c2b28d4947f72198e595a2/1691109110095/IMG_5636_jpg.jpg?format=1500w",
     "time": 20,
     "url": "https://www.caileeeats.com/recipes/20-minute-cashew-chicken"
   },
+  "akenywmexb": {
+    "date_created": 1719421013.320614,
+    "date_updated": 1719421013.320614,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "2",
+        "ingredient": "kip krokant schnitzels"
+      },
+      {
+        "amount": "250g",
+        "ingredient": "champignons"
+      },
+      {
+        "amount": null,
+        "ingredient": "komkommer"
+      },
+      {
+        "amount": null,
+        "ingredient": "paprika"
+      },
+      {
+        "amount": "handje",
+        "ingredient": "(gezouten) Lindås"
+      },
+      {
+        "amount": "3 porties",
+        "ingredient": "(soba) noodles"
+      },
+      {
+        "amount": null,
+        "ingredient": "overige garnering"
+      },
+      {
+        "amount": null,
+        "ingredient": "sojasaus"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Voor de saus:"
+      },
+      {
+        "amount": null,
+        "ingredient": "gochujang"
+      },
+      {
+        "amount": null,
+        "ingredient": "ketchup"
+      },
+      {
+        "amount": null,
+        "ingredient": "mayonaise"
+      },
+      {
+        "amount": null,
+        "ingredient": "sojasaus"
+      },
+      {
+        "amount": "2 tenen",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "ongeveer 1cm",
+        "ingredient": "gember"
+      },
+      {
+        "amount": "sap van een halve",
+        "ingredient": "limoen"
+      },
+      {
+        "amount": "wat",
+        "ingredient": "water van de noodles"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "noodles"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Noodle bowl met krokante kip",
+    "nutrition": [],
+    "people": 3,
+    "preparation": [
+      "Maak de noodles volgens de verpakking klaar.",
+      "Meng de ingrediënten van de saus samen.",
+      "Gebruik een blender om ze te mixen, of snijd de vaste ingrediënten zeer fijn.",
+      "Bak de kip krokant schnitzels op.",
+      "Bak de champignons op in wat boter en olie, en maak ze af met sojasaus.",
+      "Meng alles samen in een kom en je bent klaar!"
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 15,
+    "url": null
+  },
   "anwguqjmjy": {
     "date_created": 1695115133.570012,
     "date_updated": 1708884069.932629,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "400 g",
@@ -370,6 +477,7 @@
   "bhupwszewa": {
     "date_created": 1690887854.525666,
     "date_updated": 1690887854.525666,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500 gr",
@@ -425,7 +533,7 @@
       "temperature": "hot"
     },
     "name": "Gnocchi in truffelsaus",
-    "nutrition": null,
+    "nutrition": [],
     "people": 3,
     "preparation": [
       "Kook de gnocchi 2 minuutjes beetgaar en giet daarna af.",
@@ -436,6 +544,7 @@
       "Rasp de Parmezaanse kaas en roer deze er op het laatst door (bewaar een beetje voor de garnering).",
       "Serveer de truffel gnocchi in borden en garneer met verse basilicum, Parmezaanse kaas en pijnboompitten."
     ],
+    "remarks": null,
     "thumbnail": "https://www.leukerecepten.nl/wp-content/uploads/2022/09/Gnocchi-truffelsaus-recept.jpg",
     "time": 15,
     "url": "https://www.leukerecepten.nl/recepten/gnocchi-in-truffelsaus/"
@@ -443,13 +552,14 @@
   "brhrwcvcjw": {
     "date_created": 1709758706.109313,
     "date_updated": 1709758788.61159,
+    "igcode": null,
     "ingredients": [
       {
-        "amount": "\u00bd tbsp",
+        "amount": "½ tbsp",
         "ingredient": "sugar"
       },
       {
-        "amount": "\u00bd tsp",
+        "amount": "½ tsp",
         "ingredient": "cornflour"
       },
       {
@@ -489,7 +599,7 @@
         "ingredient": "green onions"
       },
       {
-        "amount": "\u00bd thumb",
+        "amount": "½ thumb",
         "ingredient": "ginger"
       },
       {
@@ -518,14 +628,14 @@
       "temperature": "hot"
     },
     "name": "KUNG PAO TOFU",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "While making the tofu with the steps below, cook the rice and fry the vegetable mix.",
       "Coat 280g tofu in cornflour and pinch of white pepper.",
       "Add 1 tbsp vegetable oil to a pan and heat it up. Add the tofu to the pan and cook, stirring intermittently until golden.",
       "Mix the sugar, cornflour, soy sauce, balsemic vinegar, brown sugar, vegetable stock, water and cooking sake to make the sauce.",
-      "Meanwhile make the sauce. Once the tofu is crispy, remove then add 3 chopped (into 3cm pieces) green onions for 20 seconds, \u00bd thumb of thinly sliced ginger for 10 seconds, 2-3 garlic sliced for 30 seconds and the tofu for 30 seconds.",
+      "Meanwhile make the sauce. Once the tofu is crispy, remove then add 3 chopped (into 3cm pieces) green onions for 20 seconds, ½ thumb of thinly sliced ginger for 10 seconds, 2-3 garlic sliced for 30 seconds and the tofu for 30 seconds.",
       "Then add the sauce until thickened and immediately remove from the heat.",
       "Serve with rice (you could cook this before you start the stir fry so they'll finish at the same time...or packet rice, it be like that sometimes I get it)"
     ],
@@ -537,6 +647,7 @@
   "citopanwgn": {
     "date_created": 1704387971.738041,
     "date_updated": 1706726543.74902,
+    "igcode": null,
     "ingredients": [
       {
         "amount": null,
@@ -608,7 +719,7 @@
       "temperature": "hot"
     },
     "name": "CRISPY CHILLI CHICKEN",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Cook the rice.",
@@ -627,6 +738,7 @@
   "cmzypnmzct": {
     "date_created": 1709499779.125703,
     "date_updated": 1709636234.548808,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1/2 tbs",
@@ -736,7 +848,7 @@
     "preparation": [
       "Season the chicken with 1/2 tsp salt, paprika and pepper.",
       "Heat the olive oil in a large pot over medium high heat. Add chicken and cook until the chicken is mostly cooked 3-4 minutes. Remove the chicken and set aside.",
-      "Melt the butter in the same pan over medium-high heat. Add onions and saut\u00e9 for 3-4 minutes. Add orzo and toast for 2 minutes in the pan. Add the grated zucchini, garlic and cook for an additional 2 minutes or until the onions are tender.",
+      "Melt the butter in the same pan over medium-high heat. Add onions and sauté for 3-4 minutes. Add orzo and toast for 2 minutes in the pan. Add the grated zucchini, garlic and cook for an additional 2 minutes or until the onions are tender.",
       "Add in the chicken stock, lemon zest and juice. Season with the salt, pepper and thyme and add chili flakes to taste. Stir the chicken back into the pot and cover with a lid, reduce the heat to medium-low and simmer for 8-10 minutes or until orzo is tender. Stir throughout the cook time to ensure the pasta does not stick to the bottom of the pot.",
       "Once the orzo is cooked through, add the cream and stir until Combined. Remove from heat and stir through the feta, mozzarella until all melted through. Season with salt, pepper and fresh parsley and enjoy!"
     ],
@@ -748,6 +860,7 @@
   "cohbqlsmuo": {
     "date_created": 1693565658.861192,
     "date_updated": 1694452944.848331,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 kilo",
@@ -835,7 +948,7 @@
       "temperature": "hot"
     },
     "name": "fuck me now chicken",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Meng de tarwebloem, zout, peper, paprikapoeder, de helft van de chilivlokken, en knoflookpoeder op een bord of schaal door elkaar. Paneer de kip met het mengsel, terwijl je boter en olie in een grote pan verwarmt. Bak de kip dan aan beide kanten goudbruin (deze hoeft vanbinnen niet gaar te zijn) en verplaats de kip dan naar een schaal. Dek deze af met aluminiumfolie en zet opzij.\r\n\r\nZet ondertussen een pan water op het vuur. ",
@@ -850,6 +963,7 @@
   "cytcvbdkor": {
     "date_created": 1704222214.364016,
     "date_updated": 1704317274.777241,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -921,7 +1035,7 @@
       "temperature": "hot"
     },
     "name": "CHICKEN DIANE",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Season chicken with salt and pepper. Heat oil and 1 tbsp butter in your favorite pan over medium-high.",
@@ -943,6 +1057,7 @@
   "ecegsypnmt": {
     "date_created": 1711902327.487377,
     "date_updated": 1716829579.648223,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "4 el",
@@ -1021,6 +1136,7 @@
   "ewyzfjmijs": {
     "date_created": 1708878589.521242,
     "date_updated": 1708878610.332544,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 el",
@@ -1120,6 +1236,7 @@
   "feettmxzuf": {
     "date_created": 1701962961.078538,
     "date_updated": 1710525853.913744,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -1187,7 +1304,7 @@
       "temperature": "hot"
     },
     "name": "Shakshuka",
-    "nutrition": null,
+    "nutrition": [],
     "people": 3,
     "preparation": [
       "Neem een flinke koekenpan en verhit hierin de olijfolie.",
@@ -1204,6 +1321,7 @@
   "fvtkpuzgie": {
     "date_created": 1707410201.741958,
     "date_updated": 1710424958.702871,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "0.5 lb",
@@ -1345,13 +1463,13 @@
       "Once the vegetables have turned golden brown, add the sausage to the pan, increase the heat, and break up the sausage using a wooden spoon  ",
       "Let it brown for about 5 minutes. Then, pour in the red wine and simmer until it evaporates completely. ",
       "Next, add all the tomato ingredients, season with salt and pepper, and stir to combine. Cover the pan with a lid and cook for about 10 minutes.",
-      "In the meantime, start making the b\u00e9chamel sauce: Pour the milk into a saucepan, season with salt and add the nutmeg then bring to a boil. ",
+      "In the meantime, start making the béchamel sauce: Pour the milk into a saucepan, season with salt and add the nutmeg then bring to a boil. ",
       "Melt the butter in another small saucepan then sprinkle in the flour stirring quickly using a whisk",
-      "Next, add the hot milk and, stirring continuously, cook the b\u00e9chamel until it has thickened",
-      "Once the ragu is ready all you have to do is assemble the lasagne. Spread a little b\u00e9chamel on the bottom of a 9x13 inch (20x30 cm) pan and arrange the lasagne sheets on top Cover with the sausage ragu, another layer of b\u00e9chamel and a tablespoon of grated Grana Padano cheese ",
+      "Next, add the hot milk and, stirring continuously, cook the béchamel until it has thickened",
+      "Once the ragu is ready all you have to do is assemble the lasagne. Spread a little béchamel on the bottom of a 9x13 inch (20x30 cm) pan and arrange the lasagne sheets on top Cover with the sausage ragu, another layer of béchamel and a tablespoon of grated Grana Padano cheese ",
       "Repeat these steps another five times alternating the direction of the lasagne sheets each time.",
-      "Once you\u2019ve put the final layer of pasta in place, cover with the remaining ragu sauce, b\u00e9chamel, and Grana Padano. ",
-      "Bake in a conventional oven preheated to 425\u00b0F (220\u00b0C) for 20 minutes, then switch to broil mode at the highest setting and cook for another 3 minutes.",
+      "Once you’ve put the final layer of pasta in place, cover with the remaining ragu sauce, béchamel, and Grana Padano. ",
+      "Bake in a conventional oven preheated to 425°F (220°C) for 20 minutes, then switch to broil mode at the highest setting and cook for another 3 minutes.",
       "When the lasagne with sausage ragu is golden brown, take it out of the oven, decorate with oregano and thyme leaves, and serve!"
     ],
     "remarks": null,
@@ -1362,6 +1480,7 @@
   "gmpvyizzta": {
     "date_created": 1715798720.931666,
     "date_updated": 1718621130.600209,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "700g",
@@ -1480,6 +1599,7 @@
   "grlmbhjbns": {
     "date_created": 1696080429.818466,
     "date_updated": 1696080429.818466,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -1523,7 +1643,7 @@
       },
       {
         "amount": "4",
-        "ingredient": "tortilla\u2019s"
+        "ingredient": "tortilla’s"
       },
       {
         "amount": "1 tl",
@@ -1563,7 +1683,7 @@
       "temperature": "hot"
     },
     "name": "Mexicaanse Quesadillas met Kip en Avocado",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Meng de kipblokjes met de Mexicaanse kruiden en een scheutje olijfolie en laat een uurtje marineren in de koelkast.",
@@ -1582,6 +1702,7 @@
   "gxhoagwyip": {
     "date_created": 1694347042.436157,
     "date_updated": 1704553588.930754,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 kg",
@@ -1649,13 +1770,13 @@
     ],
     "people": 3,
     "preparation": [
-      "Verwarm de oven voor op 230 \u00b0C.",
+      "Verwarm de oven voor op 230 °C.",
       "Snijd in dikke frites en verdeel over een met bakpapier beklede bakplaat.",
       "Bestrooi met het uienpoeder, knoflookpoeder, gerookte-paprikapoeder en eventueel zout.",
       "Besprenkel met de olijfolie en schep om, zodat alles gelijkmatig is verdeeld.",
       "Bak de frites in het midden van de oven in ca. 35 min. gaar. Schep elke 10 min. om."
     ],
-    "remarks": "Je kan nog ma\u00efzena door de frites mengen om ze extra krokant te maken.",
+    "remarks": "Je kan nog maïzena door de frites mengen om ze extra krokant te maken.",
     "thumbnail": "https://static.ah.nl/static/recepten/img_078546_1024x748_JPG.jpg",
     "time": 45,
     "url": "https://www.ah.nl/r/1186993"
@@ -1663,6 +1784,7 @@
   "hidaazdwhb": {
     "date_created": 1695757223.28769,
     "date_updated": 1703868420.48381,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 kilo",
@@ -1677,11 +1799,11 @@
         "ingredient": "olive oil"
       },
       {
-        "amount": "\u00bc ts",
+        "amount": "¼ ts",
         "ingredient": "garlic powder"
       },
       {
-        "amount": "\u00bc ts",
+        "amount": "¼ ts",
         "ingredient": "onion powder"
       },
       {
@@ -1706,15 +1828,15 @@
       "temperature": "hot"
     },
     "name": "Crispy Smashed Potatoes",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "To prepare the potatoes, scrub them clean if dirty and rinse under running water. Remove and discard any nubby sprouting areas. Place the potatoes in a large Dutch oven or soup pot.",
       "Fill the pot with water until the potatoes are submerged and covered by 1 inch of additional water. Add 1 tablespoon of the salt. Bring the mixture to a boil over medium-high heat and continue cooking until the potatoes are very easily pierced through by a fork (smaller potatoes are done around 20 minutes, and medium around 25 minutes).",
-      "While the potatoes cook, preheat the oven to 220 degrees Celsius and drizzle 1 tablespoon of the olive oil over a large, rimmed baking sheet. Brush the oil so it\u2019s evenly distributed over the sheet.",
+      "While the potatoes cook, preheat the oven to 220 degrees Celsius and drizzle 1 tablespoon of the olive oil over a large, rimmed baking sheet. Brush the oil so it’s evenly distributed over the sheet.",
       "When the potatoes are done, drain them in a large colander and let them cool for about 5 minutes, until they can be handled safely.",
-      "Evenly distribute the potatoes over the prepared baking sheet, and use a potato masher or a serving fork to gently smash each potato to a height of about \u00bd inch. (Thinner potatoes are more crispy.)",
-      "Drizzle the remaining 3 tablespoons of olive oil over the smashed potatoes. Sprinkle the garlic powder, onion powder and remaining \u00bc teaspoon salt over the potatoes. Finally, sprinkle them lightly with freshly ground black pepper.",
+      "Evenly distribute the potatoes over the prepared baking sheet, and use a potato masher or a serving fork to gently smash each potato to a height of about ½ inch. (Thinner potatoes are more crispy.)",
+      "Drizzle the remaining 3 tablespoons of olive oil over the smashed potatoes. Sprinkle the garlic powder, onion powder and remaining ¼ teaspoon salt over the potatoes. Finally, sprinkle them lightly with freshly ground black pepper.",
       "Bake until the potatoes are nice and golden on the edges, about 25 to 30 minutes. Sprinkle them with chopped fresh herbs, and serve hot."
     ],
     "remarks": null,
@@ -1725,6 +1847,7 @@
   "imcyxcddhq": {
     "date_created": 1701713604.995863,
     "date_updated": 1718555333.537837,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2 tl",
@@ -1760,7 +1883,7 @@
       "temperature": "room temperature"
     },
     "name": "Honing-mosterd dressing",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Meng alle ingredienten in een bakje en klaar is je honing-mosterd dressing."
@@ -1773,6 +1896,7 @@
   "iqulcmsvdr": {
     "date_created": 1706116749.595321,
     "date_updated": 1708093042.827995,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1",
@@ -1832,7 +1956,7 @@
       "temperature": "hot"
     },
     "name": "Tortellinischotel met mascarpone tomatensaus",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Zet een pan met water op voor de tortellini. Breng het water aan de kook en kook de tortellini volgens de bereidingstijd op de verpakking.",
@@ -1852,6 +1976,7 @@
   "jeruileiyf": {
     "date_created": 1708426090.018571,
     "date_updated": 1708451134.143042,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2 st",
@@ -1951,7 +2076,7 @@
     ],
     "people": 2,
     "preparation": [
-      "Verwarm de oven voor op 180 \u2103.",
+      "Verwarm de oven voor op 180 ℃.",
       "Pel en snijd de ui in ringen. Was de paprika, verwijder de zaadlijsten en snijd in blokjes.",
       "Bak de falafel balletjes 5 minuten in een pan met olie.",
       "Bak ook de halloumi tot goudbruin.",
@@ -1968,6 +2093,7 @@
   "jttijruome": {
     "date_created": 1711269603.246204,
     "date_updated": 1711269738.777157,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "3 tbsp",
@@ -2015,14 +2141,14 @@
       },
       {
         "amount": "100ml ",
-        "ingredient": "tomato pur\u00e9e or plain passata (sieved tomatoes)"
+        "ingredient": "tomato purée or plain passata (sieved tomatoes)"
       },
       {
         "amount": "1.6kg",
         "ingredient": "skinless chicken thighs, bone-in"
       },
       {
-        "amount": "1\u20132 tsp",
+        "amount": "1–2 tsp",
         "ingredient": "garam masala"
       }
     ],
@@ -2039,21 +2165,21 @@
       "temperature": "hot"
     },
     "name": "Chicken Masala Curry",
-    "nutrition": null,
+    "nutrition": [],
     "people": 8,
     "preparation": [
-      "In a large saucepan that has a lid, heat the oil over a medium\u2013high heat.",
+      "In a large saucepan that has a lid, heat the oil over a medium–high heat.",
       "When hot, add the cumin seeds, coriander seeds and bay leaf and temper in the oil for about 30 seconds.",
       "Pour in the chopped onions.",
       "Fry for about 5 minutes until the onions are soft and translucent.",
       "Stir in the ground cumin and coriander, garlic and ginger paste, chilli powder and turmeric followed by the chopped tomatoes and allow to sizzle over a medium heat for about 5 minutes.",
       "Add the salt to this mixture and it will help the onion release moisture into the sauce.",
       "The onions and tomatoes will begin to break down, turning into a thick sauce.",
-      "Stir in the tomato pur\u00e9e or passata (sieved tomatoes) and sizzle for about 30 seconds, then add the chicken.",
+      "Stir in the tomato purée or passata (sieved tomatoes) and sizzle for about 30 seconds, then add the chicken.",
       "Stir it all up nicely and pour in just enough water to cover the chicken.",
       "Cover the curry and let it simmer for about 10 minutes. The sauce will become nice and thick and will stick to the chicken pieces as they cook.",
       "Remove the lid and stir, adding a drop more water if you prefer a thinner sauce or turning up the heat if it is too runny.",
-      "You\u2019ll know the curry is ready when the oil comes to the top. Simply skim it off.",
+      "You’ll know the curry is ready when the oil comes to the top. Simply skim it off.",
       "Stir in 1 teaspoon of the garam masala and taste.",
       "Add more salt if needed.",
       "I usually use about 2 teaspoons of garam masala."
@@ -2066,6 +2192,7 @@
   "juwtabweyq": {
     "date_created": 1698954865.150246,
     "date_updated": 1698954865.150246,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500 gr",
@@ -2121,7 +2248,7 @@
       "temperature": "hot"
     },
     "name": "Wokschotel van kip uien champignons paprika en kruiden",
-    "nutrition": null,
+    "nutrition": [],
     "people": 3,
     "preparation": [
       "Bak de ui en de knoflook aan",
@@ -2139,6 +2266,7 @@
   "koeykfiwxx": {
     "date_created": 1711990256.342571,
     "date_updated": 1711990517.778659,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "250 gr",
@@ -2161,7 +2289,7 @@
         "ingredient": "uipoeder"
       },
       {
-        "amount": "\u2018n afgestreken tl",
+        "amount": "‘n afgestreken tl",
         "ingredient": "zout"
       },
       {
@@ -2177,7 +2305,7 @@
         "ingredient": "tarwebloem"
       },
       {
-        "amount": "\u00bd tl",
+        "amount": "½ tl",
         "ingredient": "knoflookpoeder"
       },
       {
@@ -2185,11 +2313,11 @@
         "ingredient": "paprikapoeder"
       },
       {
-        "amount": "\u00bd tl",
+        "amount": "½ tl",
         "ingredient": "cayennepeper"
       },
       {
-        "amount": "\u00bd tl",
+        "amount": "½ tl",
         "ingredient": "tijm"
       },
       {
@@ -2210,15 +2338,15 @@
       "temperature": "hot"
     },
     "name": "krokant gebakken oesterzwammen",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Zorg ervoor dat de oesterzwammen goed schoon en droog zijn. Scheur eventuele grote exemplaren in kleinere stukken.",
-      "Neem daarna twee kommen en meng in de eerste kom alle ingredi\u00ebnten voor het beslag. Doe de tarwebloem in de kom en voeg dan knoflookpoeder, uipoeder, zout en suiker toe. Giet er de plantaardige melk over en meng het geheel tot \u2019n vloeibaar beslag.",
-      "In de andere kom meng je alle ingredi\u00ebnten die je nodig hebt om de \u2018vegan fried chicken\u2019 te paneren. Dus de tarwebloem, knoflookpoeder, paprikapoeder, cayennepeper, tijm en zout en peper naar smaak.",
+      "Neem daarna twee kommen en meng in de eerste kom alle ingrediënten voor het beslag. Doe de tarwebloem in de kom en voeg dan knoflookpoeder, uipoeder, zout en suiker toe. Giet er de plantaardige melk over en meng het geheel tot ’n vloeibaar beslag.",
+      "In de andere kom meng je alle ingrediënten die je nodig hebt om de ‘vegan fried chicken’ te paneren. Dus de tarwebloem, knoflookpoeder, paprikapoeder, cayennepeper, tijm en zout en peper naar smaak.",
       "Verhit daarna de olie tot 170 graden. Doop nu elk stuk oesterzwam eerst in het beslag rol ze vervolgens door het droge mengsel.",
       "Laat ze daarna meteen in de hete olie glijden en bak ze in 3-5 minuten gaar en goudkleurig.",
-      "Serveer de \u2018vegan fried chicken\u2019 met alleen wat zout en citroen of met je favoriete sausje \u2013 Eet smakelijk!"
+      "Serveer de ‘vegan fried chicken’ met alleen wat zout en citroen of met je favoriete sausje – Eet smakelijk!"
     ],
     "remarks": null,
     "thumbnail": "https://i.imgur.com/jU2VOAO.jpeg",
@@ -2228,6 +2356,7 @@
   "ktlzynexmd": {
     "date_created": 1693413241.705715,
     "date_updated": 1694357961.470041,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1",
@@ -2309,7 +2438,7 @@
     "preparation": [
       "Breng 1 liter water aan de kook en los hierin het groentebouillonblokje op.",
       "Fruit de sjalotten 3 min. in 2 el olijfolie in een ruime pan. Voeg de rijst toe en bak een paar min. mee tot de rijst goed heet is. Roer goed.",
-      "Schenk de wijn in de pan en roer regelmatig tot alle wijn is opgenomen. Doe \u00bc deel van de bouillon erbij en roer tot de bouillon is opgenomen. Schep dan weer \u00bc deel bouillon erbij. Roer tot de bouillon is opgenomen en schep er de helft van de pesto door met de rest van de bouillon.",
+      "Schenk de wijn in de pan en roer regelmatig tot alle wijn is opgenomen. Doe ¼ deel van de bouillon erbij en roer tot de bouillon is opgenomen. Schep dan weer ¼ deel bouillon erbij. Roer tot de bouillon is opgenomen en schep er de helft van de pesto door met de rest van de bouillon.",
       "Blijf nog 10 min. roeren tot al het vocht is opgenomen en de rijst bijna beetgaar is. Roer de spinazie erdoor en verwarm de risotto nog 5 min. op laag vuur met een deksel op de pan. Zet het vuur uit en laat het gerecht nog 5 min. doorgaren.",
       "Bak ondertussen de garnalen 4 min. in een koekenpan in de rest van de olie. Schep er de rest van de pesto door en verwarm alles nog 1 min.",
       "Pluk de blaadjes van het basilicum. Houd wat kleine blaadjes apart en snijd de grote in reepjes.",
@@ -2324,6 +2453,7 @@
   "kunukalxde": {
     "date_created": 1691329753.204298,
     "date_updated": 1691329753.204298,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2 tablespoons",
@@ -2411,7 +2541,7 @@
       "temperature": "hot"
     },
     "name": "One Skillet Creamy Sun-Dried Tomato Chicken and Orzo",
-    "nutrition": null,
+    "nutrition": [],
     "people": 6,
     "preparation": [
       "Preheat the oven to 205 degrees C.",
@@ -2419,6 +2549,7 @@
       "To the same skillet, add the butter and shallot, cooking until fragrant, about 3 minutes. Add the garlic and orzo, cooking until lightly golden, 2-3 minutes. Add the wine and de-glaze the pan. Add 1 1/2 cups water. Bring to a boil, cook 3-5 minutes, then add the cream, mustard, parmesan, spinach, and sun-dried tomatoes, stirring until the spinach has wilted. Slide the chicken and any juices left on the plate back into the skillet. Transfer to the oven and cook, uncovered for 10-15 minutes, until the chicken is cooked through.",
       "Serve the chicken topped with lemon juice and rosemary, if desired."
     ],
+    "remarks": null,
     "thumbnail": "https://www.halfbakedharvest.com/wp-content/uploads/2019/12/One-Skillet-Creamy-Sun-Dried-Tomato-Chicken-and-Orzo-1.jpg",
     "time": 45,
     "url": "https://www.halfbakedharvest.com/one-skillet-creamy-sun-dried-tomato-chicken-and-orzo/"
@@ -2426,6 +2557,7 @@
   "lcmvtnkzmw": {
     "date_created": 1690887976.483929,
     "date_updated": 1690887976.483929,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1",
@@ -2440,7 +2572,7 @@
         "ingredient": "kipfilet"
       },
       {
-        "amount": "\u00bd blikje",
+        "amount": "½ blikje",
         "ingredient": "tomatenpuree"
       },
       {
@@ -2468,7 +2600,7 @@
         "ingredient": "arachideolie"
       },
       {
-        "amount": "\u00bd kl",
+        "amount": "½ kl",
         "ingredient": "cayennepeper"
       },
       {
@@ -2496,7 +2628,7 @@
     "nutrition": [
       {
         "amount": "795.38 kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "61.5 g",
@@ -2516,7 +2648,7 @@
       },
       {
         "amount": "46.92 g",
-        "group": "Prote\u00efnen"
+        "group": "Proteïnen"
       },
       {
         "amount": "6.69 g",
@@ -2531,6 +2663,7 @@
       "Snij ondertussen de tomaat in blokjes en de lente-uitjes in ringen. Warm de tortilla's op in een antikleefpan zonder vetstof en hou warm onder aluminiumfolie. Je kan ze ook opwarmen (zonder verpakking!) in de microgolfoven.",
       "Roer de tomatenblokjes door de kip tikka masala. Verdeel over de tortilla's, strooi er de lente-uitjes over en rol de tortilla's op. Serveer meteen."
     ],
+    "remarks": null,
     "thumbnail": "https://image.15gram.be/uploads/recipes/8379_wraps-kip-tikka-masala_1535471113-1920x1280.jpg",
     "time": 25,
     "url": "https://15gram.be/recepten/wraps-kip-tikka-masala"
@@ -2538,6 +2671,7 @@
   "muafgekefs": {
     "date_created": 1703869691.717285,
     "date_updated": 1704550567.217034,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "350 g",
@@ -2565,7 +2699,7 @@
       },
       {
         "amount": "200 ml",
-        "ingredient": "cr\u00e8me fraiche"
+        "ingredient": "crème fraiche"
       },
       {
         "amount": "2",
@@ -2596,7 +2730,7 @@
     "nutrition": [
       {
         "amount": "860.27 kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "66.24 g",
@@ -2616,7 +2750,7 @@
       },
       {
         "amount": "12.35 g",
-        "group": "Prote\u00efnen"
+        "group": "Proteïnen"
       },
       {
         "amount": "3.35 g",
@@ -2628,9 +2762,9 @@
       "Doe de bloem in een keukenmachine. Voeg het gist en het zout toe. Voeg dan ook het water en de olijfolie toe.",
       "Kneed het deeg 10 minuten op matige snelheid tot een soepel deeg dat licht plakkerig en elastisch is.",
       "Laat afgedekt een uur rijzen op een warme plek.",
-      "Verwarm de oven voor op 250 \u00b0C.",
+      "Verwarm de oven voor op 250 °C.",
       "Rol het deeg uit op een met bakpapier bedekte bakplaat tot een rechthoek of een cirkel.",
-      "Besmeer het deeg met de cr\u00e8me fraiche. Verdeel hierover de uien met de spekreepjes. Kruid bij met peper en zout.",
+      "Besmeer het deeg met de crème fraiche. Verdeel hierover de uien met de spekreepjes. Kruid bij met peper en zout.",
       "Bak de Flammkuchen 10 minuten af in de warme oven."
     ],
     "remarks": "Ook lekker met:\r\nPittige worst,\r\nParmaham en rucola,\r\nBrie en nootjes,\r\nGeitenkaas en appel,\r\nGerookte zalm,\r\nChampignons en pesto",
@@ -2641,6 +2775,7 @@
   "nknaqtdckq": {
     "date_created": 1692896699.725175,
     "date_updated": 1694357532.747472,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "400 gr",
@@ -2721,6 +2856,7 @@
   "npwbdhzbyz": {
     "date_created": 1704132068.620714,
     "date_updated": 1704132118.612725,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "300 gr",
@@ -2764,11 +2900,11 @@
       "temperature": "hot"
     },
     "name": "Kip-pesto balletjes",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Verwarm de oven voor op 200 graden.",
-      "Meng in een grote kom alle ingredi\u00ebnten door elkaar. Voeg eventueel wat extra paneermeel toe als het mengsel niet stevig genoeg is.",
+      "Meng in een grote kom alle ingrediënten door elkaar. Voeg eventueel wat extra paneermeel toe als het mengsel niet stevig genoeg is.",
       "Leg een bakplaat met bakpapier klaar en vorm met (natte) handen de kipgehaktballetjes. Leg ze op de bakplaat met bakpapier.",
       "Bak de kipgehaktballetjes circa 20 minuten in de oven totdat ze bruin zijn en gaar van binnen."
     ],
@@ -2780,6 +2916,7 @@
   "nyzrigdglr": {
     "date_created": 1693843635.662224,
     "date_updated": 1694357888.437607,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500 gram",
@@ -2826,11 +2963,11 @@
         "ingredient": "suiker"
       },
       {
-        "amount": "\u00bd eetlepel",
+        "amount": "½ eetlepel",
         "ingredient": "oregano"
       },
       {
-        "amount": "\u00bd theelepel",
+        "amount": "½ theelepel",
         "ingredient": "komijn"
       },
       {
@@ -2846,7 +2983,7 @@
         "ingredient": "uienpoeder"
       },
       {
-        "amount": "\u00bd theelepel",
+        "amount": "½ theelepel",
         "ingredient": "kaneel"
       },
       {
@@ -2870,7 +3007,7 @@
     "nutrition": [
       {
         "amount": "529kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "33g",
@@ -2893,9 +3030,9 @@
     "preparation": [
       "Snipper het uitje en snijd de teentjes knoflook fijn.",
       "Doe vervolgens een beetje olie of boter in een ruime koekenpan en fruit het uitje samen met de 2 teentjes knoflook even aan.",
-      "Voeg daarna de volgende kruiden toe en bak deze even kort mee: 2 theelepels komijn, 2 theelepels cacaopoeder, 2 theelepels paprikapoeder, \u00bd theelepel piment en \u00bd theelepel oregano. Voeg dan het gehakt toe en rul deze bruin. Breng verder op smaak met peper en zout. ",
-      "Voeg dan de groente toe en laat het even doorbakken. Je kunt het beste eerst de ma\u00efs en de paprika toevoegen, en dan later de bonen.",
-      "Voeg de tomatenblokjes toe. Hierbij doe je vervolgens 1 eetlepel suiker, \u00bd eetlepel oregano, 1 theelepels komijn, 1 theelepel uienpoeder en peper & zout naar smaak. Laat dit op een laag vuurtje zachtjes pruttelen.",
+      "Voeg daarna de volgende kruiden toe en bak deze even kort mee: 2 theelepels komijn, 2 theelepels cacaopoeder, 2 theelepels paprikapoeder, ½ theelepel piment en ½ theelepel oregano. Voeg dan het gehakt toe en rul deze bruin. Breng verder op smaak met peper en zout. ",
+      "Voeg dan de groente toe en laat het even doorbakken. Je kunt het beste eerst de maïs en de paprika toevoegen, en dan later de bonen.",
+      "Voeg de tomatenblokjes toe. Hierbij doe je vervolgens 1 eetlepel suiker, ½ eetlepel oregano, 1 theelepels komijn, 1 theelepel uienpoeder en peper & zout naar smaak. Laat dit op een laag vuurtje zachtjes pruttelen.",
       "Strooi indien gewenst wat kaas over de tortillas en warm ze op in de oven.",
       "Verdeel een beetje zure room over de wrap, verdeel er daarna wat gehakt over, de saus en tot slot wat geraspte kaas.",
       "Tot slot verdeel je nog wat tomatensaus over de bovenkant en de geraspte kaas."
@@ -2908,6 +3045,7 @@
   "ottwnhbnlv": {
     "date_created": 1717856356.01515,
     "date_updated": 1718133683.48881,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 lb / 500g",
@@ -2995,7 +3133,7 @@
       "temperature": "hot"
     },
     "name": "Beef Steak Fajitas",
-    "nutrition": null,
+    "nutrition": [],
     "people": 3,
     "preparation": [
       "Place the Marinated Beef ingredients in a ziplock bag or bowl, massage to coat then refrigerate for 2 hour to overnight.",
@@ -3018,6 +3156,7 @@
   "pulyfcuzkj": {
     "date_created": 1704716983.718405,
     "date_updated": 1704743557.222603,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500 gr",
@@ -3073,7 +3212,7 @@
       "temperature": "hot"
     },
     "name": "Gnocchi kip pesto",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Verwarm de oven voor op 180 graden.",
@@ -3094,6 +3233,7 @@
   "pyncduqhfu": {
     "date_created": 1709138018.91309,
     "date_updated": 1709146959.599059,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 tbsp",
@@ -3214,6 +3354,7 @@
   "qzeokpziof": {
     "date_created": 1709368943.511745,
     "date_updated": 1709383175.49439,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "25 ml",
@@ -3252,7 +3393,7 @@
         "ingredient": "peterselie (vers, fijn gesneden)"
       },
       {
-        "amount": "\u00bd theelepel",
+        "amount": "½ theelepel",
         "ingredient": "nootmuskaat (gemalen)"
       },
       {
@@ -3276,7 +3417,7 @@
     "nutrition": [
       {
         "amount": "321 kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "19 g",
@@ -3299,7 +3440,7 @@
     "preparation": [
       "Verwarm het water met de melk en de boter in een klein pannetje op medium vuur totdat de boter is gesmolten.",
       "Zet het vuur laag en voeg de bloem toe. Roer continu met een houten lepel en verwarm ca. 5 minuten om de bloem te laten garen.",
-      "Haal van het vuur en roer \u00e9\u00e9n ei erdoorheen. Blijf roeren tot het ei volledig is opgenomen en het soezendeeg glanst.",
+      "Haal van het vuur en roer één ei erdoorheen. Blijf roeren tot het ei volledig is opgenomen en het soezendeeg glanst.",
       "Laat het deeg afkoelen tot kamertemperatuur.",
       "Doe het gehakt, peper, zout, peterselie en nootmuskaat in een kom en kneed de kruiden vluchtig door het gehakt.",
       "Verwarm de oven voor op 200 graden boven- en onderwarmte en laat de plakjes bladerdeeg ontdooien.",
@@ -3320,6 +3461,7 @@
   "rfgjmqphiv": {
     "date_created": 1699552042.697397,
     "date_updated": 1699552070.449807,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "8",
@@ -3346,7 +3488,7 @@
         "ingredient": "black pepper"
       },
       {
-        "amount": "\u00bd tsp",
+        "amount": "½ tsp",
         "ingredient": "dried oregano"
       },
       {
@@ -3374,7 +3516,7 @@
         "ingredient": "cornflour"
       },
       {
-        "amount": "\u00bc tsp",
+        "amount": "¼ tsp",
         "ingredient": "turmeric"
       }
     ],
@@ -3428,7 +3570,7 @@
     "people": 4,
     "preparation": [
       "To make the spice mix, combine all the ingredients.",
-      "Whisk the milk with the vinegar, egg, \u00bd tsp salt and 1 tbsp spice mix in a bowl or deep plastic container to make the buttermilk marinade.",
+      "Whisk the milk with the vinegar, egg, ½ tsp salt and 1 tbsp spice mix in a bowl or deep plastic container to make the buttermilk marinade.",
       "Open the chicken thighs and put between two pieces of baking parchment, then flatten using a rolling pin.",
       "Transfer to the marinade, then cover and chill for 4 hrs, or overnight.",
       "Make the coating by combining the flours and turmeric with most of the remaining spice mix (reserving 1 tsp) and a generous pinch of salt.",
@@ -3436,7 +3578,7 @@
       "One by one, dredge each thigh in the flour, then dip in the reserved marinade, then dredge again in the flour, pressing on as much as you can to coat.",
       "Transfer the coated thighs to a large plate.",
       "Heat a 10cm depth of oil in a shallow saucepan or deep-fat fryer until it reaches 175C.",
-      "Lower two or three of the thighs in at a time and fry undisturbed for 3 mins, making sure the temperature doesn\u2019t drop below 160C (it should stay at about 170C).",
+      "Lower two or three of the thighs in at a time and fry undisturbed for 3 mins, making sure the temperature doesn’t drop below 160C (it should stay at about 170C).",
       "Flip the thighs, then fry for another 2-3 mins until deeply golden and crisp on both sides.",
       "Lift the chicken out and transfer to a tray lined with kitchen paper to drain, then put on a rack and keep warm in a low oven while you fry the remaining thighs.",
       "When all the chicken has been fried, combine the reserved spice mix with 1 tbsp flaky sea salt and sprinkle over the chicken to serve."
@@ -3449,6 +3591,7 @@
   "skaenurnut": {
     "date_created": 1707761754.111641,
     "date_updated": 1708379201.607854,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1000 gram",
@@ -3509,10 +3652,10 @@
       "temperature": "any"
     },
     "name": "Merel's Italiaanse Burgers",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
-      "Meng alle ingredi\u00ebnten en een bak. Voeg eventueel extra ei of paneermeel toe als het te nat of droog is. Verdeel dan het mengsel in gelijke delen",
+      "Meng alle ingrediënten en een bak. Voeg eventueel extra ei of paneermeel toe als het te nat of droog is. Verdeel dan het mengsel in gelijke delen",
       "Voeg boter en olijfolie toe aan een pan en laat de boter smelten. Voeg wat verse rozemarijn toe aan de pan om mee te bakken. Voeg dan de hamburgers toe en bak aan beide kanten bruin tot het gaar is. "
     ],
     "remarks": null,
@@ -3523,6 +3666,7 @@
   "stvajytxvm": {
     "date_created": 1703518692.803492,
     "date_updated": 1704553762.764013,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1",
@@ -3695,7 +3839,7 @@
       "temperature": "hot"
     },
     "name": "Peanut Gochujang Noodle Soup",
-    "nutrition": null,
+    "nutrition": [],
     "people": 1,
     "preparation": [
       "#For the crispy tofu crumbles",
@@ -3704,7 +3848,7 @@
       "Stovetop: Heat 1 tbsp oil in a skillet over medium heat and add tofu crumbles. Fry until golden brown, stirring constantly, about 8-10 minutes.",
       "#For the soup",
       "In a small bowl combine peanut butter, gochujang, soy sauce and hot water. Stir until smooth.",
-      "Heat oil in a small saucepan over medium heat. Add green onion whites, mushrooms and garlic and saut\u00e9 for 2-3 minutes.",
+      "Heat oil in a small saucepan over medium heat. Add green onion whites, mushrooms and garlic and sauté for 2-3 minutes.",
       "Pour in water and bring to a simmer. Then lower the heat to medium-low and simmer for 5 minutes.",
       "Turn off the heat and allow the broth to stop simmering. Then stir in the peanut gochujang mixture along with sesame oil and most of the green onion greens.",
       "Ladle the broth over cooked noodles and top with tofu crumbles, chili crisp and the rest of the green onion."
@@ -3717,6 +3861,7 @@
   "todrsgtaks": {
     "date_created": 1692904543.017555,
     "date_updated": 1694536041.613312,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "450 grams",
@@ -3805,7 +3950,7 @@
     "people": 4,
     "preparation": [
       "Start by prepping your chicken. Pat the chicken breasts dry and season them generously with the dried thyme, smoked paprika, salt, and black pepper. Ensure each piece is well-coated for maximum flavor.",
-      "Heat the olive oil in a large pan over medium heat. When it\u2019s shimmering, add the chicken breasts and sear them until they're golden brown and cooked through, which should take about 5-6 minutes per side depending on thickness. Once done, transfer the chicken to a plate and let it rest - it\u2019s done its part for now.",
+      "Heat the olive oil in a large pan over medium heat. When it’s shimmering, add the chicken breasts and sear them until they're golden brown and cooked through, which should take about 5-6 minutes per side depending on thickness. Once done, transfer the chicken to a plate and let it rest - it’s done its part for now.",
       "To the same pan, add a splash of water to deglaze it. This helps lift those tasty, caramelized bits stuck to the bottom of the pan, which are full of flavor. Add your minced garlic and sliced zucchini into the pan, stir them around, and cook until the zucchini is tender and the garlic is wonderfully fragrant.",
       "Pour in the heavy cream, followed by the Parmesan cheese. Stir until the cheese melts into the cream, forming a thick sauce. Bring your fresh gnocchi to the party by adding them directly into the sauce. Cook them for about 5 minutes, until they become tender and have soaked up some of that creamy sauce. To this, add the sun-dried tomato pesto and stir well. Add the chicken back to the pan and finish with an extra sprinkle of Parmesan and fresh basil if you have it. Enjoy!"
     ],
@@ -3817,6 +3962,7 @@
   "uhxuhmqhel": {
     "date_created": 1705227499.522421,
     "date_updated": 1706623031.762773,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 tbsp",
@@ -3851,7 +3997,7 @@
         "ingredient": "dry thyme"
       },
       {
-        "amount": "\u00bc cup",
+        "amount": "¼ cup",
         "ingredient": "fresh parsley minced"
       },
       {
@@ -3867,7 +4013,7 @@
         "ingredient": "water"
       },
       {
-        "amount": "1 \u00bc cup",
+        "amount": "1 ¼ cup",
         "ingredient": "dry orzo"
       },
       {
@@ -3912,17 +4058,17 @@
       "temperature": "hot"
     },
     "name": "Lemony Chicken Orzo Soup",
-    "nutrition": null,
+    "nutrition": [],
     "people": 3,
     "preparation": [
-      "Heat oil in a large soup pot over medium-high heat. Add the onion, bell pepper, and fennel and cook for 6\u20138 minutes until just beginning to soften. Add the garlic and cook for 1 minute\u2014season with salt and pepper.",
+      "Heat oil in a large soup pot over medium-high heat. Add the onion, bell pepper, and fennel and cook for 6–8 minutes until just beginning to soften. Add the garlic and cook for 1 minute—season with salt and pepper.",
       "Place the white parts of the scallions in a food processor along with the rosemary, thyme, and parsley and pulse until minced.",
-      "Melt the butter into the pot of aromatics. Once bubbly, add the minced scallion whites, rosemary, thyme, and parsley\u2014cook for 1 minute.",
+      "Melt the butter into the pot of aromatics. Once bubbly, add the minced scallion whites, rosemary, thyme, and parsley—cook for 1 minute.",
       "Add the diced chicken tenderloins and cook for 3 minutes. Place the chicken thighs on top and season everything with salt and pepper.",
-      "Add the water to the pot. Bring to a boil and then reduce heat and simmer, uncovered, for 45 minutes. Skim the surface of the soup occasionally to remove any foam or scum that floats to the top\u2014taste and season to your preferences.",
+      "Add the water to the pot. Bring to a boil and then reduce heat and simmer, uncovered, for 45 minutes. Skim the surface of the soup occasionally to remove any foam or scum that floats to the top—taste and season to your preferences.",
       "Remove the chicken thighs from the pot and remove the skin. Shred the meat from the bone and discard the bones and skin. Return the shredded chicken to the pot. Bring the soup back to a boil. Add the curry powder, cayenne pepper and paprika powder to flavor.",
       "Once the soup is boiling, add the orzo. Stir regularly to prevent it from sticking to the bottom of the pot. Cook for 10 minutes until al dente.",
-      "Mince the green parts of the scallion and stir them into the soup along with the juice from the lemon\u2014taste and season once more to your preferences.",
+      "Mince the green parts of the scallion and stir them into the soup along with the juice from the lemon—taste and season once more to your preferences.",
       "Ladle the soup into bowls. Garnish with fennel fronds and more minced parsley. Enjoy!"
     ],
     "remarks": "Add extra vegetables if you like!",
@@ -3933,6 +4079,7 @@
   "umuzwnfqhd": {
     "date_created": 1715005130.360893,
     "date_updated": 1716135918.151103,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2 grote",
@@ -3988,7 +4135,7 @@
       "temperature": "hot"
     },
     "name": "Italiaans gevulde courgette",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Verwarm de oven op 200 graden.",
@@ -4012,6 +4159,7 @@
   "uoswlnrpbk": {
     "date_created": 1694357446.74826,
     "date_updated": 1694357446.74826,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "300 g",
@@ -4086,7 +4234,7 @@
     "nutrition": [
       {
         "amount": "890.28 kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "73.57 g",
@@ -4106,7 +4254,7 @@
       },
       {
         "amount": "56.99 g",
-        "group": "Prote\u00efnen"
+        "group": "Proteïnen"
       },
       {
         "amount": "13.03 g",
@@ -4132,6 +4280,7 @@
   "uxcskrsbva": {
     "date_created": 1708018406.780889,
     "date_updated": 1708031367.636085,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500 gram",
@@ -4158,7 +4307,7 @@
         "ingredient": "ui"
       },
       {
-        "amount": "1\u00bd eetlepel",
+        "amount": "1½ eetlepel",
         "ingredient": "kerriepoeder"
       },
       {
@@ -4178,7 +4327,7 @@
         "ingredient": "komijn"
       },
       {
-        "amount": "\u00bd theelepel",
+        "amount": "½ theelepel",
         "ingredient": "chilivlokken"
       },
       {
@@ -4202,7 +4351,7 @@
     "nutrition": [
       {
         "amount": "542kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "41g",
@@ -4241,6 +4390,7 @@
   "veblossdih": {
     "date_created": 1690974533.891053,
     "date_updated": 1711697827.246222,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -4264,7 +4414,7 @@
       },
       {
         "amount": "100",
-        "ingredient": "gram cr\u00e8me fra\u00eeche"
+        "ingredient": "gram crème fraîche"
       },
       {
         "amount": "3-4",
@@ -4303,7 +4453,7 @@
     "nutrition": [
       {
         "amount": "322kcal",
-        "group": "Calorie\u00ebn"
+        "group": "Calorieën"
       },
       {
         "amount": "22g",
@@ -4327,7 +4477,7 @@
       "Snipper de uitjes en snijd de teentjes knoflook fijn. Snijd de kipfilets in blokjes. Was de sla indien nodig.",
       "Verhit een beetje olijfolie in een koekenpan en fruit vervolgens het uitje en de knoflook aan tot deze glazig worden. Voeg dan de kipfilet in blokjes toe. Bak de kipfilet al omscheppend gaar en kruid deze met 2 tot 3 eetlepels chilisaus en paprikapoeder, peper en zout naar smaak. Als de kip gaar is, schep je de mango erdoorheen en zet je het vuur uit.",
       "Bereid de wraps zoals op de verpakking aangegeven of gebruik lekkere zelfgemaakte wraps.",
-      "Verdeel een (kleine) eetlepel cr\u00e8me fra\u00eeche en een eetlepel pesto over de wrap. Leg hierop een plakje Italiaanse ham en verdeel daarover ongeveer 3 eetlepels van de mango en kip. Garneer tot slot met een klein handje veldsla en rol de wraps dicht. Eet smakelijk!"
+      "Verdeel een (kleine) eetlepel crème fraîche en een eetlepel pesto over de wrap. Leg hierop een plakje Italiaanse ham en verdeel daarover ongeveer 3 eetlepels van de mango en kip. Garneer tot slot met een klein handje veldsla en rol de wraps dicht. Eet smakelijk!"
     ],
     "remarks": null,
     "thumbnail": "https://i.imgur.com/wn1hFD8.jpeg",
@@ -4337,6 +4487,7 @@
   "vkiipwuqao": {
     "date_created": 1704406300.94682,
     "date_updated": 1711697735.058037,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -4364,7 +4515,7 @@
       },
       {
         "amount": "1 tbsp",
-        "ingredient": "gochujang paste ( or tomato paste if you can\u2019t find it )"
+        "ingredient": "gochujang paste ( or tomato paste if you can’t find it )"
       },
       {
         "amount": "1 tbsp",
@@ -4438,7 +4589,7 @@
     "preparation": [
       "To 600g raw lean beef mince add tbsp garlic, tbsp onion powder , 50ml light soy sauce and tbsp sesame oil",
       "Mix together and cook for 10 mins with on high heat until crispy",
-      "Then add 1 Tbsp gochujang paste ( or tomato paste if you can\u2019t find it ), 80ml light soy sauce, 20g honey ",
+      "Then add 1 Tbsp gochujang paste ( or tomato paste if you can’t find it ), 80ml light soy sauce, 20g honey ",
       "Sitr and let it simmer and finish with spring onion",
       "For the golden fried rice: add 1 tbsp garlic, your chopped bell pepper and spring onion",
       "Add the vegetable mix and cook for a bit",
@@ -4455,6 +4606,7 @@
   "vpqlvmvtni": {
     "date_created": 1690887792.27568,
     "date_updated": 1690887792.27568,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "4 el",
@@ -4534,11 +4686,12 @@
     ],
     "people": 4,
     "preparation": [
-      "Verwarm de oven voor op 200 \u00baC. Verhit de helft van de olie in een grote koekenpan en bak de gnocchi in 15 min. goudgeel.",
+      "Verwarm de oven voor op 200 ºC. Verhit de helft van de olie in een grote koekenpan en bak de gnocchi in 15 min. goudgeel.",
       "Maak ondertussen de champignons schoon met keukenpapier en snijd in vieren. Snijd de kipdijfilet in blokjes. Verhit de rest van de olie in een hapjespan en bak de kip 3 min. op middelhoog vuur. Voeg de champignons toe en bak 5 min. mee.",
       "Halveer de cherrytomaten en voeg samen met de gnocchi toe aan de kip. Roer de Paturain Cuisine erdoor en warm 1 min. mee. Breng op smaak met peper.",
       "Verdeel het mengsel over de ovenschaal en strooi de kaas erover. Bak de gnocchischotel ca. 15 min. in het midden van de oven tot de kaas gesmolten en lichtbruin is. Snijd het basilicum grof en verdeel over de ovenschotel."
     ],
+    "remarks": null,
     "thumbnail": "https://static.ah.nl/static/recepten/img_RAM_PRD122160_1024x748_JPG.jpg",
     "time": 40,
     "url": "https://www.ah.nl/allerhande/recept/R-R1192683/gnocchi-ovenschotel-met-romige-kip"
@@ -4546,6 +4699,7 @@
   "wdetehrxgo": {
     "date_created": 1695756957.926085,
     "date_updated": 1718554131.86203,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "400 gram",
@@ -4593,10 +4747,10 @@
       "temperature": "hot"
     },
     "name": "Gehaktballen van Restaurant De Librije",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
-      "Meng alle ingredi\u00ebnten (behalve de boter en de vleesfond) en kneed het gehakt met de hand tot alles goed gemengd is.",
+      "Meng alle ingrediënten (behalve de boter en de vleesfond) en kneed het gehakt met de hand tot alles goed gemengd is.",
       "Verdeel het in 4 porties en draai er ballen van. Laat de ballen afgedekt 30 minuten rusten in de koelkast.",
       "Verhit de boter in een braadpan en braad de ballen hierin rondom bruin aan.",
       "Schenk de fond erbij en laat de ballen onder af en toe keren, met de deksel schuin op de pan, in 45 minuten op laag vuur gaar worden."
@@ -4609,6 +4763,7 @@
   "wdjvneaine": {
     "date_created": 1717310690.525637,
     "date_updated": 1718133604.526798,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "500g",
@@ -4620,7 +4775,7 @@
       },
       {
         "amount": "1 tbs",
-        "ingredient": "garlic pur\u00e9e or 4 cloves"
+        "ingredient": "garlic purée or 4 cloves"
       },
       {
         "amount": "1 tbs",
@@ -4690,7 +4845,7 @@
     "preparation": [
       "Start by mixing together all the sauce ingredients in a bowl (hoisin, light soy sauce, garlic, ginger and sweet chili).",
       "Season the beef and fry this off until browned and cooked through then add in the sauce and cook until the beef is coated and sticky.",
-      "Remove the beef from the pan and add in the spring onions and peppers and cook until they\u2019re starting to soften.",
+      "Remove the beef from the pan and add in the spring onions and peppers and cook until they’re starting to soften.",
       "Then add in the cooked rice and soy sauce. Give it a good mix and add the beef back in.",
       "Garnish, serve and enjoy!"
     ],
@@ -4702,6 +4857,7 @@
   "wlsdxcirfg": {
     "date_created": 1712161703.073675,
     "date_updated": 1712591717.783606,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "600g",
@@ -4785,10 +4941,10 @@
       "temperature": "hot"
     },
     "name": "One pot chicken fajita rice",
-    "nutrition": null,
+    "nutrition": [],
     "people": null,
     "preparation": [
-      "Add olive oil to a pan and saut\u00e9 the onion and garlic.",
+      "Add olive oil to a pan and sauté the onion and garlic.",
       "Marinade the chicken in the spices, and add to the pan together with the bell pepper.",
       "Once brown, add the tomato puree and the diced tomatoes. Add spices to taste.",
       "Add the rice, the vegetable stock, the beans and the corn.",
@@ -4802,6 +4958,7 @@
   "wpbklgujmp": {
     "date_created": 1698518604.650482,
     "date_updated": 1698518604.650482,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "300 gr",
@@ -4829,7 +4986,7 @@
       },
       {
         "amount": "200 ml",
-        "ingredient": "cr\u00e8me fra\u00eeche"
+        "ingredient": "crème fraîche"
       },
       {
         "amount": null,
@@ -4885,14 +5042,14 @@
       "temperature": "hot"
     },
     "name": "Kip madras",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Kook de rijst gaar in ca. 10 minuten. En ook de sperziebonen in ca. 14 minuten.",
       "Hak ondertussen de ui, gember en knoflook fijn en fruit aan in een pan met een beetje olie.",
       "Voeg de paprika en tomaten in blokjes toe. Bak daarna ook de (vega) kip in stukjes mee.",
       "Doe alle kruiden van het kruidenmengsel erbij en roer goed door.",
-      "Voeg de cr\u00e8me fra\u00eeche toe en roer erdoor.",
+      "Voeg de crème fraîche toe en roer erdoor.",
       "Schep wat rijst en boontjes op een bord. Doe daar de kip madras bij.",
       "Hak de bosuien in ringetjes en garneer het gerecht hiermee.",
       "Tip: voeg een fijngehakte halve rode peper toe samen met de uien voor een pittige smaak."
@@ -4905,6 +5062,7 @@
   "wwrpqvbwwa": {
     "date_created": 1707419131.177072,
     "date_updated": 1709383091.063571,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "200 ml",
@@ -4956,7 +5114,7 @@
       "temperature": "cold"
     },
     "name": "Klassieke tiramisu",
-    "nutrition": null,
+    "nutrition": [],
     "people": 6,
     "preparation": [
       "Klop de eidooiers met de helft van de suiker met een (hand)mixer met garde(s) tot een zeer romig mengsel, dit duurt zeker 5 minuten.",
@@ -4964,8 +5122,8 @@
       "Doe de eiwitten met een snuf zout in een vetvrije kom en zorg dat de garde(s) van de mixer heel goed schoongemaakt zijn.",
       "Klop de eiwitten met een (hand)mixer met garde(s) stijf.",
       "Voeg lepel voor lepel de resterende suiker toe.",
-      "Spatel het stijfgeklopte eiwit door het mascarponemengsel en meng dit tot een egale cr\u00e8me.",
-      "Meng de espresso met de drank naar keuze. Doop hier de lange vingers \u00e9\u00e9n voor \u00e9\u00e9n kort in en bedek daarmee de bodem van een (oven)schaal van ongeveer 25\u00d718 centimeter.",
+      "Spatel het stijfgeklopte eiwit door het mascarponemengsel en meng dit tot een egale crème.",
+      "Meng de espresso met de drank naar keuze. Doop hier de lange vingers één voor één kort in en bedek daarmee de bodem van een (oven)schaal van ongeveer 25×18 centimeter.",
       "Verdeel hier de helft van het tiramisumengsel overheen en strijk dit glad.",
       "Herhaal beide stappen en zet de tiramisu minimaal 4 uur in de koelkast om op te stijven.",
       "Bestuif voor het serveren met een dikke laag cacaopoeder."
@@ -4978,6 +5136,7 @@
   "xnqcgomblv": {
     "date_created": 1708333059.702921,
     "date_updated": 1708426152.82752,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "2",
@@ -5045,7 +5204,7 @@
       },
       {
         "amount": "1 el",
-        "ingredient": "ma\u00efzena"
+        "ingredient": "maïzena"
       }
     ],
     "meta": {
@@ -5061,14 +5220,14 @@
       "temperature": "hot"
     },
     "name": "Teriyaki zalm met noodles en chili olie",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Verwarm de oven voor op 200 graden.",
       "Meng voor de glaze de ketjap, sojasaus, bruine suiker, honing en sesamolie. Smeer de zalm hiermee in en bak 10 a 12 minuten af in de oven. Zet de rest van de glaze opzij voor straks.",
       "Kook de noodles zoals op de verpakking vermeld staat gaar.",
       "Breng ook een pan water aan de kook, voeg de eieren toe wanneer het water kookt en kook precies 6 en een halve minuut. Spoel daarna direct goed af met koud water. Pel en zet opzij.",
-      "Verhit de olie in een koekenpan en bak de knoflook, ui en gember aan. Bak de roerbakgroente 3 minuten. Voeg de glaze en 100 ml water toe. Maak een ma\u00efzena papje door de ma\u00efzena met een el water te mengen en voeg dit toe aan de saus. Laat al roerend inkoken tot een saus en voeg dan de noodles toe. Meng goed door. ",
+      "Verhit de olie in een koekenpan en bak de knoflook, ui en gember aan. Bak de roerbakgroente 3 minuten. Voeg de glaze en 100 ml water toe. Maak een maïzena papje door de maïzena met een el water te mengen en voeg dit toe aan de saus. Laat al roerend inkoken tot een saus en voeg dan de noodles toe. Meng goed door. ",
       "Dien de noodles met groente op. Leg de zalm erbovenop en de gehalveerde eitjes erbij. Garneer met crispy chili olie, hoeveelheid naar smaak, sesamzaad en bosui. Dien direct op."
     ],
     "remarks": "Lekker met kroepoek ernaast!",
@@ -5257,10 +5416,10 @@
     "preparation": [
       "Combine chicken with all of the ingredients for the chicken marinade; let marinate for 30 minutes to an hour (or overnight if time allows).",
       "Heat oil in a large skillet or pot over medium-high heat. When sizzling, add chicken pieces in batches of two or three, making sure not to crowd the pan. Fry until browned for only 3 minutes on each side. Set aside and keep warm. (You will finish cooking the chicken in the sauce.)",
-      "Heat butter or ghee in the same pan. Fry the onions until they start to sweat (about 6 minutes) while scraping up any browned bits stuck on the bottom of the pan. Add garlic and ginger and saut\u00e9 for 1 minute until fragrant, then add ground coriander, cumin and garam masala. Let cook for about 20 seconds until fragrant, while stirring occasionally.",
+      "Heat butter or ghee in the same pan. Fry the onions until they start to sweat (about 6 minutes) while scraping up any browned bits stuck on the bottom of the pan. Add garlic and ginger and sauté for 1 minute until fragrant, then add ground coriander, cumin and garam masala. Let cook for about 20 seconds until fragrant, while stirring occasionally.",
       "Add crushed tomatoes, chili powder and salt. Let simmer for about 10-15 minutes, stirring occasionally until sauce thickens and becomes a deep brown red colour.",
       "Remove from heat, scoop mixture into a blender and blend until smooth. You may need to add a couple tablespoons of water to help it blend (up to 1/4 cup). Work in batches depending on the size of your blender.",
-      "Pour the pur\u00e9ed sauce back into the pan. Stir the cream, sugar and crushed kasoori methi (or fenugreek leaves) through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.",
+      "Pour the puréed sauce back into the pan. Stir the cream, sugar and crushed kasoori methi (or fenugreek leaves) through the sauce. Add the chicken with juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling.",
       "Garnish with chopped cilantro and serve with fresh, hot garlic butter rice and fresh homemade Naan bread!"
     ],
     "remarks": null,
@@ -5271,6 +5430,7 @@
   "ygeoavchcx": {
     "date_created": 1690886082.714525,
     "date_updated": 1712591738.293292,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "150 gr",
@@ -5322,7 +5482,7 @@
       "temperature": "hot"
     },
     "name": "Pasta pesto met spinazie en zalm",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Zet een pan water op en kook de pasta volgens de bereidingswijze op het pak.",
@@ -5339,6 +5499,7 @@
   "ygyzfzolzv": {
     "date_created": 1717102691.758914,
     "date_updated": 1717102769.966144,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "400 gr",
@@ -5361,7 +5522,7 @@
         "ingredient": "chilipoeder"
       },
       {
-        "amount": "\u00bd el",
+        "amount": "½ el",
         "ingredient": "oregano"
       },
       {
@@ -5402,7 +5563,7 @@
       "temperature": "hot"
     },
     "name": "Eenpansgerecht enchiladas",
-    "nutrition": null,
+    "nutrition": [],
     "people": 4,
     "preparation": [
       "Snijd en bak de kip in de pan goudbruin en voeg de paprikapoeder, chilipoeder, komijnpoeder, oregano en korianderpoeder toe.",
@@ -5421,6 +5582,7 @@
   "yiipomccxm": {
     "date_created": 1709369692.637237,
     "date_updated": 1709929953.059243,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "12 oz",
@@ -5460,7 +5622,7 @@
       },
       {
         "amount": "1 cup",
-        "ingredient": "Cr\u00e8me fraiche "
+        "ingredient": "Crème fraiche "
       },
       {
         "amount": "500ml",
@@ -5508,13 +5670,13 @@
       "temperature": "hot"
     },
     "name": "Creamy Tuscan Beef Pasta",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "To a large, deep skillet or pot add ground beef, 1 tsp garlic powder, 1 tsp onion powder, 1 tsp paprika, 1 tsp salt, 1/2 tsp black pepper. Cook beef 5 minutes on medium-high heat, make sure to break it up into little pieces using a spatula.",
-      "To the beef, add the onion, garlic, butter, sun-dried tomatoes, the oil from the sun-dried tomatoes, and tomato paste. Saut\u00e9 5 mins.",
+      "To the beef, add the onion, garlic, butter, sun-dried tomatoes, the oil from the sun-dried tomatoes, and tomato paste. Sauté 5 mins.",
       "To the beef and vegetables add the pasta, beef broth, milk, and 1 tsp garlic powder, 1 tsp onion powder, 1 tsp Italian seasoning, and 1 1/2 tsp salt. Mix everything together, spread pasta evenly in the pot.",
-      "Place pot on stove top and bring to a simmer. Cover with lid and cook for 10 to 12 minutes on medium-low heat (at 10 minutes remove the lid and give it a mix and check pasta if it\u2019s done).",
+      "Place pot on stove top and bring to a simmer. Cover with lid and cook for 10 to 12 minutes on medium-low heat (at 10 minutes remove the lid and give it a mix and check pasta if it’s done).",
       "Remove from heat add in the spinach. Mix with pasta until the spinach wilts. Sprinkle Parmesan cheese, give it a good mix, and you are ready to enjoy!"
     ],
     "remarks": null,
@@ -5525,6 +5687,7 @@
   "yqwhbbacyb": {
     "date_created": 1701963581.818731,
     "date_updated": 1701963581.818731,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "450 g",
@@ -5592,7 +5755,7 @@
       "temperature": "hot"
     },
     "name": "Kip in romige tomatensaus met rijst en groenten",
-    "nutrition": null,
+    "nutrition": [],
     "people": 2,
     "preparation": [
       "Snijd 2 kipfilets van totaal circa 450 g in hapklare stukjes en bestrooi rondom met zout en peper. Bak de kip in een scheutje olijfolie rondom bruin en gaar.",
@@ -5611,6 +5774,7 @@
   "ytnexdltjc": {
     "date_created": 1711454215.380392,
     "date_updated": 1711474388.53385,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 can (400g)",
@@ -5758,6 +5922,7 @@
   "yuvrnlcgwt": {
     "date_created": 1709185827.940899,
     "date_updated": 1709233366.209854,
+    "igcode": null,
     "ingredients": [
       {
         "amount": "1 pound",
@@ -5864,7 +6029,7 @@
       "Slice the flank steak against the grain into 1/4-inch pieces and set aside.",
       "Mix 1 tablespoon of cornstarch with the steak and set aside.",
       "Mix the remaining cornstarch with 2 tablespoons cold water until there are no lumps.",
-      "Heat 1 tablespoon of peanut oil in a small sauce pot over medium-low heat, add ginger and garlic, saut\u00e9 for about 1 minute.",
+      "Heat 1 tablespoon of peanut oil in a small sauce pot over medium-low heat, add ginger and garlic, sauté for about 1 minute.",
       "Add soy sauce, water, hot chili oil, brown sugar, and crushed red pepper, whisk to combine and bring to a boil.",
       "Whisk in the cornstarch mixture and boil for about 3 minutes, then remove from heat and set aside.",
       "Stir-fry the red pepper, orange pepper, and zucchini in a large skillet or wok over medium high heat for about 5 minutes or until the veggies are soft and tender, then remove from the pan and place on a plate.",
