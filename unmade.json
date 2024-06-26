@@ -3887,6 +3887,98 @@
     "time": 240,
     "url": "https://www.instagram.com/reel/C3208_nNWRs/?igsh=bnB2ajBxNGMxb3Vw"
   },
+  "zlqbzcggjp": {
+    "date_created": 1719390995.033726,
+    "date_updated": 1719390995.033726,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the chicken tenders"
+      },
+      {
+        "amount": "500g",
+        "ingredient": "chicken tenders"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "black pepper"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "lemon zest"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the sticky sauce"
+      },
+      {
+        "amount": "4 tbsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "1 clove",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For serving"
+      },
+      {
+        "amount": null,
+        "ingredient": "chopped parsley"
+      },
+      {
+        "amount": null,
+        "ingredient": "lemon wedges"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Sticky Lemon Pepper Chicken Tenders",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Begin by seasoning the chicken tenders with salt, black pepper, and lemon zest.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook the chicken tenders for about 3-4 minutes on each side until golden brown and cooked through.",
+      "#For the sticky sauce",
+      "In a small bowl, combine honey, soy sauce, lemon juice, and minced garlic.",
+      "Pour the sauce over the cooked chicken tenders in the skillet.",
+      "Cook for an additional 2-3 minutes, until the sauce is sticky and has coated the chicken tenders.",
+      "#For serving",
+      "Garnish with chopped parsley and serve with lemon wedges."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.thegoodbite.co.uk/wp-content/uploads/2023/10/DSCF2484-scaled-e1697817723494.jpg",
+    "time": 20,
+    "url": "https://www.thegoodbite.co.uk/recipes/sticky-lemon-pepper-chicken-tenders/"
+  },
   "zrvulvuinv": {
     "date_created": 1705342710.105771,
     "date_updated": 1705342710.105771,
