@@ -201,6 +201,119 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C30cBkkAFCq/?igsh=OWg5NWUzNXptZ2w1"
   },
+  "dtgapzpnwn": {
+    "date_created": 1719392192.574438,
+    "date_updated": 1719392192.574438,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the chicken"
+      },
+      {
+        "amount": "450g",
+        "ingredient": "chicken tenders"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "2",
+        "ingredient": "eggs"
+      },
+      {
+        "amount": "100g",
+        "ingredient": "cornflakes"
+      },
+      {
+        "amount": "1.5 tbsp",
+        "ingredient": "garlic pepper seasoning"
+      },
+      {
+        "amount": "zest of 1",
+        "ingredient": "lemon"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the Sticky Lemon Pepper Sauce"
+      },
+      {
+        "amount": "1 clove",
+        "ingredient": "garlic - finely chopped"
+      },
+      {
+        "amount": "juice of 3",
+        "ingredient": "lemons"
+      },
+      {
+        "amount": "zest of 1",
+        "ingredient": "lemon"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "maple syrup"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "light soy sauce"
+      },
+      {
+        "amount": "2 tsp",
+        "ingredient": "cornflour, mixed with cold water"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "other"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Sticky Lemon Pepper Chicken Tenders",
+    "nutrition": [
+      {
+        "amount": "321",
+        "group": "Cals"
+      },
+      {
+        "amount": "35g",
+        "group": "Carbs"
+      },
+      {
+        "amount": "33g",
+        "group": "Protein"
+      },
+      {
+        "amount": "6g",
+        "group": "Fat"
+      }
+    ],
+    "people": 3,
+    "preparation": [
+      "If baking the tenders in the oven, preheat your oven to 180\u00b0C/ 375\u00b0F.",
+      "In a large bowl, coat the chicken tenders in the smoked paprika and 1/2 tsp of salt.",
+      "In a food processor, blend together the cornflakes, garlic pepper seasoning and 1/2 tsp of salt into fine crumb.",
+      "Beat the eggs together in a bowl, dip the chicken tenders into the egg, then coat all over in the cornflake crumb.",
+      "Place the tenders on a lined baking tray and bake for 15 minutes. Alternatively, air fry at 190\u00b0C/ 400\u00b0F for 12 minutes.",
+      "#For the Sticky Lemon Pepper Sauce",
+      "Meanwhile, mix together the Sticky Lemon Pepper sauce in a bowl.",
+      "Heat the sauce in a small saucepan, on medium heat, until it bubbles and becomes thick, then remove from the heat.",
+      "Once the chicken tenders are baked, dip them in the Sticky Lemon Pepper sauce, we recommend dipping one at a time as you eat them, so they stay super crunchy!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.thegoodbite.co.uk/wp-content/uploads/2023/10/DSCF2484-scaled-e1697817723494.jpg",
+    "time": 20,
+    "url": "https://www.thegoodbite.co.uk/recipes/sticky-lemon-pepper-chicken-tenders/"
+  },
   "dvlxoqrexl": {
     "date_created": 1704794664.581577,
     "date_updated": 1704794664.581577,
