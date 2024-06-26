@@ -138,6 +138,104 @@
     "time": null,
     "url": "https://www.vomar.nl/recept/oosterse-keuken/oosterse-burger"
   },
+  "clsplazois": {
+    "date_created": 1719392539.335523,
+    "date_updated": 1719392539.335523,
+    "ingredients": [
+      {
+        "amount": "2 x block",
+        "ingredient": "halloumi"
+      },
+      {
+        "amount": "100g",
+        "ingredient": "cornflakes"
+      },
+      {
+        "amount": "1-2",
+        "ingredient": "eggs beaten"
+      },
+      {
+        "amount": "A large handful",
+        "ingredient": "plain flour"
+      },
+      {
+        "amount": null,
+        "ingredient": "Oil for frying"
+      },
+      {
+        "amount": "160g",
+        "ingredient": "sugar snap peas"
+      },
+      {
+        "amount": "1/2 thumb",
+        "ingredient": "ginger, peeled and finely chopped"
+      },
+      {
+        "amount": "6",
+        "ingredient": "spring onions chopped (retain the green parts for the topping)"
+      },
+      {
+        "amount": "2 cloves",
+        "ingredient": "garlic finely chopped"
+      },
+      {
+        "amount": "1/2-1 tsp",
+        "ingredient": "chilli flakes - depending on how hot you want it"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "thai red curry paste"
+      },
+      {
+        "amount": "400ml tin",
+        "ingredient": "coconut milk"
+      },
+      {
+        "amount": "400ml",
+        "ingredient": "vegetable stock"
+      },
+      {
+        "amount": "300g",
+        "ingredient": "straight to wok noodles"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "noodles"
+      ],
+      "cuisine": "thai",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Red Thai Crispy Halloumi Noodles",
+    "nutrition": null,
+    "people": 4,
+    "preparation": [
+      "Prep the halloumi: Place the cornflakes in a freezer bag and seal the top.",
+      "Roll over the flakes with a rolling pin a few times until you have an even crumb.",
+      "Place the beaten egg in one bowl and the flour in another.",
+      "Dip the halloumi in the flour, then egg then crumbs until coated.",
+      "Slice both blocks of halloumi widthways into 1cm slices.",
+      "Heat a drizzle of oil in a large non-stick frying pan.",
+      "Add the sugar snap peas and fry for 3 minutes until starting to colour. Remove from the pan and set aside.",
+      "Heat a little more oil and add the ginger, garlic and spring onions. Fry for 3 minutes, stirring regularly.",
+      "Stir in the chilli flakes and red thai curry paste and fry for one minute.",
+      "Stir in the coconut milk, stock and noodles and season with salt and pepper.",
+      "Bring to the boil and simmer on a medium to low heat for 4 minutes or until the noodles are cooked.",
+      "Whilst the noodles are cooking, Heat a drizzle of oil in a large non-stick frying pan.",
+      "Add the halloumi and fry on a medium heat for 2-3 minutes each side until golden brown and crispy.",
+      "Use tongs to divide the noodles between 4 bowls.",
+      "Pour over the sauce and finish with some finely sliced spring onion green parts, the fried sugar snap peas and the crispy halloumi slices."
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.29350-15/448021484_993140712319382_2793148020884993543_n.jpg?stp=dst-jpg_e15_p360x360&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjI5MzUwIn0&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=102&_nc_ohc=qQyTo1SZnuEQ7kNvgEab7XK&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzM4NzQ4OTUzMzgxMDQ4OTE1NQ%3D%3D.2-ccb7-5&oh=00_AYD4A3yJ-jC2oynfCrGrvNGkcui0OLfeVuknIS5cFwl5DA&oe=6681B113&_nc_sid=fc8dfb",
+    "time": 20,
+    "url": "https://www.instagram.com/reel/C8Cx8iHILdD/?igsh=MTUzNG54cHYzaWVjdw=="
+  },
   "dqnraicnrm": {
     "date_created": 1709133560.700816,
     "date_updated": 1709133560.700816,
