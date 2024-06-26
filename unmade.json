@@ -1,4 +1,121 @@
 {
+  "avjizmadhj": {
+    "date_created": 1719437164.119953,
+    "date_updated": 1719437164.119953,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the chicken patty"
+      },
+      {
+        "amount": "2 lb",
+        "ingredient": "boneless chicken breast, minced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Salt and pepper to taste"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "garlic powder"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "onion powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Oil for frying"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the chicken patty coating"
+      },
+      {
+        "amount": "8 tbsp",
+        "ingredient": "all purpose flour"
+      },
+      {
+        "amount": null,
+        "ingredient": "Salt and pepper to taste"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "garlic powder"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "onion powder"
+      },
+      {
+        "amount": "1/3 cup",
+        "ingredient": "water"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the sauce"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "mayonnaise"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "Dijon mustard"
+      },
+      {
+        "amount": null,
+        "ingredient": "Salt and pepper to taste"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "white vinegar"
+      },
+      {
+        "amount": null,
+        "ingredient": "#To assemble"
+      },
+      {
+        "amount": null,
+        "ingredient": "Brioche buns"
+      },
+      {
+        "amount": null,
+        "ingredient": "Lettuce, diced"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "hot"
+    },
+    "name": "Mc chicken sandwich",
+    "nutrition": [],
+    "people": null,
+    "preparation": [
+      "In a mixing bowl combine minced chicken. Season with salt, pepper, garlic and onion powder. Mix well until combined.",
+      "Grease hands with a little bit oil and make round patties. Place them onto a baking sheet lined with parchment paper, and let them freeze for 30 minutes or until ready to use.",
+      "Take two dishes, divide the all purpose flour in both dishes( around 4 tbsp each).",
+      "Add salt pepper, garlic and onion powder in one bowl, Along with water to make a thick batter. Adjust water accordingly.",
+      "Heat oil in a frying pan. Once the oil is hot,",
+      "Coat the chicken patties in flour mixture then the wet batter.",
+      "Carefully drop the chicken patties into the oil. Fry on medium low for 10-15 minutes or until fully cooked and crispy golden brown.",
+      "Make sauce by combining mayo, Dijon mustard, salt pepper and vinegar in a mixing bowl.",
+      "Assemble the sandwich by adding sauce, chicken patty, lettuce and some more sauce. Serve with some fries and enjoy!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.29350-15/448434161_478517544567053_3487199508591169433_n.jpg?stp=dst-jpg_e15_p360x360&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjI5MzUwIn0&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_cat=1&_nc_ohc=Dm0mAE64ossQ7kNvgEHl4xv&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzM4OTYxNTE1NTcyNDYxMzQxOA%3D%3D.2-ccb7-5&oh=00_AYBawwSh_TKExiaNDvxJfyTSyq9URnrD5p5UH6T6ddJNCA&oe=668257F2&_nc_sid=fc8dfb",
+    "time": null,
+    "url": "https://www.instagram.com/reel/C8KVQZyPvcq/?igsh=OXo2cGhtbTBjeTR4"
+  },
   "btyuyxcwae": {
     "date_created": 1715703252.586159,
     "date_updated": 1715703252.586159,
