@@ -95,7 +95,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Mc chicken sandwich",
     "nutrition": [],
@@ -168,7 +168,7 @@
       "meat_type": [
         "seafood"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Shrimp Linguine",
     "nutrition": [],
@@ -238,7 +238,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Oosterse Burger",
     "nutrition": [],
@@ -329,7 +329,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Red Thai Crispy Halloumi Noodles",
     "nutrition": [],
@@ -404,7 +404,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Chicken Thigh Risotto",
     "nutrition": [],
@@ -496,7 +496,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Sticky Lemon Pepper Chicken Tenders",
     "nutrition": [
@@ -598,7 +598,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Creamy Gyoza Soup",
     "nutrition": [],
@@ -687,7 +687,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Creamy Coconut Chicken Curry",
     "nutrition": [],
@@ -757,7 +757,7 @@
       "meat_type": [
         "other"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Perfect Tomato and Mozzarella Linguini",
     "nutrition": [],
@@ -861,7 +861,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Thai Basil Chicken - Pad Kra Pao",
     "nutrition": [],
@@ -1086,7 +1086,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Paddenstoelensoep",
     "nutrition": [
@@ -1215,7 +1215,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Creamy Feta and Roasted Red Pepper Chicken and Cauliflower",
     "nutrition": [],
@@ -1320,7 +1320,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "MEXICAN ORZO",
     "nutrition": [],
@@ -1439,7 +1439,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "CHIPOTLE TOFU TACOS",
     "nutrition": [],
@@ -1582,7 +1582,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Curried Gyoza Laksa",
     "nutrition": [],
@@ -1672,7 +1672,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Cheesy Red Pesto Beef Pasta",
     "nutrition": [
@@ -1769,7 +1769,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "One Pan Chicken and Cabbage",
     "nutrition": [
@@ -1912,7 +1912,7 @@
         "chicken",
         "pork"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Creamy Chicken & Pancetta Gnocchi",
     "nutrition": [],
@@ -2019,7 +2019,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Sheet Pan Crispy Jalapeño Chicken Tacos",
     "nutrition": [],
@@ -2127,7 +2127,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "One Pan Cajun Lime Chicken",
     "nutrition": [
@@ -2234,7 +2234,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Crispy Shredded Chicken",
     "nutrition": [
@@ -2322,7 +2322,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Garlic and Paprika Pulled Chicken Taquitos",
     "nutrition": [],
@@ -2428,7 +2428,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Butter Chicken",
     "nutrition": [],
@@ -2529,7 +2529,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Quick Jalapeño Basil Chicken Stir Fry Thai Style",
     "nutrition": [],
@@ -2655,7 +2655,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Garlic Parmesan Chicken Alfredo Bread",
     "nutrition": [],
@@ -2753,7 +2753,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "BROODJE HETE KIP",
     "nutrition": [],
@@ -2833,7 +2833,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Arayes - Palestinian Meat Pockets",
     "nutrition": [
@@ -2960,7 +2960,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Butter Tofu Burrito",
     "nutrition": [],
@@ -3054,7 +3054,7 @@
       "meat_type": [
         "seafood"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Healthy Shrimp and Chive Rice Paper Dumplings",
     "nutrition": [],
@@ -3158,7 +3158,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "One Pan Cajun Lime Chicken",
     "nutrition": [],
@@ -3257,7 +3257,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Bolognese Tacos",
     "nutrition": [],
@@ -3335,7 +3335,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "CRISPY HONEY CHICKEN WRAPS",
     "nutrition": [],
@@ -3423,7 +3423,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Pulled Chicken Sandwich",
     "nutrition": [],
@@ -3504,7 +3504,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Cheeseburger Burrito",
     "nutrition": [
@@ -3629,7 +3629,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Bacon Jam Smashburger ",
     "nutrition": [],
@@ -3718,7 +3718,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "My Go-to Udon",
     "nutrition": [],
@@ -3814,7 +3814,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Chicken Orzo Pasta with Sun Dried Tomatoes",
     "nutrition": [],
@@ -3979,7 +3979,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Honey paprika chicken flatbreads",
     "nutrition": [],
@@ -4079,7 +4079,7 @@
       "meat_type": [
         "seafood"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Creamy spicy ramen noodles with shrimp",
     "nutrition": [],
@@ -4165,7 +4165,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Shredded Mexican Beef Bowl",
     "nutrition": [],
@@ -4240,7 +4240,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Arayes - Palestinian Meat Pockets",
     "nutrition": [
@@ -4421,7 +4421,7 @@
       "meat_type": [
         "seafood"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Crispy Rice Paper Stuffed with Chili Oil Shrimp",
     "nutrition": [],
@@ -4485,7 +4485,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Crispy Honey, Garlic and Sriracha Beef",
     "nutrition": [
@@ -4583,7 +4583,7 @@
       "meat_type": [
         "seafood"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Spicy kokossoep met garnalen en oesterzwammen",
     "nutrition": [],
@@ -4672,7 +4672,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Short Rib Papardelle",
     "nutrition": [
@@ -4786,7 +4786,7 @@
       "meat_type": [
         "beef"
       ],
-      "temperature": "hot"
+      "temperature": "warm"
     },
     "name": "Sweet & Spicy Korean Beef Noodles",
     "nutrition": [
