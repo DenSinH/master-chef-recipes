@@ -1930,7 +1930,7 @@
   },
   "mvtzsoiuud": {
     "date_created": 1719009934.152096,
-    "date_updated": 1719073448.252122,
+    "date_updated": 1719763294.678419,
     "igcode": null,
     "ingredients": [
       {
@@ -1968,6 +1968,10 @@
       {
         "amount": "15 g",
         "ingredient": "Parsley chopped"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Bell peppers, diced"
       }
     ],
     "meta": {
@@ -1978,8 +1982,7 @@
       "language": "en",
       "meal_type": "main",
       "meat_type": [
-        "chicken",
-        "pork"
+        "chicken"
       ],
       "temperature": "warm"
     },
@@ -1990,7 +1993,7 @@
       "Add the pancetta into a large frying pan without any oil. (The pancetta will release fat).",
       "Cook it over a medium to high heat until it starts to turn crispy.",
       "Add in the sliced chicken breast and cook until it’s sealed, which means no more pink bits.",
-      "Chuck in the garlic and cook for a further minute, then pour in the chicken stock, double cream, and add the paprika.",
+      "Chuck in the diced bell peppers and garlic and cook for a further minute, then pour in the chicken stock, double cream, and add the paprika.",
       "Stir well.",
       "Add in the gnocchi and mix it well then cover with a lid or tin foil.",
       "Simmer for 3-4 minutes, or until the sauce is creamy and coats the gnocchi.",
