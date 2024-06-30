@@ -1930,7 +1930,7 @@
   },
   "mvtzsoiuud": {
     "date_created": 1719009934.152096,
-    "date_updated": 1719763294.678419,
+    "date_updated": 1719764609.926969,
     "igcode": null,
     "ingredients": [
       {
@@ -1944,6 +1944,10 @@
       {
         "amount": "4",
         "ingredient": "Cloves of garlic chopped"
+      },
+      {
+        "amount": "1 big",
+        "ingredient": "Onion "
       },
       {
         "amount": "150 ml",
@@ -1972,6 +1976,10 @@
       {
         "amount": "2",
         "ingredient": "Bell peppers, diced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Thyme, oregano, chili flakes"
       }
     ],
     "meta": {
@@ -1993,12 +2001,12 @@
       "Add the pancetta into a large frying pan without any oil. (The pancetta will release fat).",
       "Cook it over a medium to high heat until it starts to turn crispy.",
       "Add in the sliced chicken breast and cook until it’s sealed, which means no more pink bits.",
-      "Chuck in the diced bell peppers and garlic and cook for a further minute, then pour in the chicken stock, double cream, and add the paprika.",
+      "Chuck in the diced bell peppers, onion and garlic and cook for a further minute, then pour in the chicken stock, double cream, and add the paprika.",
       "Stir well.",
       "Add in the gnocchi and mix it well then cover with a lid or tin foil.",
       "Simmer for 3-4 minutes, or until the sauce is creamy and coats the gnocchi.",
       "Remove the lid, then sprinkle in the parmesan and chopped parsley.",
-      "Mix well and then taste for seasoning.",
+      "Mix well and then taste for seasoning with the thyme, oregano and chili flakss",
       "Dish it up, and then serve with more grated parmesan.",
       "Enjoy!"
     ],
