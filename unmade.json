@@ -3530,6 +3530,141 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C4AlheooNwL/?igsh=MW9oamttcmFpcW5ycw=="
   },
+  "sglddhtazp": {
+    "date_created": 1720007841.562106,
+    "date_updated": 1720007841.562106,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "200 g",
+        "ingredient": "linguine"
+      },
+      {
+        "amount": "2",
+        "ingredient": "courgettes"
+      },
+      {
+        "amount": "2",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ei"
+      },
+      {
+        "amount": "8 el",
+        "ingredient": "panko"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ui"
+      },
+      {
+        "amount": "1 teentje",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "2 kl",
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": "1 blik",
+        "ingredient": "tomatenblokjes"
+      },
+      {
+        "amount": "½",
+        "ingredient": "citroen"
+      },
+      {
+        "amount": "50 g",
+        "ingredient": "rucola"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "olijfolie"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "bloem"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Kip Milanese met tomatensaus, courgettespaghetti en linguine",
+    "nutrition": [
+      {
+        "amount": "870.85 kcal",
+        "group": "Calorieën"
+      },
+      {
+        "amount": "101.76 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "11.67 g",
+        "group": "waarvan suikers"
+      },
+      {
+        "amount": "23.43 g",
+        "group": "Vet"
+      },
+      {
+        "amount": "4.08 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "58.45 g",
+        "group": "Proteïnen"
+      },
+      {
+        "amount": "8.81 g",
+        "group": "Vezels"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Verwarm de oven voor op 200 °C. Maak met een spiraalsnijder lange slierten van de courgette. Heb je die niet in huis? Trek dan met een dunschiller lange linten van de courgette en snij ze in reepjes. Doe de slierten in een ovenschaal, besprenkel met 1/3 van de olijfolie en kruid met peper en zout. Dek af met aluminiumfolie en zet 15 minuten in de oven.",
+      "Breng een pot gezouten water aan de kook en kook de linguine beetgaar in 8 minuten.",
+      "Giet de pasta af.",
+      "Leg een stuk plastiekfolie of bakpapier onder en boven de kipfilets en sla ze plat met een deegrol of ander zwaar voorwerp (bijv. een kookpot) tot 0,5 cm dikte.",
+      "Doe de bloem, het ei en de panko in aparte kommetjes.",
+      "Klop het ei los.",
+      "Dep de kipfilets droog, kruid met peper en zout en dip ze dan eerst in de bloem, dan het losgeklopte ei en tenslotte de panko.",
+      "Snij de ui fijn en pers de knoflook.",
+      "Verhit de helft van de olijfolie in een pan en voeg de ui en knoflook toe.",
+      "Stoof voor 5 minuten op matig vuur.",
+      "Voeg de Italiaanse kruiden en de tomatenblokjes toe.",
+      "Breng aan de kook en laat 10 minuten pruttelen op een zacht vuur.",
+      "Kruid met peper en zout.",
+      "Snij de citroen in partjes.",
+      "Verhit de rest van de olijfolie in een antikleefpan.",
+      "Bak hierin de kip op een zacht vuur gedurende 6-7 minuten, totdat het korstje mooi goudbruin kleurt.",
+      "Controleer of de kip mooi doorbakken is.",
+      "Serveer de linguine en courgettespaghetti met de kip Milanese, de tomatensaus, rucola en een citroenpartje."
+    ],
+    "remarks": null,
+    "thumbnail": "https://image.15gram.be/uploads/recipes/8086_kip-milanese-met-tomatensaus-en-linguine_1547714771-1920x1280.jpg",
+    "time": 30,
+    "url": "https://15gram.be/recepten/kip-milanese-met-tomatensaus-en-linguine"
+  },
   "thwefnlrih": {
     "date_created": 1719392482.221116,
     "date_updated": 1719437110.994299,
