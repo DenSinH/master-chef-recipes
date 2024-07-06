@@ -3450,6 +3450,145 @@
     "time": 35,
     "url": "https://www.instagram.com/reel/C1XwsueStK_/?igsh=MXFybTUwbGRrZjd1Mw=="
   },
+  "pyqpzsntgf": {
+    "date_created": 1720269816.214394,
+    "date_updated": 1720269816.214394,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "2 Tbsp",
+        "ingredient": "unsalted butter"
+      },
+      {
+        "amount": "4 cloves",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "½ tsp",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "½ tsp",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": "½ tsp",
+        "ingredient": "crushed red pepper flakes"
+      },
+      {
+        "amount": "¼ tsp",
+        "ingredient": "ground black pepper"
+      },
+      {
+        "amount": "½ cup",
+        "ingredient": "sun-dried tomatoes"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "vegetable broth"
+      },
+      {
+        "amount": "2 15-oz cans",
+        "ingredient": "chickpeas"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "heavy cream"
+      },
+      {
+        "amount": "½ cup",
+        "ingredient": "grated parmesan"
+      },
+      {
+        "amount": "2 Tbsp",
+        "ingredient": "chopped fresh basil"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Marry Me Chickpeas (With Creamy Tuscan Sauce)",
+    "nutrition": [
+      {
+        "amount": "432 kcal",
+        "group": "Calories"
+      },
+      {
+        "amount": "44.2 g",
+        "group": "Carbohydrates"
+      },
+      {
+        "amount": "15.7 g",
+        "group": "Protein"
+      },
+      {
+        "amount": "22.3 g",
+        "group": "Fat"
+      },
+      {
+        "amount": "12.9 g",
+        "group": "Saturated Fat"
+      },
+      {
+        "amount": "66 mg",
+        "group": "Cholesterol"
+      },
+      {
+        "amount": "1204 mg",
+        "group": "Sodium"
+      },
+      {
+        "amount": "452 mg",
+        "group": "Potassium"
+      },
+      {
+        "amount": "8.3 g",
+        "group": "Fiber"
+      },
+      {
+        "amount": "0.8 g",
+        "group": "Sugar"
+      },
+      {
+        "amount": "215 mg",
+        "group": "Calcium"
+      },
+      {
+        "amount": "3 mg",
+        "group": "Iron"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "#Instructions",
+      "Flavor Base: Heat 2 Tbsp unsalted butter, 4 cloves garlic, ½ tsp each salt, oregano, crushed red pepper flakes, and ¼ tsp ground black pepper in a large saute pan or pot over medium heat.",
+      "Cook for about 2 minutes, until garlic is fragrant.",
+      "#Fillings",
+      "Stir in ½ cup sun-dried tomatoes, 1 cup vegetable broth, and 2 15-oz cans chickpeas.",
+      "Continue cooking on medium, uncovered, for 5 minutes.",
+      "#Finish",
+      "Remove from heat.",
+      "Stir in 1 cup heavy cream, ½ cup grated parmesan, and 2 Tbsp chopped fresh basil.",
+      "Serve warm with crusty bread."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.liveeatlearn.com/wp-content/uploads/2023/11/marry-me-chickpeas-13.jpg",
+    "time": 15,
+    "url": "https://www.liveeatlearn.com/marry-me-chickpeas/"
+  },
   "qgbvkwkkgg": {
     "date_created": 1717310028.314806,
     "date_updated": 1717310028.314806,
