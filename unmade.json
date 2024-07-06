@@ -1845,7 +1845,7 @@
   },
   "liwxdvbfqs": {
     "date_created": 1720268892.476833,
-    "date_updated": 1720268997.051305,
+    "date_updated": 1720269013.581079,
     "igcode": null,
     "ingredients": [
       {
@@ -1883,10 +1883,6 @@
       {
         "amount": "225 gram",
         "ingredient": "halloumi"
-      },
-      {
-        "amount": null,
-        "ingredient": "verse koriander"
       },
       {
         "amount": null,
@@ -1932,7 +1928,7 @@
       "Voeg dan hand voor hand de spinazie toe en laat deze steeds slinken.",
       "Voeg de kookroom toe als alle spinazie is geslonken. Laat zachtjes pruttelen en breng de saus op smaak met peper en zout.",
       "Snijd de halloumi in kleine blokjes. Voeg ze toe aan de curry en warm ze kort op.",
-      "Serveer de curry met warme naan en verse koriander."
+      "Serveer de curry met warme naan."
     ],
     "remarks": null,
     "thumbnail": "https://brendakookt.nl/app/uploads/2020/02/curry.600.9132.jpg",
