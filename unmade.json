@@ -1845,7 +1845,7 @@
   },
   "liwxdvbfqs": {
     "date_created": 1720268892.476833,
-    "date_updated": 1720269042.801385,
+    "date_updated": 1720269096.564337,
     "igcode": null,
     "ingredients": [
       {
@@ -1881,7 +1881,7 @@
         "ingredient": "kookroom"
       },
       {
-        "amount": "225 gram",
+        "amount": "300 gram",
         "ingredient": "halloumi"
       },
       {
@@ -1919,7 +1919,7 @@
     },
     "name": "Snelle curry met rijst en halloumi",
     "nutrition": [],
-    "people": null,
+    "people": 4,
     "preparation": [
       "Kook de rijst volgens de verpakking",
       "Snipper de ui. Verwarm een hapjespan of grote koekenpan op middelhoog vuur. Fruit de ui tot deze glazig is.",
