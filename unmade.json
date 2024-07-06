@@ -1843,6 +1843,102 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C8w-sdjCy4Z/?igsh=MTF3a213ejc2Y3BwOA=="
   },
+  "liwxdvbfqs": {
+    "date_created": 1720268892.476833,
+    "date_updated": 1720268892.476833,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "ui"
+      },
+      {
+        "amount": "1 blikje",
+        "ingredient": "tomatenpuree"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "komijn"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": "1 blik",
+        "ingredient": "tomaten"
+      },
+      {
+        "amount": "250 gram",
+        "ingredient": "cherrytomaten"
+      },
+      {
+        "amount": "200 gram",
+        "ingredient": "spinazie"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "kookroom"
+      },
+      {
+        "amount": "225 gram",
+        "ingredient": "halloumi"
+      },
+      {
+        "amount": null,
+        "ingredient": "verse koriander"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Voor ernaast:"
+      },
+      {
+        "amount": null,
+        "ingredient": "rijst"
+      },
+      {
+        "amount": null,
+        "ingredient": "Flatbread"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "mediterranean",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Snelle curry met rijst en halloumi",
+    "nutrition": [],
+    "people": null,
+    "preparation": [
+      "Kook de rijst volgens de verpakking",
+      "Snipper de ui. Verwarm een hapjespan of grote koekenpan op middelhoog vuur. Fruit de ui tot deze glazig is.",
+      "Voeg de tomatenpuree, de komijn en het paprikapoeder toe en bak een minuut op zacht vuur.",
+      "Voeg dan de tomaten uit blik toe. Vul het blik met water en voeg dat ook toe. Halveer de cherrytomaatjes en voeg deze ook toe. Breng aan de kook, zet het vuur laag en laat de tomaten ongeveer 10 minuutjes pruttelen.",
+      "Voeg dan hand voor hand de spinazie toe en laat deze steeds slinken.",
+      "Voeg de kookroom toe als alle spinazie is geslonken. Laat zachtjes pruttelen en breng de saus op smaak met peper en zout.",
+      "Snijd de halloumi in kleine blokjes. Voeg ze toe aan de curry en warm ze kort op.",
+      "Serveer de curry met warme naan en verse koriander."
+    ],
+    "remarks": null,
+    "thumbnail": "https://brendakookt.nl/app/uploads/2020/02/curry.600.9132.jpg",
+    "time": 30,
+    "url": "https://brendakookt.nl/recepten/snelle-curry-met-rijst-en-halloumi/"
+  },
   "ljfziohwhj": {
     "date_created": 1716502224.092738,
     "date_updated": 1716502224.092738,
