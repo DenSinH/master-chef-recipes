@@ -2417,7 +2417,7 @@
   },
   "nerfukclpt": {
     "date_created": 1719392250.624585,
-    "date_updated": 1719392250.624585,
+    "date_updated": 1720453779.092903,
     "igcode": null,
     "ingredients": [
       {
@@ -2457,11 +2457,11 @@
         "ingredient": "#Cajun Lime Sauce"
       },
       {
-        "amount": "1",
+        "amount": "3",
         "ingredient": "shallot - finely chopped"
       },
       {
-        "amount": "1",
+        "amount": "3",
         "ingredient": "sweet red pepper - finely chopped"
       },
       {
@@ -2477,7 +2477,7 @@
         "ingredient": "cajun seasoning"
       },
       {
-        "amount": "200ml",
+        "amount": "250ml",
         "ingredient": "chicken stock"
       },
       {
@@ -2485,7 +2485,7 @@
         "ingredient": "single cream"
       },
       {
-        "amount": "100g",
+        "amount": "250g",
         "ingredient": "cherry tomatoes"
       },
       {
