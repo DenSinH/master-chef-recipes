@@ -4703,7 +4703,7 @@
   },
   "xdaoyjoxnv": {
     "date_created": 1718882197.261747,
-    "date_updated": 1720629994.336271,
+    "date_updated": 1720630044.071146,
     "igcode": null,
     "ingredients": [
       {
@@ -4711,7 +4711,7 @@
         "ingredient": "#Chicken"
       },
       {
-        "amount": "600g",
+        "amount": "450g",
         "ingredient": "chicken mini fillets,raw"
       },
       {
@@ -4751,15 +4751,15 @@
         "ingredient": "large brown onion, thinly sliced"
       },
       {
-        "amount": "1",
+        "amount": "2",
         "ingredient": "red bell pepper, thinly sliced"
       },
       {
-        "amount": "2",
+        "amount": "2.5",
         "ingredient": "vine tomatoes, peeled and chopped"
       },
       {
-        "amount": "1 tbsp",
+        "amount": "1 small can",
         "ingredient": "tomato puree"
       },
       {
@@ -4779,7 +4779,7 @@
         "ingredient": "grated mozzarella"
       },
       {
-        "amount": "4",
+        "amount": "6",
         "ingredient": "Greek style flatbreads"
       },
       {
@@ -4853,7 +4853,7 @@
     },
     "name": "Honey paprika chicken flatbreads",
     "nutrition": [],
-    "people": 4,
+    "people": 3,
     "preparation": [
       "Preheat oven to 180C(fan). You could pre-bake the flatbreads for extra crunch.",
       "Mix the diced chicken with 1tbsp olive oil, the lemon juice and the spices.",
