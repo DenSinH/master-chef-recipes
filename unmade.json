@@ -4782,6 +4782,123 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C9QLJJLOl7L/?igsh=YTBxamxpN2VzYjNr"
   },
+  "waugyzsefk": {
+    "date_created": 1721402886.956034,
+    "date_updated": 1721402886.956034,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "1 pound",
+        "ingredient": "raw large shrimp"
+      },
+      {
+        "amount": "2 teaspoons",
+        "ingredient": "extra-virgin olive oil"
+      },
+      {
+        "amount": "1 ½ teaspoons",
+        "ingredient": "chili powder"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "cumin"
+      },
+      {
+        "amount": "¼ teaspoon",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "¼ teaspoon",
+        "ingredient": "kosher salt"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "prepared guacamole"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "fresh lime juice"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "chopped fresh cilantro"
+      },
+      {
+        "amount": null,
+        "ingredient": "Bite-sized round corn tortilla chips"
+      },
+      {
+        "amount": null,
+        "ingredient": "Crumbled feta cheese or queso fresco for serving"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "seafood"
+      ],
+      "temperature": "room temperature"
+    },
+    "name": "Spicy Shrimp Guacamole Bites",
+    "nutrition": [
+      {
+        "amount": "40 kcal",
+        "group": "calories"
+      },
+      {
+        "amount": "1 g",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "4 g",
+        "group": "protein"
+      },
+      {
+        "amount": "2 g",
+        "group": "fat"
+      },
+      {
+        "amount": "31 mg",
+        "group": "cholesterol"
+      },
+      {
+        "amount": "97 mg",
+        "group": "sodium"
+      },
+      {
+        "amount": "1 g",
+        "group": "fiber"
+      }
+    ],
+    "people": 28,
+    "preparation": [
+      "{'amount': None, 'ingredient': '#Instructions'}",
+      "Place a rack in the center of your oven and preheat the oven to 400 degrees F.",
+      "Place the shrimp in a large mixing bowl, drizzle with olive oil, then sprinkle with chili powder, cumin, smoked paprika, and kosher salt.",
+      "Toss to coat, then spread the shrimp on in a single layer on a large baking sheet.",
+      "Roast for 4 to 6 minutes, just until the shrimp are opaque and cooked through. (Do not overcook, or the shrimp will be chewy.) Set aside.",
+      "In a small bowl, combine the guacamole with the lime juice and 1 tablespoon cilantro.",
+      "To assemble the bites: Top each tortilla chip with a spoonful of the guacamole and a roasted shrimp.",
+      "Garnish with additional fresh cilantro and cheese.",
+      "Serve at room temperature.",
+      "Because the guacamole softens the chips as the bites sit, I recommend assembling the bites immediately before serving.",
+      "If you’d like to prep ahead, you can roast the shrimp a few hours in advance. Let come to room temperature before topping the chips.",
+      "The guacamole can also be stirred with the cilantro and lime juice a few hours in advance. Store it in the refrigerator in an airtight container with plastic wrap pressed on the guac’s surface to deter browning."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.wellplated.com/wp-content/uploads/2017/06/Shrimp-Guacamole-Bites-recipe.jpg",
+    "time": 30,
+    "url": "https://www.wellplated.com/spicy-shrimp-guacamole-bites/"
+  },
   "xrfvypydqo": {
     "date_created": 1719392326.490366,
     "date_updated": 1719392326.490366,
