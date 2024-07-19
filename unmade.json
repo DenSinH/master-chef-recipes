@@ -4039,6 +4039,108 @@
     "time": 60,
     "url": "https://www.instagram.com/reel/C7mfi5xoXx1/?igsh=dTFxaDA4a2VyYjhs"
   },
+  "qilgzzfizf": {
+    "date_created": 1721403159.879326,
+    "date_updated": 1721403159.879326,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Guacamole Ingredients"
+      },
+      {
+        "amount": "3",
+        "ingredient": "avocados, ripe"
+      },
+      {
+        "amount": "½ small",
+        "ingredient": "yellow onion, finely diced"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Roma tomatoes, diced"
+      },
+      {
+        "amount": "3 tablespoons",
+        "ingredient": "finely chopped fresh cilantro"
+      },
+      {
+        "amount": "1",
+        "ingredient": "jalapeno pepper, seeds removed and finely diced"
+      },
+      {
+        "amount": "2",
+        "ingredient": "garlic cloves, minced"
+      },
+      {
+        "amount": "1",
+        "ingredient": "lime, juiced"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "sea salt"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "room temperature"
+    },
+    "name": "Best Ever Guacamole",
+    "nutrition": [
+      {
+        "amount": "184.8 kcal",
+        "group": "calories"
+      },
+      {
+        "amount": "12.3 g",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "2.5 g",
+        "group": "protein"
+      },
+      {
+        "amount": "15.8 g",
+        "group": "fat"
+      },
+      {
+        "amount": "2.2 g",
+        "group": "saturated fat"
+      },
+      {
+        "amount": "305.5 mg",
+        "group": "sodium"
+      },
+      {
+        "amount": "7.6 g",
+        "group": "fiber"
+      },
+      {
+        "amount": "1.7 g",
+        "group": "sugar"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Slice the avocados in half, remove the pit, and scoop into a mixing bowl.",
+      "Mash the avocado with a fork and make it as chunky or smooth as you’d like.",
+      "Add the remaining ingredients and stir together.",
+      "Give it a taste test and add a pinch more salt or lime juice if needed.",
+      "Serve the guacamole with tortilla chips."
+    ],
+    "remarks": null,
+    "thumbnail": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/04/Guacamole-1-2.jpg",
+    "time": 10,
+    "url": "https://downshiftology.com/recipes/best-ever-guacamole/#wprm-recipe-container-33907"
+  },
   "quewijvaew": {
     "date_created": 1706027797.835122,
     "date_updated": 1706027797.835122,
