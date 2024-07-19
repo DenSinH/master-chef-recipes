@@ -4784,7 +4784,7 @@
   },
   "waugyzsefk": {
     "date_created": 1721402886.956034,
-    "date_updated": 1721402886.956034,
+    "date_updated": 1721402920.230438,
     "igcode": null,
     "ingredients": [
       {
@@ -4881,7 +4881,6 @@
     ],
     "people": 28,
     "preparation": [
-      "{'amount': None, 'ingredient': '#Instructions'}",
       "Place a rack in the center of your oven and preheat the oven to 400 degrees F.",
       "Place the shrimp in a large mixing bowl, drizzle with olive oil, then sprinkle with chili powder, cumin, smoked paprika, and kosher salt.",
       "Toss to coat, then spread the shrimp on in a single layer on a large baking sheet.",
