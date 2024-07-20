@@ -4784,7 +4784,7 @@
   },
   "waugyzsefk": {
     "date_created": 1721402886.956034,
-    "date_updated": 1721402920.230438,
+    "date_updated": 1721513191.803727,
     "igcode": null,
     "ingredients": [
       {
@@ -4822,10 +4822,6 @@
       {
         "amount": "2 tablespoons",
         "ingredient": "fresh lime juice"
-      },
-      {
-        "amount": "1 tablespoon",
-        "ingredient": "chopped fresh cilantro"
       },
       {
         "amount": null,
@@ -4894,7 +4890,7 @@
       "The guacamole can also be stirred with the cilantro and lime juice a few hours in advance. Store it in the refrigerator in an airtight container with plastic wrap pressed on the guac’s surface to deter browning."
     ],
     "remarks": null,
-    "thumbnail": "https://www.wellplated.com/wp-content/uploads/2017/06/Shrimp-Guacamole-Bites-recipe.jpg",
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/jkf5NS3zsOtEqoVZcchHFw4VVN9E58xAKuq7bsc9nX4-spicy-shrimp-guacamole-bites.webp",
     "time": 30,
     "url": "https://www.wellplated.com/spicy-shrimp-guacamole-bites/"
   },
