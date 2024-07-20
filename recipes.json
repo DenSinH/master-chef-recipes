@@ -1479,7 +1479,7 @@
   },
   "geyyuumwcs": {
     "date_created": 1721403159.879326,
-    "date_updated": 1721513161.384309,
+    "date_updated": 1721514243.054379,
     "igcode": null,
     "ingredients": [
       {
@@ -1521,7 +1521,7 @@
       ],
       "cuisine": "mexican",
       "language": "en",
-      "meal_type": "appetizer",
+      "meal_type": "side",
       "meat_type": [
         "vegetarian"
       ],
