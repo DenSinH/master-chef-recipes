@@ -4041,15 +4041,11 @@
   },
   "qilgzzfizf": {
     "date_created": 1721403159.879326,
-    "date_updated": 1721403159.879326,
+    "date_updated": 1721513146.13261,
     "igcode": null,
     "ingredients": [
       {
-        "amount": null,
-        "ingredient": "#Guacamole Ingredients"
-      },
-      {
-        "amount": "3",
+        "amount": "2",
         "ingredient": "avocados, ripe"
       },
       {
@@ -4057,12 +4053,12 @@
         "ingredient": "yellow onion, finely diced"
       },
       {
-        "amount": "2",
+        "amount": "1",
         "ingredient": "Roma tomatoes, diced"
       },
       {
-        "amount": "3 tablespoons",
-        "ingredient": "finely chopped fresh cilantro"
+        "amount": "0.5",
+        "ingredient": "Bell pepper"
       },
       {
         "amount": "1",
