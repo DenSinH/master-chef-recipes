@@ -3306,6 +3306,168 @@
     "time": 35,
     "url": "https://www.eefkooktzo.nl/simpele-burritos-gehakt/"
   },
+  "ortojcvecn": {
+    "date_created": 1721513676.293433,
+    "date_updated": 1721580727.398094,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the chicken marinade"
+      },
+      {
+        "amount": "4",
+        "ingredient": "Chicken breasts"
+      },
+      {
+        "amount": "2 TSP",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt"
+      },
+      {
+        "amount": null,
+        "ingredient": "fresh cracked pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Processed mixture"
+      },
+      {
+        "amount": "1 large handful",
+        "ingredient": "basil"
+      },
+      {
+        "amount": "4-5",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large juicy lemon"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "tomato paste"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "dijon mustard"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt"
+      },
+      {
+        "amount": null,
+        "ingredient": "pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the salad"
+      },
+      {
+        "amount": "1",
+        "ingredient": "finely diced red onion"
+      },
+      {
+        "amount": "1",
+        "ingredient": "diced cucumber"
+      },
+      {
+        "amount": "2",
+        "ingredient": "diced bell pepper"
+      },
+      {
+        "amount": "3-4 tablespoons",
+        "ingredient": "freshly chopped parsley"
+      },
+      {
+        "amount": "1 ounce",
+        "ingredient": "crumbled feta"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "lemon"
+      },
+      {
+        "amount": "1.5 tsp",
+        "ingredient": "sumac"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt"
+      },
+      {
+        "amount": null,
+        "ingredient": "pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the rice"
+      },
+      {
+        "amount": null,
+        "ingredient": "your favorite rice"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For serving"
+      },
+      {
+        "amount": "4-5 tbsp",
+        "ingredient": "thick yogurt"
+      },
+      {
+        "amount": null,
+        "ingredient": "sumac"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "mediterranean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Mediterranean Chicken & Rice Bowl",
+    "nutrition": [
+      {
+        "amount": "480 calories",
+        "group": "calories"
+      },
+      {
+        "amount": "42g",
+        "group": "protein"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Place 4 bone-in skin-on chicken thighs in a bowl. You can also use skinless. I like to keep the skin on during the cooking process to keep things juicy, then remove it before eating.",
+      "Drizzle 2 TSP olive oil, season with a couple generous pinches of salt, fresh cracked pepper.",
+      "Process together 1 large handful basil, 4-5 garlic cloves, the juice of 1 large juicy lemon, 2 tbsp tomato paste, 1 tbsp dijon mustard, salt, & pepper. Process really well in a food processor.",
+      "Add the processed mixture to the chicken, toss the chicken really well, then for best results let this sit for 2-6 hrs to marinate. Or you can proceed to next step if you want to eat right away.",
+      "When you’re ready to eat, preheat oven at 220C. Bring the chicken out of the fridge and let sit for 30 mins to come up to room temp. Grab a cast iron pan, spray with avocado oil, place the chicken at the base along with diced red onion.",
+      "Pop into the oven for 35-39 mins. Time varies by oven and thickness of your chicken.",
+      "Make a simple salad by mixing 1/2 finely diced red onion, 2-3 diced cucumber, 2 diced bell peppers, 3-4 tablespoons freshly chopped parsley, 1 ounce of crumbled feta, 1 tablespoons olive oil, the juice of 1/2 lemon, 1.5 tsp sumac, a generous pinch of salt and pepper. Give it a good mix, taste, and adjust.",
+      "Make your favorite rice according to instructions.",
+      "Remove pan out of the oven, top with cooked rice & salad, top with 4-5 tbsp thick yogurt, and dust with sumac. ENJOY!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/kg9n19lulYE8_GvQhzEnRcUTR8jzWjODRa9jOl63YBc-mediterranean-chicken--rice-bowl.webp",
+    "time": null,
+    "url": "https://www.instagram.com/reel/C9fnxjfuvE7/?igsh=MTZmbGl4bzhpZ2x6bA=="
+  },
   "ottwnhbnlv": {
     "date_created": 1717856356.01515,
     "date_updated": 1718133683.48881,
