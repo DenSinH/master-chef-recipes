@@ -398,7 +398,7 @@
   },
   "bpehpadtzb": {
     "date_created": 1722375555.049498,
-    "date_updated": 1722375555.049498,
+    "date_updated": 1722462956.409852,
     "igcode": null,
     "ingredients": [
       {
@@ -443,10 +443,10 @@
       },
       {
         "amount": "2 tablespoons",
-        "ingredient": "avocado or olive oil"
+        "ingredient": "olive oil"
       },
       {
-        "amount": "1",
+        "amount": "2",
         "ingredient": "red bell pepper"
       },
       {
