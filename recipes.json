@@ -3779,7 +3779,7 @@
   },
   "qamitdbuvx": {
     "date_created": 1722375555.049498,
-    "date_updated": 1722525880.094346,
+    "date_updated": 1722525964.418078,
     "igcode": null,
     "ingredients": [
       {
@@ -3831,8 +3831,12 @@
         "ingredient": "red bell pepper"
       },
       {
-        "amount": "1 small",
-        "ingredient": "onion"
+        "amount": "2",
+        "ingredient": "onions"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Zucchini "
       },
       {
         "amount": "2 tablespoon",
@@ -3845,10 +3849,6 @@
       {
         "amount": "1 tablespoon",
         "ingredient": "coconut aminos"
-      },
-      {
-        "amount": null,
-        "ingredient": "Cilantro for garnish"
       }
     ],
     "meta": {
@@ -3913,8 +3913,8 @@
       "Preheat oven to 400 degrees and line a baking sheet with parchment paper.",
       "Roll turkey mixture into about 1-inch balls and add to parchment paper.",
       "Add to oven to bake for 18 minutes (or until the meatballs are cooked and not pink when you cut them open!).",
-      "While the meatballs bake, make the coconut curry.",
-      "In a large skillet, warm oil, pepper and onions over medium heat and cook for about 5-7 minutes or until golden.",
+      "# While the meatballs bake, make the coconut curry.",
+      "In a large skillet, warm oil, pepper and onions over medium heat and cook for about 5-7 minutes or until golden. Add the zucchini a bit later.",
       "Add in red curry paste, milk, and coconut aminos and mix well over medium low heat.",
       "Allow the coconut curry to simmer for a bit while meatballs cook then add cooked meatballs to the coconut curry (I like to let them simmer together for about 30-60 minutes if I can so the flavors are really well combined!).",
       "Garnish with cilantro and serve over your favorite rice, stir-fry noodles or zucchini noodles."
