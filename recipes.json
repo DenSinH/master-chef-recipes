@@ -3777,6 +3777,153 @@
     "time": 40,
     "url": "https://www.bbcgoodfood.com/recipes/chipotle-chicken-wraps"
   },
+  "qamitdbuvx": {
+    "date_created": 1722375555.049498,
+    "date_updated": 1722525796.57796,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Thai Turkey Meatballs:"
+      },
+      {
+        "amount": "1 lb",
+        "ingredient": "organic ground turkey"
+      },
+      {
+        "amount": "1",
+        "ingredient": "egg"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "gluten-free or grain-free cracker crumbs"
+      },
+      {
+        "amount": "2 cloves",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "ground ginger"
+      },
+      {
+        "amount": "1.5 tablespoon",
+        "ingredient": "coconut aminos"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "red curry paste"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sea salt and black pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Coconut curry:"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "2",
+        "ingredient": "red bell pepper"
+      },
+      {
+        "amount": "1 small",
+        "ingredient": "onion"
+      },
+      {
+        "amount": "2 tablespoon",
+        "ingredient": "red curry paste"
+      },
+      {
+        "amount": "1 – 13.5 ounce can",
+        "ingredient": "full-fat coconut milk"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "coconut aminos"
+      },
+      {
+        "amount": null,
+        "ingredient": "Cilantro for garnish"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "thai",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Healthy Thai Turkey Meatballs in Coconut Curry",
+    "nutrition": [
+      {
+        "amount": "490",
+        "group": "calories"
+      },
+      {
+        "amount": "4g",
+        "group": "sugar"
+      },
+      {
+        "amount": "970mg",
+        "group": "sodium"
+      },
+      {
+        "amount": "30g",
+        "group": "fat"
+      },
+      {
+        "amount": "8g",
+        "group": "saturated fat"
+      },
+      {
+        "amount": "0g",
+        "group": "trans fat"
+      },
+      {
+        "amount": "34g",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "2g",
+        "group": "fiber"
+      },
+      {
+        "amount": "20g",
+        "group": "protein"
+      },
+      {
+        "amount": "121mg",
+        "group": "cholesterol"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "In a large bowl, combine the ground turkey, egg, cracker crumbs, garlic, ginger, coconut aminos, red curry paste and salt and pepper and mix well with a spatula or large fork until the ingredients are fully combined (make sure egg yolk is fully mixed in).",
+      "Add the bowl to fridge to chill for about 15-30 minutes.",
+      "Preheat oven to 400 degrees and line a baking sheet with parchment paper.",
+      "Roll turkey mixture into about 1-inch balls and add to parchment paper.",
+      "Add to oven to bake for 18 minutes (or until the meatballs are cooked and not pink when you cut them open!).",
+      "While the meatballs bake, make the coconut curry.",
+      "In a large skillet, warm oil, pepper and onions over medium heat and cook for about 5-7 minutes or until golden.",
+      "Add in red curry paste, milk, and coconut aminos and mix well over medium low heat.",
+      "Allow the coconut curry to simmer for a bit while meatballs cook then add cooked meatballs to the coconut curry (I like to let them simmer together for about 30-60 minutes if I can so the flavors are really well combined!).",
+      "Garnish with cilantro and serve over your favorite rice, stir-fry noodles or zucchini noodles."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/rnlsLAlvISifXuMOBjC4xfmHBrtQv7buleofOB6uINI-healthy-thai-turkey-meatballs-in.webp",
+    "time": 40,
+    "url": "https://rachlmansfield.com/healthy-thai-turkey-meatballs-in-coconut-curry/"
+  },
   "qzeokpziof": {
     "date_created": 1709368943.511745,
     "date_updated": 1709383175.49439,
