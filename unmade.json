@@ -796,6 +796,114 @@
     "time": null,
     "url": "https://www.vomar.nl/recept/oosterse-keuken/oosterse-burger"
   },
+  "clltyerhje": {
+    "date_created": 1722525724.490199,
+    "date_updated": 1722525724.490199,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "500g",
+        "ingredient": "chicken"
+      },
+      {
+        "amount": "1tbs",
+        "ingredient": "garlic granules/powder"
+      },
+      {
+        "amount": "1tbs",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1/2tbs",
+        "ingredient": "oregano"
+      },
+      {
+        "amount": "1",
+        "ingredient": "onion"
+      },
+      {
+        "amount": "2",
+        "ingredient": "peppers"
+      },
+      {
+        "amount": "4 tsp",
+        "ingredient": "garlic purée"
+      },
+      {
+        "amount": "4",
+        "ingredient": "cloves garlic"
+      },
+      {
+        "amount": "1tbs",
+        "ingredient": "tomato puree"
+      },
+      {
+        "amount": "2tbs",
+        "ingredient": "sweet chilli sauce"
+      },
+      {
+        "amount": "300ml",
+        "ingredient": "chicken stock"
+      },
+      {
+        "amount": "80g",
+        "ingredient": "@philadelphia_uki"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chilli flakes and parsley"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Creamy Sweet Chilli Chicken",
+    "nutrition": [
+      {
+        "amount": "286",
+        "group": "calories"
+      },
+      {
+        "amount": "42g",
+        "group": "protein"
+      },
+      {
+        "amount": "1 (sweet chilli)",
+        "group": "syns"
+      },
+      {
+        "amount": "2 (@philadelphia_uki)",
+        "group": "syns"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Season the chicken and fry off until it’s starting to brown.",
+      "Add in the onions and peppers and cook until soft.",
+      "Add in the garlic, tomato puree and sweet chilli sauce and cook for a few minutes.",
+      "Then add in the stock and cream cheese.",
+      "Reduce this down until it’s formed a thicker sauce.",
+      "Garnish.",
+      "Serve and enjoy."
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-waw2-2.cdninstagram.com/v/t51.29350-15/446355568_815796657141642_1447422329697335030_n.jpg?stp=dst-jpg_e15_p360x360&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=PmphgKVCLhYQ7kNvgGjNBGj&gid=01e24caed61b4f2db1db59677e808cfa&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzM3ODc1MjA5NDA2MTQ0NTI2Nw%3D%3D.2-ccb7-5&oh=00_AYD7Z0v2MPVGSK_mtkC5EofwdP0I6HPiT4jP7xt1EDM7eQ&oe=66B16155&_nc_sid=fc8dfb",
+    "time": null,
+    "url": "https://www.instagram.com/reel/C7jvSDOo8CT/?igsh=MTVvcjgwajR2YjdkeA=="
+  },
   "clsplazois": {
     "date_created": 1719392539.335523,
     "date_updated": 1719422579.978835,
