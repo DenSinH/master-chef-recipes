@@ -5815,12 +5815,16 @@
   },
   "yjviaynckh": {
     "date_created": 1723637187.843883,
-    "date_updated": 1723637187.843883,
+    "date_updated": 1723746503.952393,
     "igcode": null,
     "ingredients": [
       {
         "amount": "300g",
         "ingredient": "Spekblokjes "
+      },
+      {
+        "amount": null,
+        "ingredient": "Parmezaanse kaas"
       },
       {
         "amount": "230gr",
@@ -5841,6 +5845,10 @@
       {
         "amount": "2",
         "ingredient": "teentjes knoflook"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Sjalot"
       },
       {
         "amount": "0,5tl",
@@ -5883,16 +5891,14 @@
     "nutrition": [],
     "people": 4,
     "preparation": [
-      "Verhit 1 eetlepel olijfolie in een grote koekenpan met een hoge en zware bodem.",
-      "Bak de in plakjes gesneden champignons (bestrooid met zout en peper) ongeveer 1 à 2 minuten op hoog vuur, tot ze lichtbruin en zacht zijn.",
-      "Schep de helft van de gebakken champignons uit de pan op een bord. Haal de helft van de gebakken champignons uit de pan. Deze bewaar je voor de garnering.",
-      "Voeg aan de andere helft de ongekookte gnocchi, kippenbouillon, zware room, fijngehakte knoflook, Italiaanse kruiden, gerookte paprikapoeder en ¼ theelepel zout toe.",
+      "Smelt wat boter in een koekenpan.",
+      "Bak de in plakjes gesneden champignons 3 a 4 minuten op middelhoog vuur, tot ze lichtbruin en zacht zijn. Voeg gaandeweg de sjalot en knoflook toe, wat kruiden en bak nog even door.",
+      "Bak ondertussen in een grotere pan de spekjes op. ",
+      "Voeg de gnocchi toe en bak eventjes door in het vet van de spekjes.",
+      "Voeg aan de spekjes en gnocchi de gebakken champignons toe, de kippenbouillon, zware room, Italiaanse kruiden, gerookte paprikapoeder en ¼ theelepel zout toe.",
       "Breng aan de kook op middelhoog vuur en roer alles goed door elkaar.",
       "Dek af met een deksel en laat de gnocchi ongeveer 5 minuten koken op middelhoog vuur terwijl de saus kookt.",
-      "Voeg de verse spinazie toe en laat op middelhoog vuur, al roerende, de spinazie slinken.",
-      "Liever een wat dikkere saus? Kook het geheel dan wat langer door.",
-      "Voeg naar smaak meer zout, versgemalen grove zwarte peper, rode pepervlokken en gerookte paprikapoeder toe.",
-      "Garneer met de resterende helft van de gekookte champignons."
+      "Voeg de verse spinazie toe en laat op middelhoog vuur, al roerende, de spinazie slinken."
     ],
     "remarks": null,
     "thumbnail": "https://miljuschka.nl/wp-content/uploads/2023/08/IMG-8819.jpg",
