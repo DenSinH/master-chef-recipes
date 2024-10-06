@@ -6587,7 +6587,7 @@
   },
   "xdjkunapbx": {
     "date_created": 1728243510.343996,
-    "date_updated": 1728243510.343996,
+    "date_updated": 1728243522.323796,
     "igcode": null,
     "ingredients": [
       {
@@ -6681,7 +6681,7 @@
       "meat_type": [
         "vegetarian"
       ],
-      "temperature": "cold"
+      "temperature": "room temperature"
     },
     "name": "Crispy rice salad",
     "nutrition": [],
