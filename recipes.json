@@ -4665,6 +4665,134 @@
     "time": 20,
     "url": null
   },
+  "smvurbshwp": {
+    "date_created": 1728243609.477401,
+    "date_updated": 1728771878.205924,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the chicken marinade"
+      },
+      {
+        "amount": "2",
+        "ingredient": "chicken breast"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "Greek yogurt"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "lemon, juice only"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "harissa paste"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": null,
+        "ingredient": "Salt and pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the sauce"
+      },
+      {
+        "amount": "1",
+        "ingredient": "red onion"
+      },
+      {
+        "amount": "2",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "harissa paste @belazu_co"
+      },
+      {
+        "amount": "150g",
+        "ingredient": "cherry tomatoes"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "tomato puree"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "lemon, juice only"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": null,
+        "ingredient": "Small bunch parsley"
+      },
+      {
+        "amount": "1 bag",
+        "ingredient": "rice"
+      },
+      {
+        "amount": null,
+        "ingredient": "#To serve"
+      },
+      {
+        "amount": null,
+        "ingredient": "feta"
+      },
+      {
+        "amount": null,
+        "ingredient": "Pomegranate"
+      },
+      {
+        "amount": null,
+        "ingredient": "Extra parsley"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "mediterranean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Honey Harissa Chicken with Rice and Feta",
+    "nutrition": [],
+    "people": 2,
+    "preparation": [
+      "Mix everything for the chicken marinade together, add the chicken breasts to fully coat.",
+      "(If you can leave to marinate for while, the better it will taste)",
+      "Roast or airfry 200°C for 20 minutes until fully cooked.",
+      "Finely slice the onion, pepper, dice garlic and slice the tomatoes in half.",
+      "Add the onion and pepper to a pan with a little oil and sauté for around 5 minutes until soft.",
+      "Now add the paprika, harissa, garlic, lemon juice, tomato puree, honey and tomatoes and cook for another few minutes until the tomatoes start to blister.",
+      "Now stir through the cooked rice, chopped parsley, salt and pepper.",
+      "Slice the chicken, serve on top of the rice and finish with crumbled feta, drizzle of olive, extra chopped parsley and pomegranate."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/2dsEtGyp979lsFye6sTWX8p03Rp3ww2NAeg8Zr0cYsY-honey-harissa-chicken-with-rice-and.webp",
+    "time": null,
+    "url": "https://www.instagram.com/reel/DASkibpsLzF/?igsh=ODc4dHg0aWZoZ2Jl"
+  },
   "stvajytxvm": {
     "date_created": 1703518692.803492,
     "date_updated": 1704553762.764013,
