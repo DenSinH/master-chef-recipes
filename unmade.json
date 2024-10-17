@@ -398,7 +398,7 @@
   },
   "btrwtvqumz": {
     "date_created": 1729008046.293938,
-    "date_updated": 1729189101.665833,
+    "date_updated": 1729189168.525766,
     "igcode": null,
     "ingredients": [
       {
@@ -435,7 +435,7 @@
       },
       {
         "amount": "260g",
-        "ingredient": "rice"
+        "ingredient": "Orzo"
       },
       {
         "amount": "3",
@@ -460,7 +460,7 @@
     ],
     "meta": {
       "carb_type": [
-        "rice"
+        "pasta"
       ],
       "cuisine": "spanish",
       "language": "en",
@@ -470,7 +470,7 @@
       ],
       "temperature": "warm"
     },
-    "name": "CHICKEN & CHORIZO ONE PAN RICE",
+    "name": "CHICKEN & CHORIZO ONE PAN ORZO",
     "nutrition": [
       {
         "amount": "605 cals",
@@ -484,12 +484,12 @@
       "Then add in your chicken, garlic granules and paprika once your chicken has some colour all over.",
       "Add your diced bell pepper after slightly frying the chicken.",
       "Then add in the tomato puree and the diced cherry tomatoes.",
-      "Add in your uncooked rice, stir for another minute or so and then add your stock, bring this to a boil.",
+      "Add in your uncooked orzo, stir for another minute or so and then add your stock, bring this to a boil.",
       "Once boiling, reduce the heat to low, cover the pan and leave to cook for 15/20 mins.",
       "Stir occasionally!",
-      "Once the rice is done, stir through some parsley and scatter over the cheese!"
+      "Once the orzo is done, stir through some parsley and scatter over the cheese!"
     ],
-    "remarks": null,
+    "remarks": "The original recipe is with rice",
     "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/X1zOkyyvdNuHSnaZSIminX0HUgb-u5c1MRphM2V3H1Y-chicken--chorizo-one-pan-rice.webp",
     "time": 20,
     "url": "https://www.instagram.com/reel/C77CkLtIyvl/?igsh=YzFnazU5Yzhpd3J3"
