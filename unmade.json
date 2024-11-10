@@ -2964,11 +2964,11 @@
   },
   "jjdpecdfic": {
     "date_created": 1731153301.409115,
-    "date_updated": 1731153301.409115,
+    "date_updated": 1731233979.197128,
     "igcode": null,
     "ingredients": [
       {
-        "amount": "1 pound",
+        "amount": "800g",
         "ingredient": "gnocchi"
       },
       {
@@ -2980,7 +2980,7 @@
         "ingredient": "butter"
       },
       {
-        "amount": "1 pound",
+        "amount": "800g",
         "ingredient": "chicken tenders"
       },
       {
@@ -2996,12 +2996,12 @@
         "ingredient": "garlic"
       },
       {
-        "amount": "7 ounce",
+        "amount": "180g",
         "ingredient": "sun dried tomatoes"
       },
       {
-        "amount": "1½ cups",
-        "ingredient": "milk"
+        "amount": "300ml",
+        "ingredient": "heavy cream"
       },
       {
         "amount": "½ cup",
@@ -3014,6 +3014,18 @@
       {
         "amount": "1 tablespoon",
         "ingredient": "fresh parsley"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "diced bell peppers "
+      },
+      {
+        "amount": "2",
+        "ingredient": "diced onion"
+      },
+      {
+        "amount": null,
+        "ingredient": "cherry tomatoes"
       }
     ],
     "meta": {
@@ -3094,7 +3106,8 @@
       "In a large skillet heat the butter and sun dried tomato oil over medium-high heat.",
       "Add the chicken tenders to the skillet and season with salt and pepper. Cook the chicken on both sides until no longer pink inside and lightly golden brown. Transfer the chicken to a plate and set side.",
       "If more oil is needed in your skillet, add additional sun dried tomato oil.",
-      "Add the garlic and sun dried tomatoes to the skillet and saute for about 2 to 3 minutes until the garlic becomes aromatic and fragrant.",
+      "Fry the onion and garlic and later add the diced bell peppers.",
+      "Add the sun dried tomatoes and the cherry tomatoes to the skillet and saute for about 2 to 3 minutes.",
       "Add the cup and a half of milk, half and half and Parmesan cheese to the skillet.",
       "In a small bowl whisk the cornstarch with the 2 tbsp of milk and add this to the skillet as well.",
       "Stir or whisk in the sauce. The sauce will begin to thicken as it bubbles from the cornstarch. Cook for about a minute.",
