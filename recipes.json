@@ -6604,6 +6604,95 @@
     "time": 240,
     "url": "https://rutgerbakt.nl/dessert-recepten/klassieke-tiramisu-recept/"
   },
+  "wztpmiymej": {
+    "date_created": 1731238030.403789,
+    "date_updated": 1731270366.380804,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingrediënten"
+      },
+      {
+        "amount": "400 gr",
+        "ingredient": "rundergehakt"
+      },
+      {
+        "amount": "2",
+        "ingredient": "paprika's"
+      },
+      {
+        "amount": "1",
+        "ingredient": "rode ui"
+      },
+      {
+        "amount": "200 gr",
+        "ingredient": "prei (fijngesneden)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "afbakstokbrood of partybrood"
+      },
+      {
+        "amount": "1 klein blikje",
+        "ingredient": "tomatenpuree"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ei"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "paprikapoeder"
+      },
+      {
+        "amount": null,
+        "ingredient": "peper en zout"
+      },
+      {
+        "amount": "1/2 theelepel",
+        "ingredient": "Italiaanse kruiden"
+      },
+      {
+        "amount": "75 gr",
+        "ingredient": "geraspte kaas"
+      },
+      {
+        "amount": null,
+        "ingredient": "olie om te bakken"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Kirsten's Broodschotel",
+    "nutrition": [],
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven op 200 graden.",
+      "Snipper de rode ui en bak deze samen met het gehakt rul.",
+      "Snijd de paprika’s in blokjes en bak even mee met het gehakt.",
+      "Voeg ook de fijngesneden prei toe en bak nog 1 minuutje mee tot hij begint te slinken.",
+      "Roer de tomatenpuree, paprikapoeder, Italiaanse kruiden en een flinke snuf peper en zout door het gehaktmengsel.",
+      "Schep dit alles in een ovenschaal en roer het ei er door.",
+      "Leg de sneetjes brood dakpansgewijs op het gehakt en besprenkel met een beetje olijfolie.",
+      "Bestrooi de ovenschotel met kaas en zet ongeveer 12 minuten in de oven tot het brood lekker knapperig is en de kaas gesmolten is.",
+      "Zet eventueel de laatste 2 minuten de grill er bij aan."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/j1U-JBHLI0oll9htphm3wE3y35cyjWSET9oWUDlzPN4-kirstens-broodschotel.webp",
+    "time": 37,
+    "url": "https://www.leukerecepten.nl/recepten/ovenschotel-met-gehakt-en-brood/"
+  },
   "xnnaowlzrn": {
     "date_created": 1721402886.956034,
     "date_updated": 1721513197.641652,
