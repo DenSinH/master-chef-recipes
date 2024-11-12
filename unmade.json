@@ -1559,7 +1559,7 @@
   },
   "dwzdsiumne": {
     "date_created": 1715414265.752684,
-    "date_updated": 1715414265.752684,
+    "date_updated": 1731428352.826622,
     "igcode": null,
     "ingredients": [
       {
@@ -1617,6 +1617,10 @@
       {
         "amount": null,
         "ingredient": "spring onion, green chilli & coriander for garnish"
+      },
+      {
+        "amount": null,
+        "ingredient": "Rice"
       }
     ],
     "meta": {
