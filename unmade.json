@@ -1559,7 +1559,7 @@
   },
   "dwzdsiumne": {
     "date_created": 1715414265.752684,
-    "date_updated": 1731428352.826622,
+    "date_updated": 1731433456.521635,
     "igcode": null,
     "ingredients": [
       {
@@ -1575,12 +1575,20 @@
         "ingredient": "smoked paprika"
       },
       {
-        "amount": null,
-        "ingredient": "shallots sliced"
+        "amount": "2",
+        "ingredient": "Onions sliced"
       },
       {
         "amount": null,
         "ingredient": "red chilli sliced"
+      },
+      {
+        "amount": "3",
+        "ingredient": "Diced bell peppers"
+      },
+      {
+        "amount": "500g",
+        "ingredient": "Mushrooms"
       },
       {
         "amount": null,
@@ -1641,8 +1649,9 @@
     "preparation": [
       "Coat the chicken in the salt and paprika then fry off on a high heat skin side down for around 10 mins until it is crispy.",
       "Turn the heat down then flip over and cook for another 5 mins.",
-      "Once cooked remove from the pan & discard any fat from the meat.",
-      "To the same pan add a drizzle of oil, shallots & chilli then fry off for 5 mins.",
+      "Once cooked remove from the pan.",
+      "In the chicken juices, add onions & chilli then fry off for 5 mins.",
+      "Add the bell pepper and the mushrooms, and fry until done.",
       "Add the stock pot & 100ml water leaving to simmer for a few mins until the stock pot has dissolved.",
       "Add in the garlic, ginger, coconut milk, soy sauce, fish sauce & the juice of the lime. Stir together then bring to a simmer.",
       "Grate in the zest of the lime and add the chopped coriander.",
