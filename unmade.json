@@ -573,7 +573,7 @@
   },
   "bkiyciarhc": {
     "date_created": 1731257103.057597,
-    "date_updated": 1731427412.389737,
+    "date_updated": 1731427535.450363,
     "igcode": null,
     "ingredients": [
       {
@@ -619,10 +619,6 @@
       {
         "amount": null,
         "ingredient": "cooked white rice"
-      },
-      {
-        "amount": null,
-        "ingredient": "coriander"
       },
       {
         "amount": null,
