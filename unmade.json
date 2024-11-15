@@ -658,6 +658,170 @@
     "time": null,
     "url": "https://www.instagram.com/reel/DCE8x9PoaA2/?igsh=MWxvbmxybThudzJ3dw=="
   },
+  "btsggshbzk": {
+    "date_created": 1731709170.610498,
+    "date_updated": 1731709170.610498,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "Chili Powder"
+      },
+      {
+        "amount": "½ tablespoon",
+        "ingredient": "Paprika"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "Onion Powder"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "Garlic Powder"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "Cumin"
+      },
+      {
+        "amount": "¼ - ½ teaspoon",
+        "ingredient": "Cayenne Pepper"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "Sugar"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "Salt"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "Corn Starch"
+      },
+      {
+        "amount": "1 lb",
+        "ingredient": "Chicken Breast Sliced"
+      },
+      {
+        "amount": "½",
+        "ingredient": "Onion - Sliced"
+      },
+      {
+        "amount": "½",
+        "ingredient": "Red Bell Pepper - Sliced"
+      },
+      {
+        "amount": "½",
+        "ingredient": "Yellow Bell Pepper - Sliced"
+      },
+      {
+        "amount": "½",
+        "ingredient": "Green Bell Pepper - Sliced"
+      },
+      {
+        "amount": "¼ Cup",
+        "ingredient": "Cilantro Dip Spread"
+      },
+      {
+        "amount": "6 Slices or 1 cup",
+        "ingredient": "Cheese Mexican Blend"
+      },
+      {
+        "amount": "1 pkg 12",
+        "ingredient": "Hawaiian Rolls"
+      },
+      {
+        "amount": "2 tbs",
+        "ingredient": "butter melted"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "garlic powder"
+      },
+      {
+        "amount": "1",
+        "ingredient": "Lime"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Chicken Fajita Sliders",
+    "nutrition": [
+      {
+        "amount": "289 kcal",
+        "group": "calories"
+      },
+      {
+        "amount": "21 g",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "21 g",
+        "group": "protein"
+      },
+      {
+        "amount": "14 g",
+        "group": "fat"
+      },
+      {
+        "amount": "7 g",
+        "group": "saturated fat"
+      },
+      {
+        "amount": "5 g",
+        "group": "polyunsaturated fat"
+      },
+      {
+        "amount": "78 mg",
+        "group": "cholesterol"
+      },
+      {
+        "amount": "388 mg",
+        "group": "sodium"
+      },
+      {
+        "amount": "2 g",
+        "group": "fiber"
+      },
+      {
+        "amount": "6 g",
+        "group": "sugar"
+      }
+    ],
+    "people": 6,
+    "preparation": [
+      "Mix all of the ingredients for the seasoning into a small bowl. Set aside, we aren't ready for this just yet.",
+      "Slice Chicken Breasts thin and set aside.",
+      "Slice Onion and Bell Peppers and set aside.",
+      "Divide seasoning mixture in half and sprinkle ½ seasoning mixture on top of chicken and the other half on the sliced vegetables. Toss to coat.",
+      "Place 1 cup water in Instant Pot.",
+      "Place Chicken in Steamer Basket OR use a trivet and place a piece of tin foil on top.",
+      "Set to Manual (Pressure Cook) high for 5 Minutes. Allow a 5 Minute Natural Release (NR) and then Quick Release (QR) and open lid.",
+      "Place Sliced Vegetables on top and quickly close lid.",
+      "Set to Manual (Pressure Cook) High for 1 Minute and Quick Release (QR).",
+      "Open Lid and remove basket with Chicken Fajitas and vegetables.",
+      "Squeeze juice from 1 lime over Fajitas.",
+      "Slice Hawaiian Rolls horizontally and spread with Cilantro Lime Spread (optional).",
+      "Layer Chicken Fajitas, Vegetables and Shredded Mexican Blend Cheese and place roll tops on top.",
+      "Brush with melted butter and garlic.",
+      "Bake at 350 degrees for 15 minutes or until cheese is melted and tops are golden brown."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 25,
+    "url": null
+  },
   "btyuyxcwae": {
     "date_created": 1715703252.586159,
     "date_updated": 1715703252.586159,
