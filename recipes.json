@@ -549,6 +549,145 @@
     "time": 15,
     "url": "https://www.leukerecepten.nl/recepten/gnocchi-in-truffelsaus/"
   },
+  "bitdmeyinx": {
+    "date_created": 1726558287.898379,
+    "date_updated": 1735824160.259099,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients for the meatballs:"
+      },
+      {
+        "amount": "1 lb",
+        "ingredient": "ground chicken"
+      },
+      {
+        "amount": "1/3 cup",
+        "ingredient": "panko breadcrumbs"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "sun-dried tomatoes"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "crumbled feta"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "finely diced red onion"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "chopped mint"
+      },
+      {
+        "amount": "2 cloves",
+        "ingredient": "garlic minced"
+      },
+      {
+        "amount": "1",
+        "ingredient": "egg"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "milk"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt & pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the tzatziki:"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Persian cucumbers shaved"
+      },
+      {
+        "amount": "5 oz",
+        "ingredient": "plain Greek yogurt"
+      },
+      {
+        "amount": "1/4 tsp",
+        "ingredient": "garlic powder"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "1",
+        "ingredient": "lemon zest"
+      },
+      {
+        "amount": "1/2 tsp",
+        "ingredient": "extra virgin olive oil"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "fresh dill chopped"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt & pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the orzo:"
+      },
+      {
+        "amount": "1.5 cups",
+        "ingredient": "orzo"
+      },
+      {
+        "amount": "2 cups",
+        "ingredient": "spinach"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "crumbled feta"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "greek",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Greek Meatballs over Spinach Feta Orzo",
+    "nutrition": [],
+    "people": 12,
+    "preparation": [
+      "#For the balls",
+      "Roll into balls and pan sear in avocado oil over medium heat both sides until golden and finish off in the oven at 180C for 12 minutes",
+      "#For the tzatziki ",
+      "Combine all ingredients in a bowl to make",
+      "#For the orzo",
+      "Make the orzo, then combine with the spinach until done. ",
+      "Serve warm and top with your meatballs and tzatziki"
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/UJKRHuLLoo0gMOASpb3j0teEmRoLlwkG-DgRhb6Y7lQ-greek-meatballs-over-spinach-feta.webp",
+    "time": null,
+    "url": "https://www.instagram.com/reel/C-fcuW_pyZN/?igsh=MWQzczA0bDNpdzNsbg=="
+  },
   "brhrwcvcjw": {
     "date_created": 1709758706.109313,
     "date_updated": 1709758788.61159,
