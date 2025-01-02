@@ -552,7 +552,7 @@
   "bitdmeyinx": {
     "date_created": 1726558287.898379,
     "date_updated": 1735824160.259099,
-    "igcode": null,
+    "igcode": "DEUyGeGs3ME",
     "ingredients": [
       {
         "amount": null,
@@ -4838,7 +4838,7 @@
   },
   "rpivrdccsl": {
     "date_created": 1731709268.508468,
-    "date_updated": 1735493877.059569,
+    "date_updated": 1735824272.073542,
     "igcode": null,
     "ingredients": [
       {
@@ -4854,8 +4854,8 @@
         "ingredient": "chorizo"
       },
       {
-        "amount": "200 ml",
-        "ingredient": "plantaardige room"
+        "amount": "250 ml",
+        "ingredient": "Slagroom"
       },
       {
         "amount": "4",
@@ -4913,13 +4913,13 @@
       "Snij de chorizo in kleine blokjes.",
       "Rooster de chorizo krokant in een koekenpan door ze 3-5 minuten te bakken.",
       "Je hoeft geen olijfolie aan de pan toe te voegen.",
-      "Giet de groenten samen met het vocht in een diepe pan, voeg de plantaardige room, basilicum, de bouillon blokjes en de tomatenpuree toe.",
+      "Giet de groenten samen met het vocht in een diepe pan, voeg de  slagroom, basilicum, de bouillon blokjes en de tomatenpuree toe.",
       "Pureer de saus glad.",
       "Voeg de chorizo toe.",
       "Kook de pasta en roer door de saus.",
-      "Dien de pasta op en verdeel de plantaardige mozzarella over de saus heen.",
+      "Dien de pasta op en verdeel de mozzarella over de saus heen.",
       "Top af met extra basilicum.",
-      "Geniet van jouw lactosevrije pasta met geroosterde paprika saus."
+      "Geniet van jouw pasta met geroosterde paprika saus."
     ],
     "remarks": null,
     "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/KACo8dZMetmXkYkR0zPEWGyItbE_ecfKjcx43eXCkmQ-femkes-pasta-met-geroosterde.webp",
