@@ -10832,7 +10832,7 @@
   },
   "zqaqyfrsfs": {
     "date_created": 1731257650.607995,
-    "date_updated": 1731257650.607995,
+    "date_updated": 1738707348.24933,
     "igcode": null,
     "ingredients": [
       {
@@ -10892,12 +10892,16 @@
         "ingredient": "Butter"
       },
       {
-        "amount": "1 small",
-        "ingredient": "Shallot"
+        "amount": "1 big",
+        "ingredient": "Onion"
       },
       {
         "amount": "4 cloves",
         "ingredient": "Garlic"
+      },
+      {
+        "amount": "3",
+        "ingredient": "Bell peppers"
       },
       {
         "amount": "1/2 tsp",
@@ -10958,7 +10962,7 @@
       "#Orzo",
       "Heat the 1 tbsp olive oil and 1 tbsp butter in a large high-rimmed pan over medium heat.",
       "Once the butter is melted, add the chopped shallot and minced garlic and stir to combine.",
-      "Cook for 1 minute.",
+      "Cook for 1 minute. Add the bell pepper and cook a little longer.",
       "Mix in uncooked orzo and toast for 2 minutes.",
       "Pour in chicken broth and bring to a boil.",
       "Lower the heat to a simmer.",
