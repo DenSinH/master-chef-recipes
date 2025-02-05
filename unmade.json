@@ -8598,7 +8598,7 @@
   },
   "vdznddpbbf": {
     "date_created": 1738755184.122787,
-    "date_updated": 1738755184.122787,
+    "date_updated": 1738781691.566307,
     "igcode": null,
     "ingredients": [
       {
@@ -8620,6 +8620,14 @@
       {
         "amount": "1",
         "ingredient": "onion"
+      },
+      {
+        "amount": "1.5",
+        "ingredient": "Bell peppers"
+      },
+      {
+        "amount": null,
+        "ingredient": "Corn"
       },
       {
         "amount": "½ teaspoon",
@@ -8655,7 +8663,7 @@
       },
       {
         "amount": "2 cups",
-        "ingredient": "cooked black beans"
+        "ingredient": "Kidney beans"
       },
       {
         "amount": "1",
@@ -8769,12 +8777,12 @@
     "preparation": [
       "Chop the onion and the garlic.",
       "Heat 1 tablespoon of the oil in a large skillet or non-stick pan.",
-      "Cook the onion and the garlic for 2 minutes.",
+      "Cook the onion and the garlic for 2 minutes. Then add the bell pepper and cook a little longer.",
       "Add ground beef and brown well, breaking it up as it browns, for 3-4 minutes until the onions are softened.",
       "Drain the excess grease if there is too much in the pan, but it shouldn’t be if the beef is lean.",
       "Add the dried oregano, paprika powder, cayenne pepper, cumin, coriander, salt, and pepper.",
       "Stir in the tomato paste and the water.",
-      "Add the drained black beans.",
+      "Add the drained black beans and corn.",
       "Stir well and cook on medium-low heat for about 5 minutes.",
       "Chop the avocado in the meantime.",
       "Remove the pan from the heat and stir in the avocado and herbs.",
