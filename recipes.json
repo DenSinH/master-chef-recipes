@@ -2173,6 +2173,211 @@
     "time": 40,
     "url": "https://cookieandkate.com/crispy-smashed-potatoes-recipe/"
   },
+  "iarqcrsiwv": {
+    "date_created": 1738755184.122787,
+    "date_updated": 1738781847.256932,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "2-3 tablespoons",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1 lb",
+        "ingredient": "lean ground beef"
+      },
+      {
+        "amount": "2",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": "1",
+        "ingredient": "onion"
+      },
+      {
+        "amount": "1.5",
+        "ingredient": "Bell peppers"
+      },
+      {
+        "amount": null,
+        "ingredient": "Corn"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "dried oregano"
+      },
+      {
+        "amount": "½ teaspoon",
+        "ingredient": "sweet paprika powder"
+      },
+      {
+        "amount": "¼ teaspoon",
+        "ingredient": "cayenne pepper"
+      },
+      {
+        "amount": "¼ teaspoon",
+        "ingredient": "ground cumin"
+      },
+      {
+        "amount": "¼ teaspoon",
+        "ingredient": "ground coriander"
+      },
+      {
+        "amount": null,
+        "ingredient": "fine sea salt and pepper"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "tomato paste"
+      },
+      {
+        "amount": "¼ cup",
+        "ingredient": "water"
+      },
+      {
+        "amount": "2 cups",
+        "ingredient": "Kidney beans"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large avocado"
+      },
+      {
+        "amount": "4",
+        "ingredient": "large tortillas"
+      },
+      {
+        "amount": "2 cups",
+        "ingredient": "cheese"
+      },
+      {
+        "amount": "1",
+        "ingredient": "lime"
+      },
+      {
+        "amount": "3 tablespoons",
+        "ingredient": "chopped fresh cilantro"
+      },
+      {
+        "amount": null,
+        "ingredient": "sour cream"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "beef"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Ground Beef Quesadillas (with Black Beans)",
+    "nutrition": [
+      {
+        "amount": "859 kcal",
+        "group": "calories"
+      },
+      {
+        "amount": "63 g",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "52 g",
+        "group": "protein"
+      },
+      {
+        "amount": "45 g",
+        "group": "fat"
+      },
+      {
+        "amount": "18 g",
+        "group": "saturated fat"
+      },
+      {
+        "amount": "4 g",
+        "group": "polyunsaturated fat"
+      },
+      {
+        "amount": "18 g",
+        "group": "monounsaturated fat"
+      },
+      {
+        "amount": "1 g",
+        "group": "trans fat"
+      },
+      {
+        "amount": "128 mg",
+        "group": "cholesterol"
+      },
+      {
+        "amount": "963 mg",
+        "group": "sodium"
+      },
+      {
+        "amount": "1228 mg",
+        "group": "potassium"
+      },
+      {
+        "amount": "15 g",
+        "group": "fiber"
+      },
+      {
+        "amount": "5 g",
+        "group": "sugar"
+      },
+      {
+        "amount": "990 IU",
+        "group": "vitamin A"
+      },
+      {
+        "amount": "14 mg",
+        "group": "vitamin C"
+      },
+      {
+        "amount": "558 mg",
+        "group": "calcium"
+      },
+      {
+        "amount": "8 mg",
+        "group": "iron"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Chop the onion and the garlic.",
+      "Heat 1 tablespoon of the oil in a large skillet or non-stick pan.",
+      "Cook the onion and the garlic for 2 minutes. Then add the bell pepper and cook a little longer.",
+      "Add ground beef and brown well, breaking it up as it browns, for 3-4 minutes until the onions are softened.",
+      "Drain the excess grease if there is too much in the pan, but it shouldn’t be if the beef is lean.",
+      "Add the dried oregano, paprika powder, cayenne pepper, cumin, coriander, salt, and pepper.",
+      "Stir in the tomato paste and the water.",
+      "Add the drained black beans and corn.",
+      "Stir well and cook on medium-low heat for about 5 minutes.",
+      "Chop the avocado in the meantime.",
+      "Remove the pan from the heat and stir in the avocado and herbs.",
+      "Wipe the pan clean or use another one.",
+      "Heat the pan and brush it with some of the remaining olive oil.",
+      "Place one tortilla in the pan and add some cheese to one half of it.",
+      "Top with some of the beef mixture and add more grated cheese.",
+      "Fold the other tortilla half over the filling.",
+      "Fry the quesadilla lightly on both sides until golden.",
+      "Use a spatula to turn the quesadillas to the other side carefully.",
+      "Repeat with the remaining tortillas and filling.",
+      "Serve immediately with tomatoes or tomato salsa, sour cream, and lime wedges."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/wXn0HsWTsHNZ3pcO0CUpzs4Lp0tPj_xFEvIHvFO2D-E-ground-beef-quesadillas-with-black.webp",
+    "time": 30,
+    "url": "https://whereismyspoon.co/black-bean-quesadillas-recipe-with-ground-beef-and-avocado/#recipe"
+  },
   "imcyxcddhq": {
     "date_created": 1701713604.995863,
     "date_updated": 1718555333.537837,
