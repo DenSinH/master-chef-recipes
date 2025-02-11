@@ -1581,6 +1581,113 @@
     "time": null,
     "url": null
   },
+  "dnjqccytgy": {
+    "date_created": 1739294917.24887,
+    "date_updated": 1739294917.24887,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large carrot"
+      },
+      {
+        "amount": "2",
+        "ingredient": "sticks of celery"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large brown onion"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "tomato paste"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "tin of crushed peeled plum tomatoes or chopped tomatoes"
+      },
+      {
+        "amount": "3",
+        "ingredient": "sun-dried tomatoes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "large garlic clove"
+      },
+      {
+        "amount": "1",
+        "ingredient": "sprig of rosemary"
+      },
+      {
+        "amount": "1",
+        "ingredient": "sprig of sage"
+      },
+      {
+        "amount": "2",
+        "ingredient": "bay leaves"
+      },
+      {
+        "amount": "100ml",
+        "ingredient": "white wine"
+      },
+      {
+        "amount": "10g",
+        "ingredient": "dry porcini mushroom"
+      },
+      {
+        "amount": "200g",
+        "ingredient": "green or brown lentils"
+      },
+      {
+        "amount": "200 g",
+        "ingredient": "linguine"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Ragù Di Lenticchie",
+    "nutrition": [],
+    "people": 3,
+    "preparation": [
+      "In a large shallow frying pan add a generous glug of extra virgin olive oil along with the diced soffritto mix (carrot, celery and onion). Cook on a medium heat for about 10 minutes.",
+      "Meanwhile finely chop the garlic and sun-dried tomatoes. Add them to the soffritto along with the chopped dry porcini mushroom and cook for another 2 minutes.",
+      "Stir in the tomato paste and cook for another minute.",
+      "Using some butcher's twine, prepare a small bouquet by tying together the rosemary, sage, and bay leaves.",
+      "Add the wine and the herbs bouquet to the pot and let it simmer for a minute or two until slightly reduced.",
+      "Reduce the heat to low and add the crushed peeled plum tomatoes or chopped tomatoes, a good pinch of salt and black pepper.",
+      "Add the lentils and about 600 ml of water and simmer gently for 40 - 50 minutes, allowing the flavours to meld together and the lentils to fully cook.",
+      "The lentils cooking time will vary depending on which lentils you use, so add more water and cook the ragù for longer if need it.",
+      "Once fully cooked, the sauce should be thick, moist and juicy.",
+      "If the sauce still has a lot of liquid, continue cooking it for longer.",
+      "If the sauce is too thick, add a splash of water to loosen it.",
+      "Discard the herbs bouquet and taste to adjust the seasoning with salt and pepper.",
+      "Bring a large pot of salted water to a boil.",
+      "Add the linguine and cook until al dente.",
+      "Reserve a cup of pasta water before draining.",
+      "Add the cooked pasta to the pan with the sauce and stir well.",
+      "Add a drizzle of olive oil and if the sauce is too thick, add a splash of the reserved pasta water to loosen it.",
+      "Stir well again before serving.",
+      "Enjoy!"
+    ],
+    "remarks": null,
+    "thumbnail": "http://www.ourcookingjourney.com/uploads/1/2/4/7/124776650/published/lentil-ragu-ragu-di-lenticchie.png?1736437322",
+    "time": null,
+    "url": "https://www.ourcookingjourney.com/recipe-pages/lentil-ragu-ragu-di-lenticchie"
+  },
   "dnpuhknygb": {
     "date_created": 1726673726.619116,
     "date_updated": 1726673726.619116,
