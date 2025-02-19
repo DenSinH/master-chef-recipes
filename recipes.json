@@ -688,6 +688,81 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C-fcuW_pyZN/?igsh=MWQzczA0bDNpdzNsbg=="
   },
+  "bqqbvwpqky": {
+    "date_created": 1739734143.452666,
+    "date_updated": 1739998017.762175,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "75 gram",
+        "ingredient": "chorizo"
+      },
+      {
+        "amount": "15 gram",
+        "ingredient": "basilicum"
+      },
+      {
+        "amount": "1",
+        "ingredient": "bol burrata"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "gnocchi"
+      },
+      {
+        "amount": "1",
+        "ingredient": "rode ui"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "1",
+        "ingredient": "courgette"
+      },
+      {
+        "amount": "400 gram",
+        "ingredient": "cherrytomaten in blik"
+      },
+      {
+        "amount": null,
+        "ingredient": "chili vlokken (naar smaak)"
+      },
+      {
+        "amount": null,
+        "ingredient": "zout, peper en olie"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "pork"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Gnocchi met chorizo en burrata",
+    "nutrition": [],
+    "people": 2,
+    "preparation": [
+      "Snijd de chorizo en groente in blokjes ",
+      "Bak de chorizo in het eigen vet totdat de blokjes krokant zijn",
+      "Haal de chorizo uit de pan, giet het grootste deel van het vet over in een andere pan om de gnocchi in te bakken",
+      "Bak de gnocchi in de ene pan terwijl je de groente in de andere bakt, voeg eerst alleen de ui en de knoflook toe",
+      "Voeg later de paprika en courgette toe ",
+      "Voeg later de tomaatjes toe",
+      "Laat even door pruttelen, voeg vlak voor serveren de gnocchi en de chorizo toe en pluk de burrata en verspreid over de pan"
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/1giLP4YCeHup-7ffOKPavKhCcpnyGNbd0_PBZUjqhKI-gnocchi-met-chorizo-en-burrata.webp",
+    "time": 25,
+    "url": "https://www.instagram.com/reel/DF25JAlo788/?igsh=MWFraHU5Y241NXcxNg=="
+  },
   "brhrwcvcjw": {
     "date_created": 1709758706.109313,
     "date_updated": 1709758788.61159,
