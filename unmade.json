@@ -4242,6 +4242,116 @@
     "time": null,
     "url": "https://www.instagram.com/reel/DB60tB4y-lm/?igsh=ODRqa2llbnlwNTBl"
   },
+  "jmobbyifzj": {
+    "date_created": 1741638377.813951,
+    "date_updated": 1741638377.813951,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingrediënten"
+      },
+      {
+        "amount": "150 g",
+        "ingredient": "rijst"
+      },
+      {
+        "amount": "150 g",
+        "ingredient": "waspenen of gewone wortels"
+      },
+      {
+        "amount": "1",
+        "ingredient": "aubergine"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "zonnebloemolie"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ui in ringen"
+      },
+      {
+        "amount": "500 ml",
+        "ingredient": "groente bouillon"
+      },
+      {
+        "amount": "1 pakje à 70 g",
+        "ingredient": "rode Thaise currypasta"
+      },
+      {
+        "amount": "1 blikje à 270 ml",
+        "ingredient": "kokosmelk"
+      },
+      {
+        "amount": "½ bosje",
+        "ingredient": "koriander steeltjes gehakt en blaadjes fijngesneden"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tomaten in parten"
+      },
+      {
+        "amount": "1 blik à 200 g",
+        "ingredient": "kikkererwten, afgespoeld"
+      },
+      {
+        "amount": "2 el",
+        "ingredient": "dikke plantaardige yoghurt"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "thai",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Thaise curry met kikkererwten",
+    "nutrition": [
+      {
+        "amount": "878 kcal",
+        "group": "calorieën"
+      },
+      {
+        "amount": "97 g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "20.3 g",
+        "group": "proteine"
+      },
+      {
+        "amount": "43.6 g",
+        "group": "vet"
+      },
+      {
+        "amount": "18 g",
+        "group": "vezels"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Snijd de ui in ringen, de waspenen in plakjes en de aubergine in blokjes van ongeveer 2 cm.",
+      "Snijd ook de tomaten in parten en spoel de kikkererwten af en laat ze uitlekken.",
+      "Verhit in een hapjespan de zonnebloemolie en bak de ui, aubergine in ongeveer 5 minuten omscheppend op halfhoog vuur zacht.",
+      "Voeg de currypasta toe en bak 2 minuten mee.",
+      "Haal intussen de blaadjes van de koriandersteeltjes en voeg deze samen met de tomaat en wortel toe aan de pan.",
+      "Voeg de kokosmelk toe aan het gerecht en vervolgens de kikkererwten.",
+      "Voeg nu de rijst en bouillon toe en laat de rijst in ongeveer 10 minuten garen.",
+      "De saus moet iets dikker worden.",
+      "Serveer in een kom, schep de yoghurt erop en bestrooi met wat extra korianderblaadjes."
+    ],
+    "remarks": null,
+    "thumbnail": "https://miljuschka.nl/wp-content/uploads/2022/03/Vega-thaise-curry-kikkererwten-MILJ-22-01-FLINK-217.jpg",
+    "time": 30,
+    "url": "https://miljuschka.nl/vegetarische-thaise-curry-met-kikkererwten/"
+  },
   "jtkxvtyuro": {
     "date_created": 1713895673.411506,
     "date_updated": 1713895673.411506,
