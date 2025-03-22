@@ -1581,6 +1581,127 @@
     "time": null,
     "url": null
   },
+  "czyrdvjxmk": {
+    "date_created": 1742678668.993505,
+    "date_updated": 1742678668.993505,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "2x 125g",
+        "ingredient": "salmon fillet"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sweet paprika powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "salt"
+      },
+      {
+        "amount": null,
+        "ingredient": "pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "a pinch of chili powder"
+      },
+      {
+        "amount": null,
+        "ingredient": "ground garlic"
+      },
+      {
+        "amount": null,
+        "ingredient": "a bit of More Spices Knobilicous"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Optional for more kcal or carbs:"
+      },
+      {
+        "amount": "1 pack",
+        "ingredient": "express rice"
+      },
+      {
+        "amount": null,
+        "ingredient": "a bit of oil spray"
+      },
+      {
+        "amount": "2",
+        "ingredient": "cucumbers (approx. 700-750g)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "red onion, thinly sliced"
+      },
+      {
+        "amount": "80g",
+        "ingredient": "avocado (1/2), diced"
+      },
+      {
+        "amount": "100g",
+        "ingredient": "Balance cream cheese"
+      },
+      {
+        "amount": "20ml",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sriracha sauce to taste"
+      },
+      {
+        "amount": null,
+        "ingredient": "Some sesame seeds and/or avocado topping"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "japanese",
+      "language": "en",
+      "meal_type": "salad",
+      "meat_type": [
+        "fish"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Low Carb Sushi Salad",
+    "nutrition": [
+      {
+        "amount": "469 kcal",
+        "group": "calories"
+      },
+      {
+        "amount": "13g",
+        "group": "carbs"
+      },
+      {
+        "amount": "33g",
+        "group": "protein"
+      },
+      {
+        "amount": "30g",
+        "group": "fat"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Cut the salmon into bite-sized cubes.",
+      "Season with the spices and oil spray and cook in the AirFryer at 200° for 6-8 minutes until crispy.",
+      "Meanwhile, chop the rest of the ingredients.",
+      "Add the salmon on top at the end.",
+      "#Optional toppings",
+      "Avocado topping",
+      "Sriracha mayo or sauce",
+      "Spring onions"
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.2885-15/483304509_17850858702420533_92439840055904727_n.jpg?stp=dst-jpg_e15_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi40ODB4ODU0LnNkci5mNzU3NjEuZGVmYXVsdF9jb3Zlcl9mcmFtZSJ9&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2QEF8sVefsGMa9OTLMSq4XN0tndKoHNjiT7rBEco4ckchYQRKx5J8Sa1YCohLI7Y5E0&_nc_ohc=qylx6wgDd_0Q7kNvgFsTsro&_nc_gid=0iq6dM0zrTpeEv4CuQtfrg&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzU4NjcwODYyMTg1NTcyMjY3OA%3D%3D.3-ccb7-5&oh=00_AYHgQoUR365n3D3xKxUnV3-99ZNfoZQYMDSG6b3wfiXUmg&oe=67E4E18B&_nc_sid=fc8dfb",
+    "time": null,
+    "url": "https://www.instagram.com/reel/DHGjH0Gioy2/?igsh=MTA4amZpNW5hYzB6bQ=="
+  },
   "dnjqccytgy": {
     "date_created": 1739294917.24887,
     "date_updated": 1739294917.24887,
