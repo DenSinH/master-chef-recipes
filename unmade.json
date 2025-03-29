@@ -5442,6 +5442,94 @@
     "time": 30,
     "url": "https://hungryhappens.net/one-pan-chicken-and-cabbage/"
   },
+  "lnqcpcssbc": {
+    "date_created": 1743272990.381766,
+    "date_updated": 1743272990.381766,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingredients"
+      },
+      {
+        "amount": "300g",
+        "ingredient": "pasta"
+      },
+      {
+        "amount": "65g",
+        "ingredient": "chorizo (diced)"
+      },
+      {
+        "amount": "400g",
+        "ingredient": "sausages (chopped)"
+      },
+      {
+        "amount": "4tsp",
+        "ingredient": "garlic"
+      },
+      {
+        "amount": "45g",
+        "ingredient": "Sun Dried Tomato paste"
+      },
+      {
+        "amount": "300ml",
+        "ingredient": "chicken stock"
+      },
+      {
+        "amount": "60g",
+        "ingredient": "cream cheese"
+      },
+      {
+        "amount": "40g",
+        "ingredient": "mozzarella"
+      },
+      {
+        "amount": null,
+        "ingredient": "Pasta water"
+      },
+      {
+        "amount": null,
+        "ingredient": "Handful of fresh parsley"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "pork"
+      ],
+      "temperature": "warm"
+    },
+    "name": "15 Minute, Sausage, Chorizo, Sun Dried Tomato and Mozzarella Pasta",
+    "nutrition": [
+      {
+        "amount": "590",
+        "group": "calories"
+      },
+      {
+        "amount": "30.2g",
+        "group": "protein"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Pop the pasta into boiling water with a good amount of salt.",
+      "Whilst this is cooking fry off the chorizo until it’s starting to go crispy and the oils have come out, then remove from the pan.",
+      "Add in the sausages and break them down, cooking until crispy.",
+      "Then add in the garlic and sun dried tomato paste. Cook that for a few minutes and then add in the stock and cream cheese.",
+      "Mix well and cook until the sauce has thickened.",
+      "Then add in the mozzarella and the cooked pasta. Mix together adding pasta water until you get the perfect consistency.",
+      "Garnish with the crispy chorizo and fresh parsley. Serve and enjoy."
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent-fra3-1.cdninstagram.com/v/t51.2885-15/484275551_18052290119230503_1946581927756784213_n.jpg?stp=dst-jpg_e15_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjc1NzYxLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEOLgjH-QaNsPPkcRJjVG_v_SWIYZJjAjTFjnytGlHdG1WiRAG0LVU3RIwN_NFTsD4&_nc_ohc=MFfV_L9cF3gQ7kNvgHG1Qo3&_nc_gid=f77ZDbRfa2f5jaaWt2oSJQ&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MzU5MDQxNDc0NzMwODMxNjc1OA%3D%3D.3-ccb7-5&oh=00_AYE2dFBhFpqnNkloS15hrKFIaH4WlVpPy01mOY30COnJgw&oe=67EDF550&_nc_sid=fc8dfb",
+    "time": 15,
+    "url": "https://www.instagram.com/reel/DHTtzCZothW/?igsh=aDZ2cnBxdDI3Z3Jk"
+  },
   "lqvurpjknl": {
     "date_created": 1738525046.9414,
     "date_updated": 1738525046.9414,
