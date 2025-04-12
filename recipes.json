@@ -3778,6 +3778,100 @@
     "time": 80,
     "url": "https://15gram.be/recepten/flammkuchen-met-spek-en-uien"
   },
+  "nirjlumusz": {
+    "date_created": 1744449345.155281,
+    "date_updated": 1744449345.155281,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Gehaktballetjes"
+      },
+      {
+        "amount": "300 g",
+        "ingredient": "kipgehakt"
+      },
+      {
+        "amount": null,
+        "ingredient": "handvol verse peterselie of 1 el gedroogde"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "gedroogde oregano"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "komijnpoeder"
+      },
+      {
+        "amount": "1",
+        "ingredient": "teentje knoflook"
+      },
+      {
+        "amount": null,
+        "ingredient": "Olie, zout en peper"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Voor erbij"
+      },
+      {
+        "amount": "4",
+        "ingredient": "volkoren pita’s"
+      },
+      {
+        "amount": "100 g",
+        "ingredient": "tzatziki (zelfgemaakt of zelf gekocht)"
+      },
+      {
+        "amount": "0,5",
+        "ingredient": "komkomkommer"
+      },
+      {
+        "amount": "250 g",
+        "ingredient": "tomaten naar keuze"
+      },
+      {
+        "amount": "100 g",
+        "ingredient": "ijsbergsla"
+      },
+      {
+        "amount": null,
+        "ingredient": "Variatie tips voor erbij: ingelegde uitjes, feta, wat extra gegrilde groente of een beetje chilisaus."
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "greek",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Pita met Grieks gekruide kipgehaktballetjes en tzatziki",
+    "nutrition": [],
+    "people": 2,
+    "preparation": [
+      "Snijd de komkommer en tomaten in blokjes.",
+      "Hak de verse peterselie en knoflook fijn.",
+      "Kneed daarna de peterselie, oregano, komijnpoeder en knoflook door het kipgehakt.",
+      "Voeg wat zout en peper toe.",
+      "Rol er kleine balletjes van.",
+      "Verhit wat olie in een koekenpan en bak de balletjes goudbruin aan elke kant.",
+      "Bak ondertussen de pita’s zoals staat aangegeven op de verpakking.",
+      "Snijd de pita’s open en doe de tzatziki, sla, groente en gehaktballetjes erin.",
+      "Voeg eventueel nog wat extra smaakmakers toe.",
+      "Eet smakelijk!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.hilicious.nl/wp-content/uploads/2023/07/pita-gehaktballetjes-scaled.jpg",
+    "time": null,
+    "url": "https://www.hilicious.nl/pita-grieks-kipgehaktballetjes/"
+  },
   "nknaqtdckq": {
     "date_created": 1692896699.725175,
     "date_updated": 1694357532.747472,
