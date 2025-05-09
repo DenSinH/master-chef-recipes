@@ -1100,6 +1100,73 @@
     "time": 100,
     "url": "https://www.instagram.com/p/C8HSvY0IuRI/?igsh=aTV6dmEzazk1bTR6"
   },
+  "bygwnbdfty": {
+    "date_created": 1746808518.010832,
+    "date_updated": 1746808518.010832,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "2",
+        "ingredient": "witte uien"
+      },
+      {
+        "amount": "3",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "500gr",
+        "ingredient": "aardappel"
+      },
+      {
+        "amount": "400gr",
+        "ingredient": "kippendijfilet"
+      },
+      {
+        "amount": null,
+        "ingredient": "Surinaamse massala van de toko"
+      },
+      {
+        "amount": null,
+        "ingredient": "Uienpoeder"
+      },
+      {
+        "amount": null,
+        "ingredient": "Peper & zout"
+      },
+      {
+        "amount": "1 zak",
+        "ingredient": "kousenband (van de toko - diepvries)"
+      },
+      {
+        "amount": "4 vellen",
+        "ingredient": "roti (van de toko - diepvries)"
+      },
+      {
+        "amount": "2",
+        "ingredient": "eieren"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "potatoes"
+      ],
+      "cuisine": "eastern",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Roti",
+    "nutrition": [],
+    "people": 4,
+    "preparation": [],
+    "remarks": null,
+    "thumbnail": "https://scontent.cdninstagram.com/v/t51.75761-15/485083398_18492405184004577_3130092064965883470_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=102&cb=30a688f7-3d95bcc5&ig_cache_key=MzU5MDM4NjI1MDY5NjU5OTE0NQ%3D%3D.3-ccb7-5-cb30a688f7-3d95bcc5&ccb=7-5&_nc_sid=58cdad&_nc_ohc=Q2QEEDlNwa4Q7kNvwEsfaCS&_nc_oc=AdmVRdGUGqSbF5oWHHJjmDFsuFf110SPDPXlxSIlsPfxQqh06vChTxOJu7esLrXd_Co&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=FiAJqMxLqDrfiUaSGDVu1Q&oh=00_AfKPjDMAnN_z82N2c1x_7OdUZeCyGtOOKSV7HGCVLsr19Q&oe=6823F41E",
+    "time": null,
+    "url": "https://www.instagram.com/reel/DHTnUW3N6Zp/?igsh=MXBsZjN3YWlvemFrZQ=="
+  },
   "cftcorijuh": {
     "date_created": 1708267775.089476,
     "date_updated": 1708267860.912146,
