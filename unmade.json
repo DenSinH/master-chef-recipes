@@ -89,6 +89,116 @@
     "time": 20,
     "url": "https://www.instagram.com/reel/C87RQgUIYE9/?igsh=MWwycHFueGY3Y3Yzdw=="
   },
+  "ahuoxgaiqr": {
+    "date_created": 1748428777.161694,
+    "date_updated": 1748428777.161694,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingrediënten"
+      },
+      {
+        "amount": "11",
+        "ingredient": "middelgrote ui"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "milde olijfolie"
+      },
+      {
+        "amount": "15 g",
+        "ingredient": "verse basilicum"
+      },
+      {
+        "amount": "425 ml",
+        "ingredient": "Mutti gezeefde fluweelzachte tomaten"
+      },
+      {
+        "amount": "500 g",
+        "ingredient": "gnocchi"
+      },
+      {
+        "amount": "2",
+        "ingredient": "bollen mozzarella"
+      },
+      {
+        "amount": "90 g",
+        "ingredient": "Parmigiano Reggiano-poeder"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "pasta"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Gnocchi alla sorrentina",
+    "nutrition": [
+      {
+        "amount": "510 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "50 g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "7 g",
+        "group": "waarvan suikers"
+      },
+      {
+        "amount": "840 mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "25 g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "22 g",
+        "group": "vet"
+      },
+      {
+        "amount": "13 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "5 g",
+        "group": "vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Snipper de ui en snijd de knoflook fijn.",
+      "Verhit de olie in een hapjespan op middelhoog vuur en fruit de ui 3 min.",
+      "Snijd ondertussen de stelen van het basilicum grof.",
+      "Voeg de knoflook toe en fruit nog 3 min.",
+      "Voeg de passata en basilicumstelen toe en breng op smaak met peper en eventueel zout.",
+      "Laat in ca. 15 min. op laag vuur tot ⅔ inkoken.",
+      "Kook ondertussen de gnocchi volgens de aanwijzingen op de verpakking.",
+      "Verwarm de oven voor op 250 °C.",
+      "Snijd de mozzarella in blokjes.",
+      "Meng de gnocchi, de helft van de mozzarella en de Parmezaanse kaas door de tomatensaus en schep in de ovenschaal.",
+      "Verdeel de rest van de mozzarella en Parmezaanse kaas erover.",
+      "Bak de gnocchi alla sorrentina ca. 12 min. in de oven tot de kaas gesmolten is.",
+      "Bestrooi met de blaadjes basilicum."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 25,
+    "url": "https://www.ah.nl/allerhande/recept/R-R1199020/gnocchi-alla-sorrentina"
+  },
   "aszrmzhgii": {
     "date_created": 1720269558.258749,
     "date_updated": 1720269558.258749,
