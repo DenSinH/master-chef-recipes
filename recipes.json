@@ -7415,6 +7415,65 @@
     "time": 40,
     "url": "https://www.ah.nl/allerhande/recept/R-R1192683/gnocchi-ovenschotel-met-romige-kip"
   },
+  "vrekjvofyt": {
+    "date_created": 1749370583.937515,
+    "date_updated": 1749583713.448564,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Ingrediënten"
+      },
+      {
+        "amount": "8",
+        "ingredient": "sneetjes brood"
+      },
+      {
+        "amount": "2",
+        "ingredient": "eieren"
+      },
+      {
+        "amount": "250 ml",
+        "ingredient": "melk"
+      },
+      {
+        "amount": "16 gram",
+        "ingredient": "vanillesuiker"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "kaneel"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "breakfast",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Wentelteefjes",
+    "nutrition": [],
+    "people": 8,
+    "preparation": [
+      "Doe de eieren, melk, vanillesuiker en kaneel in een kom en klop met een garde door elkaar.",
+      "Neem een lage schaal of diep bord en giet het mengsel hierin.",
+      "Doop de sneetjes in het mengsel.",
+      "Zorg dat ze het mengsel goed opnemen aan beide kanten.",
+      "Meestal is 1 minuut per kant genoeg, maar dat hangt er vanaf hoe oud (en droog) het brood is.",
+      "Verhit wat boter in een koekenpan en bak de wentelteefjes gaar en goudbruin aan beide kanten.",
+      "Wij bakken ze hier altijd in rondes zodat iedereen ze lekker warm en vers op kan eten, dan zijn ze het lekkerst."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/FasxIpZk3qOdm0HChrn5iThHJMj4JgJHj_1FkdqNWI8-wentelteefjes.webp",
+    "time": null,
+    "url": "https://www.laurasbakery.nl/wentelteefjes/"
+  },
   "wdetehrxgo": {
     "date_created": 1695756957.926085,
     "date_updated": 1718554131.86203,
