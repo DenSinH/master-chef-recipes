@@ -4166,6 +4166,110 @@
     "time": 80,
     "url": "https://15gram.be/recepten/flammkuchen-met-spek-en-uien"
   },
+  "natctqyxel": {
+    "date_created": 1751204482.70443,
+    "date_updated": 1751300612.704217,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#For the dressing"
+      },
+      {
+        "amount": "3 Tbsp.",
+        "ingredient": "balsamic vinegar"
+      },
+      {
+        "amount": "1 Tbsp.",
+        "ingredient": "pure maple syrup"
+      },
+      {
+        "amount": "1 tsp.",
+        "ingredient": "Dijon mustard"
+      },
+      {
+        "amount": null,
+        "ingredient": "Kosher salt"
+      },
+      {
+        "amount": "1/2 cup",
+        "ingredient": "extra-virgin olive oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "#For the chicken"
+      },
+      {
+        "amount": "2",
+        "ingredient": "boneless, skinless chicken breasts (about 1 lb. total)"
+      },
+      {
+        "amount": "3/4 tsp.",
+        "ingredient": "Italian seasoning"
+      },
+      {
+        "amount": null,
+        "ingredient": "Freshly ground black pepper"
+      },
+      {
+        "amount": "2 heads",
+        "ingredient": "romaine lettuce, thinly sliced (about 8 c.)"
+      },
+      {
+        "amount": "2 small or 1 large",
+        "ingredient": "avocado, halved, thinly sliced"
+      },
+      {
+        "amount": "1 (12-oz.) container",
+        "ingredient": "mini mozzarella balls, drained, halved or quartered if large"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "cherry or grape tomatoes, halved"
+      },
+      {
+        "amount": "1/2 cup packed",
+        "ingredient": "fresh basil leaves, thinly sliced"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "salad",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Chicken-Avocado Caprese Salad",
+    "nutrition": [
+      {
+        "amount": "911",
+        "group": "calories"
+      }
+    ],
+    "people": 6,
+    "preparation": [
+      "In a medium bowl, whisk vinegar, syrup, mustard, and 3/4 teaspoon salt. While whisking, slowly pour in oil until combined.",
+      "Place chicken between 2 pieces of plastic wrap and pound with a meat mallet into 1/2\"-thick pieces.",
+      "Transfer chicken to a large bowl; season all over with Italian seasoning, 3/4 teaspoon salt, and 1/4 teaspoon pepper.",
+      "Pour 1/4 cup balsamic dressing over chicken; refrigerate remaining dressing until ready to use.",
+      "Turn chicken to coat and let marinate, tossing a few times, at least 15 minutes at room temperature, or cover bowl and refrigerate up to 3 hours.",
+      "Prepare a grill for medium-high heat; heat 5 minutes (or preheat a grill pan over medium-high heat).",
+      "Grill chicken, turning halfway through, until golden brown and just cooked through, about 5 minutes per side.",
+      "Transfer to a cutting board and let cool slightly.",
+      "Meanwhile, divide lettuce, avocado, mozzarella, tomatoes, and basil among bowls.",
+      "Thinly slice chicken and arrange in bowls.",
+      "Drizzle with reserved dressing."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/355E_rTJ6JnVVt7andJ8oXmb7byj4400bvxpCaXOPKs-chicken-avocado-caprese-salad.webp",
+    "time": 45,
+    "url": "https://www.delish.com/cooking/recipe-ideas/a43031793/chicken-avocado-caprese-salad-recipe/"
+  },
   "nirjlumusz": {
     "date_created": 1744449345.155281,
     "date_updated": 1744449345.155281,
