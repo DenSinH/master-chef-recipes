@@ -474,6 +474,94 @@
     "time": 20,
     "url": "https://www.jumbo.com/recepten/gnocchi-met-romige-paddenstoelen-gehaktsaus-504911"
   },
+  "aonxkpucav": {
+    "date_created": 1754143122.583762,
+    "date_updated": 1754153862.009334,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "2",
+        "ingredient": "bollen mozzarella (à 125 g)"
+      },
+      {
+        "amount": "1",
+        "ingredient": "mango"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "pijnboompitten"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "groene pesto"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "olijfolie extra vierge"
+      },
+      {
+        "amount": "2 takjes",
+        "ingredient": "basilicum"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Mango caprese met pestodressing",
+    "nutrition": [
+      {
+        "amount": "316 kcal",
+        "group": "Energie"
+      },
+      {
+        "amount": "11 g",
+        "group": "Koolhydraten"
+      },
+      {
+        "amount": "13 g",
+        "group": "Eiwit"
+      },
+      {
+        "amount": "24 g",
+        "group": "Vet"
+      },
+      {
+        "amount": "9 g",
+        "group": "Waarvan verzadigd"
+      },
+      {
+        "amount": "2 g",
+        "group": "Vezels"
+      },
+      {
+        "amount": "0,4 g",
+        "group": "Zout"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Snijd de mozzarella in plakjes.",
+      "Schil de mango en snijd het vruchtvlees van de pit en vervolgens in plakjes.",
+      "Rooster in een droge koekenpan de pijnboompitten goudgeel en schud ze op een bord.",
+      "Verdun de pesto met de olijfolie tot een dressing.",
+      "Leg de mozzarella en mango afwisselend en dakpansgewijs op 4 borden.",
+      "Verdeel er de pestodressing over.",
+      "Bestrooi met de pijnboompitten, blaadjes van de takjes basilicum en peper naar smaak."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/yMKLgrbBI-PicAMpOKMMQpnduQyscrAQYPt_SMd0WGk-mango-caprese-met-pestodressing.webp",
+    "time": 10,
+    "url": "https://www.boodschappen.nl/recept/mango-caprese-met-pestodressing/"
+  },
   "bhupwszewa": {
     "date_created": 1690887854.525666,
     "date_updated": 1690887854.525666,
