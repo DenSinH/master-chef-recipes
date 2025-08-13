@@ -2683,6 +2683,107 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C12AkaFMNKy/?igsh=ODZ5MWZ3OGI0Znk2"
   },
+  "ejqtapgkho": {
+    "date_created": 1755115697.238433,
+    "date_updated": 1755115697.238433,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Sauce:"
+      },
+      {
+        "amount": "1 x can",
+        "ingredient": "coconut milk"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "2 tbsp",
+        "ingredient": "white miso paste"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sesame oil"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "white wine vinegar"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "minced garlic"
+      },
+      {
+        "amount": "2 tsp",
+        "ingredient": "minced ginger"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "sriracha"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": null,
+        "ingredient": "#To top:"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chilli oil"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sesame seeds"
+      },
+      {
+        "amount": null,
+        "ingredient": "Spring onion"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Other ingredients:"
+      },
+      {
+        "amount": "1 bunch",
+        "ingredient": "bok choy"
+      },
+      {
+        "amount": "1 packet",
+        "ingredient": "frozen dumplings"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "italian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "one-pan dumplings",
+    "nutrition": [],
+    "people": null,
+    "preparation": [
+      "Mix your “sauce” ingredients together in a large dish and whisk until well combined.",
+      "Add in your bok choy and spread out evenly.",
+      "Add your dumplings on top of the sauce.",
+      "Bake in the oven for 25 minutes on 180*C, flipping halfway and spooning the sauce over the dumplings.",
+      "Top with chilli oil, sesame seeds and spring onion."
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent.cdninstagram.com/v/t51.75761-15/500532439_18342027925089987_3311558144007323899_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=106&ig_cache_key=MzY0MTU3MTczMTI1OTA5ODg0OTE4MzQyMDI3OTIyMDg5OTg3.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjI2Mzh4NDY4Ni5zZHIuQzMifQ%3D%3D&_nc_ohc=1_uzecRK3doQ7kNvwEafI9G&_nc_oc=AdnyNXbIZAAx2eodQeWVL_5cOCGcVX8fzPt2MktNy2OogdfhbnOQG-bkviV91zWD0fE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ekGIFJYsLjnvnbGdv9SwEg&oh=00_AfXnoSBDYXHVyfZPCgdRgWQCqk8eocUEGBYcU6iSvJnaQQ&oe=68A2CBA9",
+    "time": 25,
+    "url": "https://www.instagram.com/reel/DKJdjIZzYbh/?igsh=MTdqZThucG9pbnNpMA=="
+  },
   "erumcftivk": {
     "date_created": 1704794777.173785,
     "date_updated": 1704794805.384405,
