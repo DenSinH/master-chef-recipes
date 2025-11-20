@@ -10437,5 +10437,96 @@
     "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/94h8zOjoneTiceT7JQXjy-6Ml7IHuBdNBbgSs8HTNUg-30-minute-korean-beef-over-rice.jpeg",
     "time": 50,
     "url": "https://www.halfbakedharvest.com/30-minute-korean-beef-toasted-sesame-rice/"
+  },
+  "zpltztvgmb": {
+    "date_created": 1763314301.714266,
+    "date_updated": 1763663964.511201,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "3",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "3 eetlepels",
+        "ingredient": "sojasaus"
+      },
+      {
+        "amount": "2 eetlepels",
+        "ingredient": "rode currypasta"
+      },
+      {
+        "amount": "1 eetlepel",
+        "ingredient": "pindakaas"
+      },
+      {
+        "amount": "1 eetlepel",
+        "ingredient": "sesamolie"
+      },
+      {
+        "amount": "1 eetlepel",
+        "ingredient": "rijstazijn"
+      },
+      {
+        "amount": "150 ml",
+        "ingredient": "water of groentenbouillon"
+      },
+      {
+        "amount": "125 ml",
+        "ingredient": "kokosmelk"
+      },
+      {
+        "amount": "1",
+        "ingredient": "rode paprika"
+      },
+      {
+        "amount": "½",
+        "ingredient": "courgette"
+      },
+      {
+        "amount": "100 gram",
+        "ingredient": "taugé"
+      },
+      {
+        "amount": "1 zak",
+        "ingredient": "bevroren gyoza’s"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Toppings zoals crispy chili-olie, koriander en sesamzaadjes:"
+      },
+      {
+        "amount": null,
+        "ingredient": "Gekookte rijst, naar smaak"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "thai",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Romige curry dumplings uit de oven",
+    "nutrition": [],
+    "people": 3,
+    "preparation": [
+      "Verwarm de oven voor op 190 graden.",
+      "Snijd de paprika en courgette in blokjes, was de taugé en laat uitlekken.",
+      "Meng in een ovenschaal knoflook, sojasaus, currypasta, pindakaas, sesamolie, rijstazijn, water of bouillon en kokosmelk tot een egale saus.",
+      "Roer de groenten erdoor.",
+      "Steek de nog bevroren gyoza’s er half in.",
+      "Bak 15–20 minuten.",
+      "Garneer met toppings en serveer met rijst."
+    ],
+    "remarks": null,
+    "thumbnail": "https://scontent.cdninstagram.com/v/t51.71878-15/580769047_855870143720473_5010714345262624257_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=104&ig_cache_key=Mzc2Mjg2NTI4MDcxMjc1NzU5Nw%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=Hz3uDpAnxloQ7kNvwGprWHZ&_nc_oc=Adlko2KjPYdrOocNB732IR3qjjUGEdIMNfAXqZHP4yXRZUK9uHYG_fHbTbhEL8wUEbU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=b-yO8Gp-B6oNYJuBXn38rA&oh=00_AfjJ2A4vuVVw4zNyVra8J3avcL4MWTqojBfxArdoHfqcSQ&oe=691FF66D",
+    "time": 20,
+    "url": "https://www.instagram.com/reel/DQ4YglKiNFd/?igsh=cnF1bWt5Z3Iwd2lp"
   }
 }
