@@ -10440,48 +10440,24 @@
   },
   "zpltztvgmb": {
     "date_created": 1763314301.714266,
-    "date_updated": 1763663964.511201,
+    "date_updated": 1763673793.162317,
     "igcode": null,
     "ingredients": [
       {
-        "amount": "3",
+        "amount": "3 teentjes",
         "ingredient": "knoflook"
       },
       {
-        "amount": "3 eetlepels",
-        "ingredient": "sojasaus"
-      },
-      {
-        "amount": "2 eetlepels",
-        "ingredient": "rode currypasta"
-      },
-      {
-        "amount": "1 eetlepel",
-        "ingredient": "pindakaas"
-      },
-      {
-        "amount": "1 eetlepel",
-        "ingredient": "sesamolie"
-      },
-      {
-        "amount": "1 eetlepel",
-        "ingredient": "rijstazijn"
-      },
-      {
-        "amount": "150 ml",
-        "ingredient": "water of groentenbouillon"
-      },
-      {
-        "amount": "125 ml",
-        "ingredient": "kokosmelk"
+        "amount": "600 gr",
+        "ingredient": "roerbakgroente"
       },
       {
         "amount": "1",
         "ingredient": "rode paprika"
       },
       {
-        "amount": "½",
-        "ingredient": "courgette"
+        "amount": "1",
+        "ingredient": "ui"
       },
       {
         "amount": "100 gram",
@@ -10490,6 +10466,38 @@
       {
         "amount": "1 zak",
         "ingredient": "bevroren gyoza’s"
+      },
+      {
+        "amount": null,
+        "ingredient": "# Saus"
+      },
+      {
+        "amount": "6 eetlepels",
+        "ingredient": "sojasaus"
+      },
+      {
+        "amount": "4 eetlepels",
+        "ingredient": "rode currypasta"
+      },
+      {
+        "amount": "1.5 eetlepel",
+        "ingredient": "pindakaas"
+      },
+      {
+        "amount": "1.5 eetlepel",
+        "ingredient": "sesamolie"
+      },
+      {
+        "amount": "1.5 eetlepel",
+        "ingredient": "rijstazijn"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "water of groentenbouillon"
+      },
+      {
+        "amount": "400 ml",
+        "ingredient": "kokosmelk"
       },
       {
         "amount": null,
@@ -10514,14 +10522,15 @@
     },
     "name": "Romige curry dumplings uit de oven",
     "nutrition": [],
-    "people": 3,
+    "people": 4,
     "preparation": [
       "Verwarm de oven voor op 190 graden.",
-      "Snijd de paprika en courgette in blokjes, was de taugé en laat uitlekken.",
+      "Snijd de paprika in blokjes, was de taugé en laat uitlekken.",
+      "Bak de groente een beetje op.",
       "Meng in een ovenschaal knoflook, sojasaus, currypasta, pindakaas, sesamolie, rijstazijn, water of bouillon en kokosmelk tot een egale saus.",
       "Roer de groenten erdoor.",
       "Steek de nog bevroren gyoza’s er half in.",
-      "Bak 15–20 minuten.",
+      "Bak 15–20 minuten in de oven.",
       "Garneer met toppings en serveer met rijst."
     ],
     "remarks": null,
