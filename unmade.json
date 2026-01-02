@@ -11672,6 +11672,121 @@
     "time": null,
     "url": "https://www.instagram.com/reel/DH88oLsoYt1/?igsh=b3p5NzFnOHUxZDZ3"
   },
+  "sstnfbbugd": {
+    "date_created": 1767379902.702413,
+    "date_updated": 1767379902.702413,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "kipfilet"
+      },
+      {
+        "amount": "0.5 blokje",
+        "ingredient": "kippenbouillon"
+      },
+      {
+        "amount": "4 vellen",
+        "ingredient": "bladerdeeg"
+      },
+      {
+        "amount": "2 theelepels",
+        "ingredient": "kerriepoeder"
+      },
+      {
+        "amount": "takje",
+        "ingredient": "peterselie"
+      },
+      {
+        "amount": "snufje",
+        "ingredient": "peper"
+      },
+      {
+        "amount": "snufje",
+        "ingredient": "zout"
+      },
+      {
+        "amount": "1 eetlepel",
+        "ingredient": "roomkaas"
+      },
+      {
+        "amount": "1 theelepel",
+        "ingredient": "sesamzaadjes"
+      },
+      {
+        "amount": "1",
+        "ingredient": "ei"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "bread"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "appetizer",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Martijn's Kip kerrie bladerdeeghapjes",
+    "nutrition": [
+      {
+        "amount": "160 kcal",
+        "group": "kcal"
+      },
+      {
+        "amount": "10 gr",
+        "group": "vet"
+      },
+      {
+        "amount": "4 gr",
+        "group": "verzadigd vet"
+      },
+      {
+        "amount": "12 gr",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "0.5 gr",
+        "group": "suikers"
+      },
+      {
+        "amount": "0.5 gr",
+        "group": "vezels"
+      },
+      {
+        "amount": "7 gr",
+        "group": "eiwit"
+      },
+      {
+        "amount": "0.5 gr",
+        "group": "zout"
+      }
+    ],
+    "people": null,
+    "preparation": [
+      "Verwarm de oven voor op 200° graden.",
+      "Kook de kipfilet in een pan met water en bouillonblokje ca. 12 minuten tot hij goed gaar is.",
+      "Haal daarna uit het water en laat uitlekken.",
+      "Trek met een vork de kipfilet uit elkaar tot ‘pulled’ chicken.",
+      "Hak de peterselie fijn.",
+      "Voeg het kerriepoeder, peper en zout, roomkaas en peterselie toe aan de kip en meng door elkaar.",
+      "Neem een plakje bladerdeeg en snijd deze doormidden in 2 rechthoeken.",
+      "Verdeel een beetje van het kip kerrie mengsel aan een zijde.",
+      "Snijd met een mesje een paar inkepingen aan de andere zijde van het plakje deeg.",
+      "Vouw het stukje met de inkepingen over de vulling en druk de zijkanten goed vast met een vorkje.",
+      "Leg de gevulde bladerdeeghapjes op een bakplaat met bakpapier.",
+      "Klop het ei los en bestrijk de bovenzijde van de hapjes hiermee.",
+      "Bestrooi met een beetje sesamzaadjes.",
+      "Bak ze ca. 15 minuten in de oven tot ze mooi goudbruin en gaar zijn."
+    ],
+    "remarks": null,
+    "thumbnail": "https://www.leukerecepten.nl/app/uploads/2022/05/bladerdeeg-kip-kerrie_hapje_.jpg",
+    "time": 45,
+    "url": "https://www.leukerecepten.nl/recepten/kip-kerrie-bladerdeeghapjes/"
+  },
   "ssupmtjtwp": {
     "date_created": 1758042046.785635,
     "date_updated": 1758042046.785635,
