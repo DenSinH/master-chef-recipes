@@ -6565,6 +6565,101 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C9h0wrLoWZX/?igsh=MXNsNWQ2YXdzeGh1Ng=="
   },
+  "scmfdzommk": {
+    "date_created": 1767087737.855624,
+    "date_updated": 1767379817.273097,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "250 ml",
+        "ingredient": "verse slagroom"
+      },
+      {
+        "amount": "40 g",
+        "ingredient": "fijne kristalsuiker"
+      },
+      {
+        "amount": "250 g",
+        "ingredient": "mascarpone"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "koek- en speculaaskruiden"
+      },
+      {
+        "amount": "2 tl",
+        "ingredient": "cacaopoeder"
+      },
+      {
+        "amount": "250 ml",
+        "ingredient": "chocolademelk"
+      },
+      {
+        "amount": "200 g",
+        "ingredient": "kruidnoten"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "other"
+      ],
+      "cuisine": "other",
+      "language": "nl",
+      "meal_type": "dessert",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Mamma's Kruidnoten 'tiramisu'",
+    "nutrition": [
+      {
+        "amount": "385 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "29 g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "17 g",
+        "group": "suikers"
+      },
+      {
+        "amount": "160 mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "5 g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "28 g",
+        "group": "vet"
+      },
+      {
+        "amount": "18 g",
+        "group": "verzadigd"
+      },
+      {
+        "amount": "1 g",
+        "group": "vezels"
+      }
+    ],
+    "people": 8,
+    "preparation": [
+      "Klop de slagroom met de suiker met een (hand)mixer stijf. Roer de mascarpone los en spatel de slagroom, de koek- en speculaaskruiden en cacaopoeder erdoor.",
+      "Doe de chocolademelk in een kom, voeg de helft van de kruidnoten toe en schep door.",
+      "Schep de kruidnoten met een schuimspaan uit de chocolademelk en verdeel de met de platte kant naar beneden over de bodem van de ovenschaal. Schep de helft van het mascarponemengsel erop en strijk glad.",
+      "Herhaal met de rest van de kruidnoten en het mascarponemengsel. Strijk glad en maak zo nodig de rand van de ovenschaal schoon met keukenpapier.",
+      "Doe de rest van de koekkruiden en cacaopoeder in een theezeefje en bestuif de bovenkant van de tiramisu ermee.",
+      "Laat minimaal 3 uur of de hele nacht opstijven in de koelkast."
+    ],
+    "remarks": null,
+    "thumbnail": "https://static.ah.nl/static/recepten/img_RAM_PRD171568_1024x748_JPG.jpg",
+    "time": 195,
+    "url": "https://www.ah.nl/r/1197510"
+  },
   "skaenurnut": {
     "date_created": 1707761754.111641,
     "date_updated": 1708379201.607854,
