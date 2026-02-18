@@ -3778,6 +3778,131 @@
     "time": null,
     "url": "https://www.instagram.com/reel/DLjB9L7MYNx/?igsh=Y2piMGQxbjdpdGI1"
   },
+  "gzblmigegm": {
+    "date_created": 1771415641.731799,
+    "date_updated": 1771415641.731799,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "3 tablespoons",
+        "ingredient": "extra-virgin olive oil"
+      },
+      {
+        "amount": "2",
+        "ingredient": "large onions, thinly sliced"
+      },
+      {
+        "amount": "6",
+        "ingredient": "garlic cloves, thinly sliced"
+      },
+      {
+        "amount": "1 pound",
+        "ingredient": "boneless, skinless chicken thighs"
+      },
+      {
+        "amount": "1½ cups",
+        "ingredient": "red lentils, rinsed"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "ground turmeric"
+      },
+      {
+        "amount": null,
+        "ingredient": "Salt and freshly ground black pepper"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "finely chopped mix of parsley, dill and mint"
+      },
+      {
+        "amount": "1 cup",
+        "ingredient": "plain full-fat regular or Greek yogurt"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "fresh lemon juice (from 1 large lemon)"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "legumes"
+      ],
+      "cuisine": "middle eastern",
+      "language": "en",
+      "meal_type": "soup",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Chicken and Red Lentil Soup With Lemony Yogurt",
+    "nutrition": [
+      {
+        "amount": "603 calories",
+        "group": "calories"
+      },
+      {
+        "amount": "20 grams",
+        "group": "fat"
+      },
+      {
+        "amount": "5 grams",
+        "group": "saturated fat"
+      },
+      {
+        "amount": "0 grams",
+        "group": "trans fat"
+      },
+      {
+        "amount": "9 grams",
+        "group": "monounsaturated fat"
+      },
+      {
+        "amount": "3 grams",
+        "group": "polyunsaturated fat"
+      },
+      {
+        "amount": "61 grams",
+        "group": "carbohydrates"
+      },
+      {
+        "amount": "12 grams",
+        "group": "dietary fiber"
+      },
+      {
+        "amount": "7 grams",
+        "group": "sugars"
+      },
+      {
+        "amount": "48 grams",
+        "group": "protein"
+      },
+      {
+        "amount": "922 milligrams",
+        "group": "sodium"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Heat oil in a large pot over medium-high.",
+      "Add the onions and cook, stirring often, until deeply charred around the edges and tender, 10 to 12 minutes.",
+      "Add the garlic and cook, stirring often, until softened, 2 to 3 minutes.",
+      "Add the chicken, lentils and turmeric, and season generously with salt and lots of pepper.",
+      "Toss everything a few times so that the turmeric can coat the other ingredients.",
+      "Pour in 8 cups water, turn the heat to high and bring to a boil.",
+      "Then, adjust heat to medium-low and cook, stirring occasionally, until the lentils have split and collapsed into the broth in a golden mush and the chicken is cooked through, 20 to 25 minutes.",
+      "Using tongs, remove the chicken thighs, let them cool slightly, then shred and return to the pot.",
+      "Sprinkle in the herbs, taste and season with salt and pepper as necessary.",
+      "In a small bowl, combine the yogurt and lemon juice and season with salt.",
+      "(If using Greek yogurt, thin with water until it reaches a runny consistency.)",
+      "Ladle the soup into bowls, then spoon the lemony yogurt over before serving."
+    ],
+    "remarks": null,
+    "thumbnail": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-threeByTwoMediumAt2X.jpg",
+    "time": 60,
+    "url": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt"
+  },
   "habejjkahu": {
     "date_created": 1746808594.035174,
     "date_updated": 1746808594.035174,
