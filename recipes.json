@@ -11096,5 +11096,178 @@
     "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/3rQF4NU1EzucfrH7ieRDPqDch3Hy_IBGxsh1QCQtZI-romige-curry-dumplings-uit-de-oven.webp",
     "time": 20,
     "url": "https://www.instagram.com/reel/DQ4YglKiNFd/?igsh=cnF1bWt5Z3Iwd2lp"
+  },
+  "zprxhlvufj": {
+    "date_created": 1772794626.029563,
+    "date_updated": 1772794794.930371,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "#Korean BBQ Chicken Marinade"
+      },
+      {
+        "amount": "1600g",
+        "ingredient": "Boneless Skinless Chicken Thighs, trim excess fat"
+      },
+      {
+        "amount": "2 Tsp",
+        "ingredient": "Salt"
+      },
+      {
+        "amount": "3 Tsp",
+        "ingredient": "Black Pepper"
+      },
+      {
+        "amount": "3 Tsp",
+        "ingredient": "Garlic Powder"
+      },
+      {
+        "amount": "4 Tsp",
+        "ingredient": "Onion Powder"
+      },
+      {
+        "amount": "100g",
+        "ingredient": "Gochujang Paste (Mild or Hot)"
+      },
+      {
+        "amount": "50-60g",
+        "ingredient": "Minced Garlic"
+      },
+      {
+        "amount": "35g",
+        "ingredient": "Sesame Seeds"
+      },
+      {
+        "amount": "60g",
+        "ingredient": "Honey"
+      },
+      {
+        "amount": "30g",
+        "ingredient": "Light Soy Sauce"
+      },
+      {
+        "amount": "40g",
+        "ingredient": "Dark Soy Sauce"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Creamy Gochujang Sauce"
+      },
+      {
+        "amount": "200g",
+        "ingredient": "Low Fat Yogurt"
+      },
+      {
+        "amount": "120g",
+        "ingredient": "Light Mayo"
+      },
+      {
+        "amount": "25g",
+        "ingredient": "Gochujang"
+      },
+      {
+        "amount": "25g",
+        "ingredient": "Honey"
+      },
+      {
+        "amount": "2 Tsp",
+        "ingredient": "Garlic Powder"
+      },
+      {
+        "amount": "Dash",
+        "ingredient": "of Milk for desired consistency"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Crunchy Cucumber Slaw"
+      },
+      {
+        "amount": "300g",
+        "ingredient": "Cucumber, thinly sliced"
+      },
+      {
+        "amount": "200g",
+        "ingredient": "Grated Carrots"
+      },
+      {
+        "amount": "200g",
+        "ingredient": "Red Onion, thinly sliced"
+      },
+      {
+        "amount": "20g",
+        "ingredient": "Sesame Seeds"
+      },
+      {
+        "amount": "40g",
+        "ingredient": "Rice Vinegar"
+      },
+      {
+        "amount": "30g",
+        "ingredient": "Sriracha"
+      },
+      {
+        "amount": null,
+        "ingredient": "#Wraps and Garnish"
+      },
+      {
+        "amount": "10",
+        "ingredient": "Low Carb Flour Wraps (Brand: Mission)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sesame Seeds, Parsley, Chilli Flakes"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "korean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Korean BBQ Chicken Wraps",
+    "nutrition": [
+      {
+        "amount": "417 Calories",
+        "group": "calories"
+      },
+      {
+        "amount": "39g Protein",
+        "group": "protein"
+      },
+      {
+        "amount": "38g Carbs",
+        "group": "carbs"
+      },
+      {
+        "amount": "12g Fat",
+        "group": "fat"
+      }
+    ],
+    "people": 10,
+    "preparation": [
+      "#Korean BBQ Chicken Marinade",
+      "Trim excess fat from chicken thighs, add seasonings and marinade ingredients then mix and set aside",
+      "In a lined large sheet pan, spread marinated chicken evenly.",
+      "Add cooking spray, oven bake 25-30 mins at 200C / 400F until golden!",
+      "#Crunchy Cucumber Slaw",
+      "In a bowl, add cucumber, carrots, red onion, sesame seeds, rice vinegar and sriracha.",
+      "Mix until well combined",
+      "#Creamy Gochujang Sauce",
+      "In a second bowl, add yogurt, light mayo, gochujang, honey, garlic powder and milk for desired consistency",
+      "#Wraps and Garnish",
+      "Toast wraps on a stove flame, slice up chicken.",
+      "Serve with cucumber slaw and gochujang sauce. ENJOY!"
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/jw-3n6kebS87iYrlOiHIdFYaGs0Qt7n6bMDiIFCdPlw-korean-bbq-chicken-wraps.webp",
+    "time": 25,
+    "url": "https://www.instagram.com/reel/DTYJ3bxj3LI/?igsh=MWV5cWN2dXYxZ2ZtdA=="
   }
 }
