@@ -612,6 +612,135 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C8KVQZyPvcq/?igsh=OXo2cGhtbTBjeTR4"
   },
+  "bafvcoassl": {
+    "date_created": 1779649655.685089,
+    "date_updated": 1779649655.685089,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "4",
+        "ingredient": "eendenborstfilets"
+      },
+      {
+        "amount": "4 el",
+        "ingredient": "venkelzaad"
+      },
+      {
+        "amount": "½ el",
+        "ingredient": "anijszaad"
+      },
+      {
+        "amount": "½ el",
+        "ingredient": "4-seizoenenpeper"
+      },
+      {
+        "amount": "½ el",
+        "ingredient": "gedroogde rozemarijn"
+      },
+      {
+        "amount": "8",
+        "ingredient": "sjalotten"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "6",
+        "ingredient": "takjes verse tijm"
+      },
+      {
+        "amount": "1",
+        "ingredient": "laurierblaadje"
+      },
+      {
+        "amount": "3 el",
+        "ingredient": "tarwebloem"
+      },
+      {
+        "amount": "30 ml",
+        "ingredient": "pastis anijsdrank"
+      },
+      {
+        "amount": "380 ml",
+        "ingredient": "vleesfond"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "french",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Jord's Langzaam gegaarde eendenborstfilet met sjalottenjus",
+    "nutrition": [
+      {
+        "amount": "485 kcal",
+        "group": "energie"
+      },
+      {
+        "amount": "10 g",
+        "group": "koolhydraten"
+      },
+      {
+        "amount": "325 mg",
+        "group": "natrium"
+      },
+      {
+        "amount": "36 g",
+        "group": "eiwit"
+      },
+      {
+        "amount": "31 g",
+        "group": "vet"
+      },
+      {
+        "amount": "13 g",
+        "group": "waarvan verzadigd"
+      },
+      {
+        "amount": "2 g",
+        "group": "vezels"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Verwarm de oven voor op 80 °C.",
+      "Snijd ondertussen een ruitpatroon in de vetlaag van de eendenborstfilets.",
+      "Doe 2 el venkelzaad, het anijszaad, de peper en rozemarijn in de vijzel en stamp fijn.",
+      "Wrijf de vetkant van de eend ermee in en bestrooi met zout.",
+      "Laat de eend op kamer temperatuur komen.",
+      "Snijd ondertussen de sjalotten in halve ringen.",
+      "Snijd de knoflook fijn.",
+      "Ris de blaadjes van de takjes tijm.",
+      "Verhit een koekenpan zonder olie of boter en bak de eendenborstfilets op de vetlaag 5 min. op middelhoog vuur.",
+      "Neem uit de pan en leg met de vetkant naar boven op een met bakpapier beklede bakplaat of in de ovenschaal.",
+      "Bewaar 2 el van het bakvet in de pan.",
+      "Laat de eendenborstfilet in het midden van de oven nog ca. 45 min. langzaam garen.",
+      "Neem uit de oven, dek af met aluminiumfolie en laat 10 min. rusten.",
+      "Verhit ondertussen het bakvet in de koekenpan en bak de sjalot, knoflook, tijm, het laurierblaadje en de rest van het venkelzaad en 10 min. op laag vuur.",
+      "Roer regelmatig.",
+      "Voeg de bloem toe en laat in 2 min. gaar worden.",
+      "Voeg de pastis toe en roer tot deze is opgenomen.",
+      "Voeg de vleesfond toe en breng aan de kook.",
+      "Draai het vuur laag en laat in 5 min. inkoken tot een gebonden jus.",
+      "Roer regelmatig.",
+      "Breng op smaak met peper en eventueel zout.",
+      "Verwijder het laurierblaadje.",
+      "Laat de eendenborstfilets heel of snijd ze in plakjes.",
+      "Serveer met de jus."
+    ],
+    "remarks": null,
+    "thumbnail": "https://static.ah.nl/static/recepten/img_075829_1024x748_JPG.jpg",
+    "time": 80,
+    "url": "https://www.ah.nl/r/1186453"
+  },
   "befvbuaazp": {
     "date_created": 1719676847.340184,
     "date_updated": 1719676847.340184,
