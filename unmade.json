@@ -6481,6 +6481,91 @@
     "time": null,
     "url": "https://www.instagram.com/reel/DAqmQG0yDd1/?igsh=eWE2eGo0d3ByamNp"
   },
+  "lhsjwvtfvs": {
+    "date_created": 1779897215.295809,
+    "date_updated": 1779897215.295809,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "1 packet",
+        "ingredient": "noodles"
+      },
+      {
+        "amount": "½ cup",
+        "ingredient": "finely-chopped basil leaves"
+      },
+      {
+        "amount": "¼ cup",
+        "ingredient": "finely-chopped scallions"
+      },
+      {
+        "amount": "2-4 tbsp",
+        "ingredient": "cilantro/ coriander leaves"
+      },
+      {
+        "amount": "1-2½ tbsp",
+        "ingredient": "grated ginger"
+      },
+      {
+        "amount": "4-5 cloves",
+        "ingredient": "garlic, minced"
+      },
+      {
+        "amount": "2-3 tsp",
+        "ingredient": "gochugaru / chilli flakes"
+      },
+      {
+        "amount": "2-3 tsp",
+        "ingredient": "sesame seeds"
+      },
+      {
+        "amount": "3-4 tbsp",
+        "ingredient": "neutral flavoured oil (you could also swap in a few tbsp of sesame oil)"
+      },
+      {
+        "amount": "1½ tbsp",
+        "ingredient": "light soy sauce"
+      },
+      {
+        "amount": "1½ tbsp",
+        "ingredient": "dark soy sauce"
+      },
+      {
+        "amount": null,
+        "ingredient": "juice of a lemon"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "noodles"
+      ],
+      "cuisine": "korean",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "cold"
+    },
+    "name": "Ten Minute Basil Scallion Oil Noodles",
+    "nutrition": [],
+    "people": null,
+    "preparation": [
+      "Cook noodles of choice according to packet instructions.",
+      "To a heat-proof bowl, add the basil leaves, scallions, cilantro, garlic, ginger, sesame seeds and chilli flakes.",
+      "Heat the oil until sizzling.",
+      "Then pour it over the herby mixture.",
+      "Let it sizzle",
+      "Stir in the soy sauces and lemon juice.",
+      "Give it a good whisk.",
+      "Toss in your cooked noodles, mixing well to combine.",
+      "Garnish with more chopped basil and scallions and DIVE IN!"
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 10,
+    "url": null
+  },
   "liwxdvbfqs": {
     "date_created": 1720268892.476833,
     "date_updated": 1720269096.564337,
