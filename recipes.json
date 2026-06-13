@@ -2500,6 +2500,71 @@
     "time": 30,
     "url": "https://miljuschka.nl/midden-oosten-favoriet-shakshuka/"
   },
+  "fpxasulkpj": {
+    "date_created": 1755116004.098509,
+    "date_updated": 1781341842.556373,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "800 gr",
+        "ingredient": "chicken thighs"
+      },
+      {
+        "amount": "4 tbsp",
+        "ingredient": "kecap manis"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "honey"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": null,
+        "ingredient": "lime"
+      },
+      {
+        "amount": "4",
+        "ingredient": "garlic cloves"
+      },
+      {
+        "amount": null,
+        "ingredient": "knob of ginger"
+      },
+      {
+        "amount": null,
+        "ingredient": "bunch of green onion"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "indian",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Quick kecap chicken",
+    "nutrition": [],
+    "people": null,
+    "preparation": [
+      "Slice the chicken into cubes and mix in a bowl with the soy sauce, kecap manis, lime juice, grated garlic, grated ginger and honey.",
+      "Let marinate as long as you desire (cooking directly is also fine).",
+      "Fry the chicken down in a pan with oil until nice and caramelized.",
+      "Chop the green onion into coarse chucks and throw them in, cook until the chicken is ready.",
+      "Serve with white rice and grilled veggies on the side."
+    ],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/qFOECoR6qWGqKMpw6o0kXlU8tgiaAr-SVPfpLQixaOI-quick-kecap-chicken.webp",
+    "time": 15,
+    "url": "https://www.instagram.com/reel/DLsD4ToKQ_f/?igsh=M3NrZzY5NDF0dWwx"
+  },
   "fvtkpuzgie": {
     "date_created": 1707410201.741958,
     "date_updated": 1710424958.702871,
