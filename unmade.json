@@ -1206,7 +1206,7 @@
       "Before serving, garnish with finely chopped coriander (optional) and enjoy."
     ],
     "remarks": null,
-    "thumbnail": "None",
+    "thumbnail": null,
     "time": 100,
     "url": "https://www.instagram.com/p/C8HSvY0IuRI/?igsh=aTV6dmEzazk1bTR6"
   },
@@ -5744,7 +5744,7 @@
         "ingredient": "olive oil"
       },
       {
-        "amount": "null",
+        "amount": null,
         "ingredient": "water"
       },
       {
@@ -5792,15 +5792,15 @@
         "ingredient": "soft corn tortillas"
       },
       {
-        "amount": "null",
+        "amount": null,
         "ingredient": "Sliced green chilli"
       },
       {
-        "amount": "null",
+        "amount": null,
         "ingredient": "Chopped coriander"
       },
       {
-        "amount": "null",
+        "amount": null,
         "ingredient": "Lime wedges"
       }
     ],
@@ -10192,6 +10192,141 @@
     "thumbnail": "https://scontent-fra5-1.cdninstagram.com/v/t51.29350-15/446843361_1670398433727923_2815968371136116648_n.jpg?stp=cmp1_dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=18de74&_nc_ohc=0w8fCaEWqaEQ7kNvgGebbQ0&_nc_ht=scontent-fra5-1.cdninstagram.com&oh=00_AYBZGhX6HI3bcVthHdSRfBPNcVdNMj2MPJfTDXAlsSqNCQ&oe=6661CB11",
     "time": 60,
     "url": "https://www.instagram.com/reel/C7mfi5xoXx1/?igsh=dTFxaDA4a2VyYjhs"
+  },
+  "qjvtqxrxfo": {
+    "date_created": 1786308097.507339,
+    "date_updated": 1786308097.507355,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "# For the broth"
+      },
+      {
+        "amount": "½ tbsp",
+        "ingredient": "neutral oil"
+      },
+      {
+        "amount": "1",
+        "ingredient": "garlic clove, minced"
+      },
+      {
+        "amount": "½ thumb-sized piece",
+        "ingredient": "ginger, grated"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "red curry paste"
+      },
+      {
+        "amount": "1 heaped tsp",
+        "ingredient": "peanut butter (or sesame paste)"
+      },
+      {
+        "amount": "1 tsp",
+        "ingredient": "miso paste"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "soy sauce (or more to taste)"
+      },
+      {
+        "amount": "2 cups",
+        "ingredient": "chicken stock"
+      },
+      {
+        "amount": "½ cup",
+        "ingredient": "soy milk (or coconut milk)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Shiitake Mushrooms, sliced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Bok choy, halved/ sliced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Instant Ramen noodles"
+      },
+      {
+        "amount": null,
+        "ingredient": "Clean, Uncracked Eggs* (see note)"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For the mince:"
+      },
+      {
+        "amount": "1/2 pack (~250g)",
+        "ingredient": "lean mince of choice"
+      },
+      {
+        "amount": null,
+        "ingredient": "OR shredded tofu for a vegetarian version"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "oyster sauce"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "dark soy sauce"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "sweet chilli sauce (or honey)"
+      },
+      {
+        "amount": null,
+        "ingredient": "# To serve (optional):"
+      },
+      {
+        "amount": null,
+        "ingredient": "Spring onion, sliced"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sesame seeds"
+      },
+      {
+        "amount": null,
+        "ingredient": "Chilli oil (optional)"
+      },
+      {
+        "amount": null,
+        "ingredient": "Kimchi"
+      },
+      {
+        "amount": null,
+        "ingredient": "Lime wedge"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "other"
+      ],
+      "cuisine": null,
+      "language": null,
+      "meal_type": "other",
+      "meat_type": [
+        "other"
+      ],
+      "temperature": "any"
+    },
+    "name": "One-Pot “Lazy Ramen”",
+    "nutrition": [],
+    "people": 2,
+    "preparation": [],
+    "remarks": "*Food Safety Note 🥚👀: Although the risk is considered very low in Australia, eggshells can occasionally be contaminated with bacteria such as Salmonella. Always use clean, uncracked eggs and ensure the broth reaches a rolling boil (100°C / 212°F) for long enough to cook the eggs. If you're pregnant, immunocompromised, or preparing food for someone at higher risk, ensure the eggs are thoroughly cooked. Or, if you prefer, simply boil the eggs separately and add them to your ramen at the end. 🙌\r\n\r\n#ramen #lazyramen #fakeaway #easydinner #healthydinner",
+    "thumbnail": null,
+    "time": null,
+    "url": "https://www.instagram.com/reels/DaxJiqXRshs/"
   },
   "qkmkxeqslb": {
     "date_created": 1729800455.547919,
