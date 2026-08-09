@@ -2598,7 +2598,7 @@
   },
   "fpxasulkpj": {
     "date_created": 1755116004.098509,
-    "date_updated": 1786311019.194272,
+    "date_updated": 1786311056.482875,
     "igcode": null,
     "ingredients": [
       {
@@ -2632,6 +2632,22 @@
       {
         "amount": null,
         "ingredient": "bunch of green onion"
+      },
+      {
+        "amount": null,
+        "ingredient": "# Veggies on the side"
+      },
+      {
+        "amount": "4",
+        "ingredient": "bell peppers"
+      },
+      {
+        "amount": "2",
+        "ingredient": "onions"
+      },
+      {
+        "amount": "400gr",
+        "ingredient": "vegetable mix"
       }
     ],
     "meta": {
