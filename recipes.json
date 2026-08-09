@@ -2598,7 +2598,7 @@
   },
   "fpxasulkpj": {
     "date_created": 1755116004.098509,
-    "date_updated": 1781341842.556373,
+    "date_updated": 1786311019.194272,
     "igcode": null,
     "ingredients": [
       {
@@ -2648,7 +2648,7 @@
     },
     "name": "Quick kecap chicken",
     "nutrition": [],
-    "people": null,
+    "people": 6,
     "preparation": [
       "Slice the chicken into cubes and mix in a bowl with the soy sauce, kecap manis, lime juice, grated garlic, grated ginger and honey.",
       "Let marinate as long as you desire (cooking directly is also fine).",
