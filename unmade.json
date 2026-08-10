@@ -2961,6 +2961,95 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C12AkaFMNKy/?igsh=ODZ5MWZ3OGI0Znk2"
   },
+  "efnpxgzmtr": {
+    "date_created": 1786389189.575103,
+    "date_updated": 1786389189.575109,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "4-5 pieces",
+        "ingredient": "Tomatoes"
+      },
+      {
+        "amount": "1-2 pieces",
+        "ingredient": "Shallots"
+      },
+      {
+        "amount": "2 cloves",
+        "ingredient": "Garlic"
+      },
+      {
+        "amount": "big pinch",
+        "ingredient": "Salt"
+      },
+      {
+        "amount": "a pinch",
+        "ingredient": "Black pepper"
+      },
+      {
+        "amount": "4 tbsp",
+        "ingredient": "Balsamic Vinegar"
+      },
+      {
+        "amount": "3 tbsp",
+        "ingredient": "Honey"
+      },
+      {
+        "amount": "a small bunch",
+        "ingredient": "Basil"
+      },
+      {
+        "amount": "1 sheet",
+        "ingredient": "Puff pastry"
+      },
+      {
+        "amount": "1 tbsp",
+        "ingredient": "Olive oil"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "eastern",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "room temperature"
+    },
+    "name": "Tomatatin",
+    "nutrition": [
+      {
+        "amount": "25g",
+        "group": "carbs"
+      },
+      {
+        "amount": "25g",
+        "group": "protein"
+      },
+      {
+        "amount": "15g",
+        "group": "fats"
+      },
+      {
+        "amount": "15mg",
+        "group": "vitaminC"
+      }
+    ],
+    "people": 4,
+    "preparation": [
+      "Fry Tomatoes and Shallots in olive oil with salt for 5 minutes to extract moisture.",
+      "Add garlic, black pepper, honey, and balsamic vinegar, let simmer for 5 minutes without stirring.",
+      "Turn off heat, add basil, cover with puff pastry, make holes with a fork, and bake at 190°C for 25 minutes.",
+      "Let rest for 5 minutes, then serve on a plate, optionally scraping edges."
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": 60,
+    "url": "https://www.instagram.com/p/DaLOkivKUL3/"
+  },
   "ejqtapgkho": {
     "date_created": 1755115697.238433,
     "date_updated": 1755115697.238433,
