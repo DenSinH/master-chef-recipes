@@ -7386,7 +7386,7 @@
   },
   "rjhvhonrou": {
     "date_created": 1786797980.253445,
-    "date_updated": 1786803296.272731,
+    "date_updated": 1786803304.058736,
     "igcode": null,
     "ingredients": [
       {
@@ -7438,7 +7438,7 @@
       "language": "nl",
       "meal_type": "other",
       "meat_type": [
-        "other"
+        "vegetarian"
       ],
       "temperature": "room temperature"
     },
