@@ -7384,6 +7384,73 @@
     "time": 54,
     "url": "https://www.bbcgoodfood.com/recipes/next-level-fried-chicken"
   },
+  "rjhvhonrou": {
+    "date_created": 1786797980.253445,
+    "date_updated": 1786797980.253451,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "500gr",
+        "ingredient": "havermout"
+      },
+      {
+        "amount": "75gr",
+        "ingredient": "gebroken lijnzaad"
+      },
+      {
+        "amount": "30gr",
+        "ingredient": "gepofte quinoa"
+      },
+      {
+        "amount": "50gr",
+        "ingredient": "gehakte pompoenpitten"
+      },
+      {
+        "amount": "100gr",
+        "ingredient": "zaden en pitten mix"
+      },
+      {
+        "amount": "40gr",
+        "ingredient": "gepofte spelt"
+      },
+      {
+        "amount": "2 kleine handjes",
+        "ingredient": "gehakte hazelnoten"
+      },
+      {
+        "amount": "200gr",
+        "ingredient": "holies crunchy muesli"
+      },
+      {
+        "amount": "Wat",
+        "ingredient": "chocolade"
+      },
+      {
+        "amount": "20gr",
+        "ingredient": "kokossnippers"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "rice"
+      ],
+      "cuisine": "italian",
+      "language": "nl",
+      "meal_type": "other",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "any"
+    },
+    "name": "Merel's havermout mix",
+    "nutrition": [],
+    "people": null,
+    "preparation": [],
+    "remarks": null,
+    "thumbnail": null,
+    "time": null,
+    "url": null
+  },
   "rpivrdccsl": {
     "date_created": 1731709268.508468,
     "date_updated": 1735824272.073542,
