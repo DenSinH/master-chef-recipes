@@ -7386,7 +7386,7 @@
   },
   "rjhvhonrou": {
     "date_created": 1786797980.253445,
-    "date_updated": 1786797980.253451,
+    "date_updated": 1786797996.589121,
     "igcode": null,
     "ingredients": [
       {
@@ -7440,7 +7440,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "any"
+      "temperature": "room temperature"
     },
     "name": "Merel's havermout mix",
     "nutrition": [],
