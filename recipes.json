@@ -7386,7 +7386,7 @@
   },
   "rjhvhonrou": {
     "date_created": 1786797980.253445,
-    "date_updated": 1786801513.933524,
+    "date_updated": 1786803273.652122,
     "igcode": null,
     "ingredients": [
       {
@@ -7434,7 +7434,7 @@
       "carb_type": [
         "rice"
       ],
-      "cuisine": "italian",
+      "cuisine": "other",
       "language": "nl",
       "meal_type": "other",
       "meat_type": [
