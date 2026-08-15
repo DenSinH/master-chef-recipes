@@ -7386,7 +7386,7 @@
   },
   "rjhvhonrou": {
     "date_created": 1786797980.253445,
-    "date_updated": 1786803273.652122,
+    "date_updated": 1786803296.272731,
     "igcode": null,
     "ingredients": [
       {
@@ -7432,13 +7432,13 @@
     ],
     "meta": {
       "carb_type": [
-        "rice"
+        "legumes"
       ],
       "cuisine": "other",
       "language": "nl",
       "meal_type": "other",
       "meat_type": [
-        "chicken"
+        "other"
       ],
       "temperature": "room temperature"
     },
