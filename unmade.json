@@ -7548,6 +7548,97 @@
     "time": null,
     "url": "https://www.instagram.com/reel/C_gp9oXPMNq/?igsh=MXBkMGk5Zjhod3o2MA=="
   },
+  "mblwcackcg": {
+    "date_created": 1787155371.181396,
+    "date_updated": 1787155371.181404,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "650 g",
+        "ingredient": "kipdijfilet"
+      },
+      {
+        "amount": "5",
+        "ingredient": "sjalotten"
+      },
+      {
+        "amount": "4",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "3",
+        "ingredient": "rode lomboks"
+      },
+      {
+        "amount": "3 cm",
+        "ingredient": "verse gember"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "trassi"
+      },
+      {
+        "amount": "3",
+        "ingredient": "gebrande kemirinoten"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "water"
+      },
+      {
+        "amount": "2 stengels",
+        "ingredient": "sereh (citroengras)"
+      },
+      {
+        "amount": "3",
+        "ingredient": "salambladeren"
+      },
+      {
+        "amount": "2 bladeren",
+        "ingredient": "djeroek poeroet (kaffir limeleaves)"
+      },
+      {
+        "amount": "3 el",
+        "ingredient": "ketjap manis"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "gula djawa"
+      },
+      {
+        "amount": "1",
+        "ingredient": "tomaat"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "water óf kokosmelk"
+      },
+      {
+        "amount": null,
+        "ingredient": "limoensap"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "indian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "any"
+    },
+    "name": "Ayam Bumbu Bali",
+    "nutrition": [],
+    "people": 4,
+    "preparation": [],
+    "remarks": null,
+    "thumbnail": null,
+    "time": null,
+    "url": "https://www.instagram.com/reel/DbnwLstNs5-/?igsh=MXQzZXZxbGEyeHJleA=="
+  },
   "mewtcviubp": {
     "date_created": 1739294582.078683,
     "date_updated": 1739294582.078683,
