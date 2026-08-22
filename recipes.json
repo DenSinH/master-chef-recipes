@@ -4156,6 +4156,97 @@
     "time": 20,
     "url": "https://miljuschka.nl/eenpansgerecht-romige-gnocchi-met-spinazie-en-champignons/"
   },
+  "jpbhoxosjx": {
+    "date_created": 1787155371.181396,
+    "date_updated": 1787403788.871098,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "650 g",
+        "ingredient": "kipdijfilet"
+      },
+      {
+        "amount": "5",
+        "ingredient": "sjalotten"
+      },
+      {
+        "amount": "4",
+        "ingredient": "tenen knoflook"
+      },
+      {
+        "amount": "3",
+        "ingredient": "rode lomboks"
+      },
+      {
+        "amount": "3 cm",
+        "ingredient": "verse gember"
+      },
+      {
+        "amount": "1 tl",
+        "ingredient": "trassi"
+      },
+      {
+        "amount": "3",
+        "ingredient": "gebrande kemirinoten"
+      },
+      {
+        "amount": "100 ml",
+        "ingredient": "water"
+      },
+      {
+        "amount": "2 stengels",
+        "ingredient": "sereh (citroengras)"
+      },
+      {
+        "amount": "3",
+        "ingredient": "salambladeren"
+      },
+      {
+        "amount": "2 bladeren",
+        "ingredient": "djeroek poeroet (kaffir limeleaves)"
+      },
+      {
+        "amount": "3 el",
+        "ingredient": "ketjap manis"
+      },
+      {
+        "amount": "1 el",
+        "ingredient": "gula djawa"
+      },
+      {
+        "amount": "1",
+        "ingredient": "tomaat"
+      },
+      {
+        "amount": "200 ml",
+        "ingredient": "water óf kokosmelk"
+      },
+      {
+        "amount": null,
+        "ingredient": "limoensap"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "none"
+      ],
+      "cuisine": "indian",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "chicken"
+      ],
+      "temperature": "any"
+    },
+    "name": "Ayam Bumbu Bali",
+    "nutrition": [],
+    "people": 4,
+    "preparation": [],
+    "remarks": null,
+    "thumbnail": "https://cdn.dennishilhorst.nl/cookbook/v5dnac3OhQp2fp9L2ZScmLziQHkrLymjNzzwf_P41zM-ayam-bumbu-bali.webp",
+    "time": null,
+    "url": "https://www.instagram.com/reel/DbnwLstNs5-/?igsh=MXQzZXZxbGEyeHJleA=="
+  },
   "jttijruome": {
     "date_created": 1711269603.246204,
     "date_updated": 1711269738.777157,
