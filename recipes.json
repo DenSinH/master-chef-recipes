@@ -4158,7 +4158,7 @@
   },
   "jpbhoxosjx": {
     "date_created": 1787155371.181396,
-    "date_updated": 1787403788.871098,
+    "date_updated": 1787403866.067442,
     "igcode": null,
     "ingredients": [
       {
@@ -4236,7 +4236,7 @@
       "meat_type": [
         "chicken"
       ],
-      "temperature": "any"
+      "temperature": "warm"
     },
     "name": "Ayam Bumbu Bali",
     "nutrition": [],
