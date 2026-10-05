@@ -8182,14 +8182,14 @@
   },
   "nfbriungpd": {
     "date_created": 1791214149.764432,
-    "date_updated": 1791214149.764437,
+    "date_updated": 1791214601.817243,
     "igcode": null,
     "ingredients": [],
     "meta": {
       "carb_type": [
         "noodles"
       ],
-      "cuisine": "italian",
+      "cuisine": "other",
       "language": "en",
       "meal_type": "main",
       "meat_type": [
