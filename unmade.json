@@ -9512,7 +9512,7 @@
   },
   "pfsdleovkf": {
     "date_created": 1791214116.136773,
-    "date_updated": 1791214116.13678,
+    "date_updated": 1791214589.801423,
     "igcode": null,
     "ingredients": [
       {
@@ -9644,7 +9644,7 @@
       "carb_type": [
         "legumes"
       ],
-      "cuisine": "italian",
+      "cuisine": "other",
       "language": "nl",
       "meal_type": "main",
       "meat_type": [
