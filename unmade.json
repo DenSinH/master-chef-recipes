@@ -6262,7 +6262,7 @@
   },
   "kktqfvrsgo": {
     "date_created": 1791214531.691447,
-    "date_updated": 1791214543.748147,
+    "date_updated": 1791214615.838512,
     "igcode": null,
     "ingredients": [
       {
@@ -6342,7 +6342,7 @@
       "carb_type": [
         "noodles"
       ],
-      "cuisine": "italian",
+      "cuisine": "other",
       "language": "en",
       "meal_type": "main",
       "meat_type": [
