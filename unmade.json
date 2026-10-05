@@ -14256,7 +14256,7 @@
   },
   "vtwlprymdl": {
     "date_created": 1791214683.646739,
-    "date_updated": 1791214683.646745,
+    "date_updated": 1791214704.172062,
     "igcode": null,
     "ingredients": [
       {
@@ -14332,7 +14332,7 @@
       "carb_type": [
         "rice"
       ],
-      "cuisine": "italian",
+      "cuisine": "other",
       "language": "en",
       "meal_type": "main",
       "meat_type": [
