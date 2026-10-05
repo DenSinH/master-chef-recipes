@@ -4840,6 +4840,281 @@
     "time": 45,
     "url": "https://www.instagram.com/reel/C2z4YFNM9KH/?igsh=MWUxb2JiYWF2bDBxYQ=="
   },
+  "ienajyvdbv": {
+    "date_created": 1791214907.99939,
+    "date_updated": 1791214907.999396,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": null,
+        "ingredient": "# For the Sumac Onion Topping"
+      },
+      {
+        "amount": "1/2",
+        "ingredient": "large red onion , thinly sliced"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "sumac"
+      },
+      {
+        "amount": "Juice of 1/2 to 1",
+        "ingredient": "lemon"
+      },
+      {
+        "amount": "Pinch",
+        "ingredient": "salt , or to taste"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For the Garlic Sauce"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "mayonnaise or vegan mayonnaise"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "garlic paste"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "1/4 teaspoon",
+        "ingredient": "salt , or to taste"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For the Tofu Boiling Marinade"
+      },
+      {
+        "amount": "4 cups",
+        "ingredient": "water"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "soy sauce"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "vegetable bouillon paste"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "liquid smoke"
+      },
+      {
+        "amount": "14 ounces",
+        "ingredient": "extra-firm tofu , drained and cut or torn into shawarma-style pieces"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For the Yogurt Marinade"
+      },
+      {
+        "amount": "1/4 cup",
+        "ingredient": "plain yogurt or unsweetened vegan yogurt"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "olive oil"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "double-concentrated tomato paste"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "lemon juice"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "garlic paste"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "ginger paste"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "paprika"
+      },
+      {
+        "amount": "1 teaspoon",
+        "ingredient": "hot sauce , such as Frank’s RedHot"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "sumac"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "ground coriander"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "salt"
+      },
+      {
+        "amount": "1/4 teaspoon",
+        "ingredient": "ground cumin"
+      },
+      {
+        "amount": "1/4 teaspoon",
+        "ingredient": "white pepper"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For the Red Sauce"
+      },
+      {
+        "amount": "2 tablespoons",
+        "ingredient": "vegan butter , melted"
+      },
+      {
+        "amount": "1 tablespoon",
+        "ingredient": "hot sauce , such as Frank’s RedHot"
+      },
+      {
+        "amount": "1/2 tablespoon",
+        "ingredient": "ketchup"
+      },
+      {
+        "amount": "1/2 teaspoon",
+        "ingredient": "smoked paprika"
+      },
+      {
+        "amount": null,
+        "ingredient": "# For Assembling"
+      },
+      {
+        "amount": "2",
+        "ingredient": "large flour tortillas"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sliced pickles , optional"
+      },
+      {
+        "amount": null,
+        "ingredient": "Shredded lettuce , optional"
+      },
+      {
+        "amount": null,
+        "ingredient": "Sliced tomatoes , optional"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "other",
+      "language": "en",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Crispy Vegan Shawarma Wrap",
+    "nutrition": [
+      {
+        "amount": "419 kcal",
+        "group": "Calories"
+      },
+      {
+        "amount": "32 g",
+        "group": "Carbohydrates"
+      },
+      {
+        "amount": "22 g",
+        "group": "Protein"
+      },
+      {
+        "amount": "23 g",
+        "group": "Fat"
+      },
+      {
+        "amount": "5 g",
+        "group": "Saturated Fat"
+      },
+      {
+        "amount": "6 g",
+        "group": "Polyunsaturated Fat"
+      },
+      {
+        "amount": "10 g",
+        "group": "Monounsaturated Fat"
+      },
+      {
+        "amount": "0.1 g",
+        "group": "Trans Fat"
+      },
+      {
+        "amount": "3703 mg",
+        "group": "Sodium"
+      },
+      {
+        "amount": "654 mg",
+        "group": "Potassium"
+      },
+      {
+        "amount": "3 g",
+        "group": "Fiber"
+      },
+      {
+        "amount": "7 g",
+        "group": "Sugar"
+      },
+      {
+        "amount": "1434 IU",
+        "group": "Vitamin A"
+      },
+      {
+        "amount": "19 mg",
+        "group": "Vitamin C"
+      },
+      {
+        "amount": "165 mg",
+        "group": "Calcium"
+      },
+      {
+        "amount": "5 mg",
+        "group": "Iron"
+      }
+    ],
+    "people": 2,
+    "preparation": [
+      "Prepare the sumac onions: Add the thinly sliced red onion, sumac, lemon juice, and salt to a small bowl. Massage everything together with clean hands for about 30 seconds, then set aside while you prepare the remaining ingredients.",
+      "Make the garlic sauce: In a small bowl, stir together the mayonnaise, garlic paste, lemon juice, and salt until smooth. Taste and adjust the salt or lemon juice as needed. Refrigerate until ready to assemble the wraps.",
+      "Shape the tofu: Tear or slice the tofu into thin, irregular pieces. Irregular edges will become crispier during cooking and give the tofu a more shawarma-like texture.",
+      "Boil the tofu: Add the water, soy sauce, vegetable bouillon paste, and liquid smoke to a large saucepan. Stir and bring the mixture to a boil. Add the tofu and boil for 7 to 10 minutes.",
+      "Cool the tofu: Carefully drain the tofu and allow it to cool for several minutes. Cooling the tofu makes it easier to handle and helps the yogurt marinade cling more effectively.",
+      "Make the yogurt marinade: In a medium bowl, whisk together the yogurt, olive oil, tomato paste, lemon juice, garlic paste, ginger paste, paprika, hot sauce, sumac, coriander, salt, cumin, and white pepper.",
+      "Coat the tofu: Add the cooled tofu to the yogurt marinade and gently toss until every piece is evenly coated.",
+      "Air-fry the tofu: Arrange the tofu in a single layer in the air-fryer basket. Lightly spray with oil and air fry at 400°F for about 12 to 15 minutes, flipping or shaking halfway through, until browned and crisp around the edges.",
+      "Make the red sauce: In a small bowl, mix the melted vegan butter, hot sauce, ketchup, and smoked paprika until smooth.",
+      "Assemble the wraps: Spread the garlic sauce over each tortilla. Add the tofu, sumac onions, sliced pickles, and any additional fillings you prefer. Fold in the sides and roll each tortilla tightly into a wrap.",
+      "Brush and crisp: Heat a skillet over medium heat. Brush the outside of each wrap with a thin layer of red sauce, then place it seam-side down in the skillet. Cook until golden and crisp, then turn and crisp the remaining sides.",
+      "Add another layer, optional: For a stronger, saucier coating, brush the wraps with a second layer of red sauce and return them to the skillet for another brief round of crisping.",
+      "Serve: Slice the wraps in half and serve immediately with additional garlic sauce on the side.",
+      "Preheat the oven to 425°F and line a large baking sheet with parchment paper. Arrange the marinated tofu in a single layer and lightly spray it with oil. Bake for 20 to 25 minutes, flipping halfway through, until browned and crisp around the edges.",
+      "Boiling the tofu: Boiling helps firm the tofu’s protein structure, creating a chewier, more substantial texture. It also seasons the tofu from the inside before the yogurt marinade is added.",
+      "Use extra-firm tofu: Extra-firm tofu holds its shape best during boiling, marinating, and air frying.",
+      "Do not overcrowd the air fryer: Leave room around the tofu pieces so hot air can circulate. Cook in batches when necessary.",
+      "Adjust the lemon in the onions: Start with half a lemon, then add more depending on how tangy and juicy you want the onion topping.",
+      "Double the garlic sauce: The listed amount is enough for two wraps, but doubling it gives you plenty for spreading and dipping.",
+      "Use a thin layer of red sauce: Too much sauce at once can make the tortilla soggy or cause the butter to burn. Apply a thin coat, crisp the wrap, then repeat if desired.",
+      "Storage: Store the tofu, onions, garlic sauce, and tortillas separately in airtight containers. The tofu will keep in the refrigerator for up to 4 days.",
+      "Reheating: Reheat the tofu in the air fryer at 375°F for 3 to 5 minutes. Fully assembled wraps can be reheated in a skillet over medium-low heat until hot and crisp."
+    ],
+    "remarks": null,
+    "thumbnail": "https://shreyaskitchen.com/wp-content/uploads/2026/07/Vegan-Shawarma-4.jpg",
+    "time": 405,
+    "url": "https://shreyaskitchen.com/vegan-shawarma/"
+  },
   "igbwmzvfib": {
     "date_created": 1705862288.9207,
     "date_updated": 1705862288.9207,
