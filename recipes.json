@@ -9351,6 +9351,91 @@
     "time": 20,
     "url": "https://www.eefkooktzo.nl/wrap-mango-en-kip/"
   },
+  "vhytftrfvz": {
+    "date_created": 1794851609.397326,
+    "date_updated": 1794851609.397348,
+    "igcode": null,
+    "ingredients": [
+      {
+        "amount": "1",
+        "ingredient": "blok firm tofu"
+      },
+      {
+        "amount": "600 gram",
+        "ingredient": "kastanje champignon"
+      },
+      {
+        "amount": "1",
+        "ingredient": "grote gele ui"
+      },
+      {
+        "amount": "3 teentjes",
+        "ingredient": "knoflook"
+      },
+      {
+        "amount": "1 blik",
+        "ingredient": "zwarte bonen"
+      },
+      {
+        "amount": null,
+        "ingredient": "chipotle peper in saus of chipotlesaus"
+      },
+      {
+        "amount": "2",
+        "ingredient": "tomaten"
+      },
+      {
+        "amount": "een pakje",
+        "ingredient": "tomato frito"
+      },
+      {
+        "amount": null,
+        "ingredient": "sojasaus"
+      },
+      {
+        "amount": null,
+        "ingredient": "kruiden: paprikapoeder, gerookt paprikapoeder, chilipoeder, knoflook en uienpoeder, komijn, peper en zout"
+      },
+      {
+        "amount": null,
+        "ingredient": "maistortilla’s"
+      },
+      {
+        "amount": null,
+        "ingredient": "geraspte kaas"
+      }
+    ],
+    "meta": {
+      "carb_type": [
+        "wraps"
+      ],
+      "cuisine": "mexican",
+      "language": "nl",
+      "meal_type": "main",
+      "meat_type": [
+        "vegetarian"
+      ],
+      "temperature": "warm"
+    },
+    "name": "Tofu Tacos",
+    "nutrition": [],
+    "people": 4,
+    "preparation": [
+      "verkruimel de tofu, meng met een scheut sojasaus, wat van de kruiden, olijfolie en leg het in de oven op 180 graden. Mix af en toe totdat het goudbruin en knapperig is.",
+      "snijd de ui fijn en doe deze met wat olie in de pan.",
+      "snijd ondertussen de champignons en de knoflook fijn en gooi ze in de pan. Laat dit aanbakken totdat alles zacht is en het water verdampt.",
+      "Gooi er wat van de kruiden bij en doe de bonen erbij. Roer door.",
+      "doe de tomatenpasta, chipotle, en tomaten in stukken gesneden in de pan. Doe er nog meer kruiden bij op smaak",
+      "Laat dit inkoken totdat het minder vloeibaar is. Gooi vlak voordat je klaar bent de tofu erdoorheen en mix",
+      "Leg de maistortilla in een warme koekenpan en bedek deze met wat geraspte kaas.",
+      "leg de vulling erop en vouw dubbel / leg er een tweede tortilla op. Bak beide kanten bruin en knapperig",
+      "Serveer met tomatensalsa, ijsbergsla, ingelegde rode ui en een frisse yoghurtsaus (met chipotle en limoen bijvoorbeeld)"
+    ],
+    "remarks": null,
+    "thumbnail": null,
+    "time": null,
+    "url": null
+  },
   "vjsiopdaqj": {
     "date_created": 1765970798.79899,
     "date_updated": 1766923592.544843,
